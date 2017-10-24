@@ -56,3 +56,11 @@ destroyed when the power returns but those who have helped it will be kings and
 weild power the likes of which they can only imagine. I know which path I am
 going to choose. Find me and perhaps we can go down it together.
 
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original may be viewed at http://darkages.com/community/phi/Alaister_Loures.html .
+```
