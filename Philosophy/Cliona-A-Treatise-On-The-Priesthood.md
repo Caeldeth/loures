@@ -191,9 +191,12 @@ spread this knowledge to the youngest of us, tell them what you have heard
 here, the merits to following the light, to avoiding the realm of Sgrios, and
 saving others from the same fate.
 
+***
+
 ```
 *Librarian Notes*
 
 This entry has been heavily edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/phi/Cliona_Priest.html .
 ```
+
