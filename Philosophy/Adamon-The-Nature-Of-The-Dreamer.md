@@ -53,17 +53,17 @@ the aisling are innumerable and ever-varied. The ordinary is transmogrified
 into the extroadinary, and via this metamorphosis, the aisling is able to tap
 an even greater source of inspiration. The seemingly simple is for some a
 virtual well of inspiration - their spark is strongest.
-  
+
 _As a child, they could not keep me from wells  
 And old [ropes] with buckets and windlasses.  
 I loved the dark drop, the trapped sky, the smells  
-Of waterweed, fungus and dank moss.  
-  
+Of waterweed, fungus and dank moss._  
+
 _Others had echoes, gave back your own call  
 With a clean new music in it.  
 I rhyme...  
-To see myself, to set the darkness echoing.  
-  
+To see myself, to set the darkness echoing._
+
 While the nature of the dreamings are infinite, within each aisling is the
 fundemental essence of the Light. Path, creed, religion and politics are all
 immaterial. In fashioning gems, the children of Fiosachd work to turn something
