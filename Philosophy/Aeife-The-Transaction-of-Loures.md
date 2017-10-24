@@ -287,3 +287,12 @@ the king is also mundane, and that Aislings, although the bearers of light, can
 do no more than first protect the land in which they aspire to reach the sky.
 
 _~Compiled by Aeife_
+
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original may be viewed at http://darkages.com/community/phi/Aeife_Loures.html .
+```
