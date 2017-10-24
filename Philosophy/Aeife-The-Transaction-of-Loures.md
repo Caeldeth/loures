@@ -110,7 +110,7 @@ specialties, and Loures is no different.
 
 ## Abel
 
-To the east of Mileth lies the trading post of Abel. As a port, Abel�s main
+To the east of Mileth lies the trading post of Abel. As a port, Abel's main
 commerce is trade, and indeed it is the trading center of the known world. From
 its position alongside the sea, Abel boasts much of the main means of
 transportation to the kingdoms outside of Mileth: ships. Merchants from far
@@ -244,7 +244,7 @@ change, to seemingly left her behind.
 
 With her place in the modern world and society contrasting strongly to the
 image Loures transfixed on the people in history, an overwhelming desire to
-reclaim that power resulted. Once dominating the steps of its people�s destiny,
+reclaim that power resulted. Once dominating the steps of its people's destiny,
 she has found to her dismay that her influence has slowly dwindled compared to
 the rising light of the Aisling population. As other scholars have put it
 simply, she has, among the eyes of the cruelly wronged mundanes in Undine and
@@ -258,7 +258,7 @@ as romantic god Deoch, had its own special significance. All except Loures it
 seemed. The god Gramail, although fitting for Loures, is as the faery priestess
 of Suomi said, the weakest of the gods who was hardly recognized except after
 the appearance of the Shrines. To the magnificent city of Loures, it was a
-horrible hint of her decline � a world in which her power did not exist.
+horrible hint of her decline - a world in which her power did not exist.
 
 As stated in the evaluation of each city, there is very little chance of Loures
 making history by attempting to conquer. Everything that could be done without
