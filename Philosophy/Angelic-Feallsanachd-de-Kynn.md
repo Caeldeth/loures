@@ -4,7 +4,7 @@ _(The Philosophy of Love)_
 
 _Author: Angelic Stedwinn_  
 
-![Image of the author](images/angelicsketch.gif)  
+![Image of the author](images/Angelic-Author-Sketch.png)  
 
 _Bookbinding: Bentic Stedwinn_  
 
@@ -240,7 +240,11 @@ Let us all embrace each other with love, and live as friends...
 
 _Angelic Stedwinn_   
 
+***
+
 ```
-N.B. This entry has been heavily edited to match the Library formatting.
-The original may be viewed in its entirety at http://darkages.com/community/phi/Angelic_Love/ .
+*Librarian Notes*
+
+This entry has been heavily edited to conform to Library formatting.
+The original may be viewed at http://darkages.com/community/phi/Angelic_Love/ .
 ```
