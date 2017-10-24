@@ -4,7 +4,7 @@ _(The Philosophy of Love)_
 
 _Author: Angelic Stedwinn_  
 
-![](angelicsketch.gif)  
+![Image of the author](images/angelicsketch.gif)  
 
 _Bookbinding: Bentic Stedwinn_  
 
