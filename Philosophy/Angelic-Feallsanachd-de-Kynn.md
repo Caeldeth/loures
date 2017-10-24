@@ -241,7 +241,6 @@ Let us all embrace each other with love, and live as friends...
 _Angelic Stedwinn_   
 
 ```
-N.B. This entry has been heavily edited to match the Library formatting. The
-original may be viewed in its entirety at
-http://darkages.com/community/phi/Angelic_Love/.
+N.B. This entry has been heavily edited to match the Library formatting.
+The original may be viewed in its entirety at http://darkages.com/community/phi/Angelic_Love/ .
 ```
