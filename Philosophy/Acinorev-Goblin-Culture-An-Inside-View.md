@@ -208,3 +208,13 @@ a whole undoubtedly has something in store for us, but perhaps they should
 watch their backs as well, as one of them speaks with Mundanes instead of
 killing them on sight.
 
+***
+
+```
+*Librarian Notes*
+
+This entry has been heavily edited to conform to Library formatting.
+The original can be found at http://www.darkages.com/community/phi/Acinorev_Goblin.html .
+```
+
+
