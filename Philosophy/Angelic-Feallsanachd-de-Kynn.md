@@ -1,4 +1,4 @@
-# _**Feallsanachd de Kynn**_  
+# Feallsanachd de Kynn
 
 _(The Philosophy of Love)_  
 
@@ -8,7 +8,7 @@ _Author: Angelic Stedwinn_
 
 _Bookbinding: Bentic Stedwinn_  
 
-_Library Copy by The Loures Library Markdown Subcommittee_  
+_(Library Copy by The Loures Library Markdown Subcommittee)_  
 
 _To show love, is to spread love. To show kindness, is to spread kindness. To
 embrace the light, and allow it to flow through you, is to become a beacon in
@@ -222,7 +222,7 @@ can help others as well. Yet be careful, if you feel that your heart can not
 bear the strain, then don't push it too far. We are all different, even though
 we are all so similar.
 
-### Conclusion
+## Conclusion
 
 To show love, is to spread love. To show kindness, is to spread kindness. To
 embrace the light, and allow it to flow through you, is to become a beacon in
@@ -238,10 +238,8 @@ as it can drive out the shadow of darkness. It is my solemn belief that this is
 the best way any person can live; accepting, loving, kind, and compassionate.
 Let us all embrace each other with love, and live as friends...   
 
-_~Angelic Stedwinn~_   
+_Angelic Stedwinn_   
 
-```
-N.B. This entry has been heavily edited to match the Library formatting.
-The original may be viewed in its entirety
-[here](http://darkages.com/community/phi/Angelic_Love/).
-```
+```N.B. This entry has been heavily edited to match the Library formatting. The
+original may be viewed in its entirety at
+http://darkages.com/community/phi/Angelic_Love/). ```
