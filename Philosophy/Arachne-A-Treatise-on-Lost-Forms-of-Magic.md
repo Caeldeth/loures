@@ -113,3 +113,11 @@ in my search._
 _Submitted Humbly,_  
 _Arachne of Mileth_  
 
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original may be viewed at http://darkages.com/community/phi/Arachne_Magic.html .
+```
