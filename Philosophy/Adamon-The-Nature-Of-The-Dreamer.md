@@ -103,3 +103,11 @@ I-Ching, the Dark Ages Manual (specifically - Temuair Pantheon) or the poem
 "Personal Helicon" by Seamus Heaney)).
 ```
 
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original may be viewed at http://darkages.com/community/phi/Adamon_Dreamer.html .
+```
