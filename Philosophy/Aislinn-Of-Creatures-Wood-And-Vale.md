@@ -192,3 +192,12 @@ those vales recognize in some dim way the superior creatures, and leave to them
 to attack and to roar as they have done in the lighter vales. And that one day
 the greatest of the creatures would finally realize in vain that we indeed, in
 time, have become greater than they have.
+
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original may be viewed at http://darkages.com/community/phi/Aislinn_Creature.html .
+```
