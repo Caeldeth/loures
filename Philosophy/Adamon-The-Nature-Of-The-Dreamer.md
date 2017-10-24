@@ -93,12 +93,13 @@ There is a myriad of possibilities.
 
 Written by:
 
-_Adamon_
-_House Asterias_
-_Priest of Deoch_
+_Adamon  
+House Asterias  
+Priest of Deoch_  
 
 ```
 ((NB: Any quotations found in this treatise are adapted from either the
 I-Ching, the Dark Ages Manual (specifically - Temuair Pantheon) or the poem
-"Personal Helicon" by Seamus Heaney)).```
+"Personal Helicon" by Seamus Heaney)).
+```
 
