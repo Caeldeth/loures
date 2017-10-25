@@ -1,4 +1,5 @@
 # Reflections on Interactions between the Gods
+
 _by Chloe in **Dark Ages**_
 
 As Aislings, many of us strive to understand our place within this world, as
@@ -31,8 +32,8 @@ Danaan                            (From Mortality)         Chadul
                |
               Cail
                                   <---------------         Deoch
-Fiosachd          	                  Luathas
-                                      Gramail
+Fiosachd          	                   Luathas
+                                       Gramail
 ```
 
 The two octagrams below contain much information useful to the curious Aisling.
