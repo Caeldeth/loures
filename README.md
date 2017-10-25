@@ -16,7 +16,8 @@ if you are looking for exact late 90s / early 00s white on black background
 HTML fidelity, with all the &nbsp’s you could ever want.
 
 Lastly, please note that only *recognized* works are eligible for archiving
-here, for now.
+here, for now. You might also wish to check out our [FAQ](./FAQ.md).
 
+## Currently Open Library Sections
 
-
+[Philosophy](./Philosophy/README.md)
