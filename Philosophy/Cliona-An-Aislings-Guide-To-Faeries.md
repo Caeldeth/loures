@@ -1,4 +1,4 @@
-#![fae](images/Cliona-Fae-L.png) An Aisling's Guide to Faeries ![another fae](images/Cliona-Fae-R.png)
+# ![fae](images/Cliona-Fae-L.png) An Aisling's Guide to Faeries ![another fae](images/Cliona-Fae-R.png)
 
 _by Cliona Malkier, in **Dark Ages**_
 
