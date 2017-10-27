@@ -1,6 +1,6 @@
-# Chaos Ascendant: A history of the third cycle of the gods (Deochs 17-24)
+# Chaos Ascendant: A History of the Third Cycle of the Gods (Deochs 17-24)
 
-_By, Ramanayan in_ ___Dark Ages___  
+_By Ramanayan in_ ___Dark Ages___  
 _Deoch 33, Spring_
 
 ## Introduction
