@@ -56,10 +56,11 @@ We would, in theory, tend to look favorably on new *editions* of works (as
 submitted PRs) but wholesale editing of history isn’t something we will
 support (again, just yet). There's still much more archiving work to be done.
 
+## How can I contribute?
+
+Fork us and open a PR! We have a [./Style-Guide.md](style guide) as well
+as a [./Lexicon.md](lexicon) which can help instruct you in the standards
+of the Library.
+
 _More questions that weren’t answered here? Have additions of (recognized)
 works? Open a PR or an issue. Thanks!_
-
-
-
-
-
