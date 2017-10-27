@@ -12,6 +12,10 @@ Filenames must begin with the author’s in-game name (e.g. `Angelique`,
 `[A-Za-z0-9]`, separated by dashes. For instance, "Angelique, A Guide To Derping"
 might be rendered as `Angelique-A-Guide-To-Derping.md`. It is our intent to migrate filenames to slug format.
 
+### Format
+
+We use Markdown. Specifically, [Github Flavored Markdown](http://commonmark.org/), more specifically, [CommonMark](http://commonmark.org/). All documents must render cleanly in Markdown.
+
 ### Header
 
 All entries should begin with the following header:
@@ -139,8 +143,8 @@ Remember to end lines with forced breaks with two spaces (see below).
 
 * WebM should be used for video.
 * Flash is not allowed. 
-  ** If an entry is Flash-only, it will not be included. 
-  ** If an entry has a Flash intro video or supplementary Flash video content, it should be rendered to WebM and the text should be rendered in the normal `.md` format.
+  * If an entry is Flash-only, it will not be included. 
+  * If an entry has a Flash intro video or supplementary Flash video content, it should be rendered to WebM and the text should be rendered in the normal `.md` format.
 
 ### Footer
 
