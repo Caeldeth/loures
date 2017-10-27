@@ -21,3 +21,4 @@ here, for now. You might also wish to check out our [FAQ](./FAQ.md).
 ## Currently Open Library Sections
 
 [Philosophy](./Philosophy/README.md)
+[History](./History/README.md)
