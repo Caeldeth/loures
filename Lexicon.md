@@ -1,6 +1,6 @@
 # A Guide to Library Formatting
 
-_by Kedian in **Dark Ages**_
+_by Kedian in **Dark Ages**_  
 Deoch 151
 
 ## Formatting Overview
