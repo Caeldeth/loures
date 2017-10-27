@@ -83,7 +83,7 @@ Remember to end lines with forced breaks with two spaces (see below).
   > eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
   > enim ad minim veniam, quis nostrud exercitation ullamco laboris 
   > nisi ut aliquip ex ea commodo consequat_.    
-  > - _Burg Hurg IV, Lord Burglehurg_
+  > \- _Burg Hurg IV, Lord Burglehurg_
   ```
   would render as:
   
@@ -139,8 +139,8 @@ Remember to end lines with forced breaks with two spaces (see below).
 
 * WebM should be used for video.
 * Flash is not allowed. 
- * If an entry is Flash-only, it will not be included. 
- * If an entry has a Flash intro video or supplementary Flash video content, it should be rendered to WebM and the text should be rendered in the normal `.md` format.
+  ** If an entry is Flash-only, it will not be included. 
+  ** If an entry has a Flash intro video or supplementary Flash video content, it should be rendered to WebM and the text should be rendered in the normal `.md` format.
 
 ### Footer
 
