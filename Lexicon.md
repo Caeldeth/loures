@@ -53,27 +53,27 @@ Remember to end lines with forced breaks with two spaces (see below).
 * Markdown elements (paragraphs, headers, etc) should only be separated by one blank line. In general, ALL text should not require or use newlines as stylistic implements; everything should be rendered with the same flow (one blank newline between elements). Example:
 
   ```
-## Lorum ipsum dolor sit amet
-  
+  ## Lorum ipsum dolor sit amet
+    
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
-enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-nisi ut aliquip ex ea commodo consequat. 
+  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
+  enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+  nisi ut aliquip ex ea commodo consequat. 
 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
-enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-nisi ut aliquip ex ea commodo consequat. 
+  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
+  enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+  nisi ut aliquip ex ea commodo consequat. 
 
   ## Consectetur adipiscing elit
 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
-enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-nisi ut aliquip ex ea commodo consequat. 
+  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
+  enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+  nisi ut aliquip ex ea commodo consequat. 
 
   ```
-  
+
 * Ending a line with two spaces will create a newline. This can be used for a variety of purposes (multiple lines in the header), or quotations (see below).
 
 * `> _<text>_` is the preferred format for nice looking quotations. Example:
