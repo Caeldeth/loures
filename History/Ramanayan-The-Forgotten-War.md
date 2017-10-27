@@ -1,4 +1,4 @@
-# "The Forgotten War"
+# The Forgotten War
 
 _by Ramanayan of_ ___Dark Ages___
 
