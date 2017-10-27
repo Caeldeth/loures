@@ -1,4 +1,3 @@
-
 # The Blood of the Forgotten Empire: The Journals of the Ministers Beanlar
 
 _Compiled by Chloe in_ ___Dark Ages___
