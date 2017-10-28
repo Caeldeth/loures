@@ -215,12 +215,14 @@ this might be `Increases your strength ((+2 STR))`.
 
 ## English Standards
 
-Due to the usage of `Aeon` in the (Seanchas
-Temuair)[./History/Extant-Seanchas-Temuair], among other foundational
-documents, we recommend the usage of `aeon` rather than `eon`. In general,
-although Temuair draws from many influences including Earth’s own medieval
-societies, American English is the preferred language of the library.
+Due to the usage of `Aeon` in the
+[Timeline of Temuair](./History/Extant/Timeline-Of-Temuair.md), among other
+foundational documents, we recommend the usage of `aeon` rather than `eon`. In
+general, although Dark Ages and Temuair itself draws from many influences
+including Earth’s own medieval societies, American English is the preferred
+language of the library.
 
 In general, if arcane words are encountered in speech (such as a quotation, or
-someone speaking dialogue), they should be preserved. Usage of British English
-in other places can be "corrected" at the discretion of the editor.
+someone speaking dialogue in a dialect or accent), they should be preserved.
+Usage of British English in entries themselves, we leave to the discretion of the
+editor (`armour` vs `armor`, `colour` vs `color`, etc).

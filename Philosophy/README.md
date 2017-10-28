@@ -35,4 +35,15 @@ _Works with a octagram displayed next to them represent some of the greatest tre
 | Dartanian          | ![Treasure of Temuair](../octagram.png) [Conjectures on the Mukul Culture and Society](Dartanian-Conjectures-on-the-Mukul-Society.md)                                    |
 | Dartanian          | [Exploits of the Deep](Dartanian-Exploits-of-the-Deep.md)                                                                        |
 | Dartanian          | [The Holy Star](Dartanian-The-Holy-Star.md)                                                                                      |
+| Deksar             | [The Society of the Dubhaimid: The final notes of Teirsaes](Deksar-Society-of-the-Dubhaimid.md)                                  |
+| Deksar             | [The Force of Magick: A Dreamer's Will](Deksar-The-Force-Of-Magick.md)                                                           |
+| Dominique          | [Dance With Me!](Dominique-Dance-With-Me.md)                                                                                     |
+| DoomHealer         | [The Philosophy of Power](DoomHealer-The-Philosophy-of-Power.md)                                                                 |
+| Dryst              | [Schisms of Temuairan Religion](Dryst-Schisms-of-Temuairan-Religion.md)                                                          |
+| Enclave            | [The Aisling Belief of Evil](Enclave-The-Aisling-Belief-of-Evil.md)                                                              |
+| Etienne            | ![Treasure of Temuair](../octagram.png) [De Obscurité et Lumière](Etienne-De-Obscurite-et-Lumiere.md)                                                                  |
+| Etienne            | ![Treasure of Temuair](../octagram.png) [Economia](Etienne-Economia.md)                                                                                                  |
+| Etienne            | [Humans](Etienne-Humans.md)                                                                                                      |
+| Etienne            | [Pénombre](Etienne-Penombre.md)                                                                                                 |
+| Etna               | [Ridireacht (Chivalry)](Etna-Ridireacht.md)                                                                                      |
 
