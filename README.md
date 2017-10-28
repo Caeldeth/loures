@@ -18,9 +18,9 @@ HTML fidelity, with all the &nbsp’s you could ever want.
 Lastly, please note that only *recognized* works are eligible for archiving
 here, for now. You might also wish to check out our [FAQ](./FAQ.md).
 
-We also have a [./LEXICON.md](lexicon) of common Temuairan terms.
+We also have a [lexicon](./LEXICON.md) of common Temuairan terms.
 
 ## Currently Open Library Sections
 
-[Philosophy](./Philosophy/README.md)
+[Philosophy](./Philosophy/README.md)  
 [History](./History/README.md)
