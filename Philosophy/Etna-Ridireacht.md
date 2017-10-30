@@ -452,9 +452,6 @@ modified by Ed (Etna Demonia) for Dark Ages. ))
 ***
 
 ```
-***
-
-```
 *Librarian Notes*
 
 The original copy of this document was lost. It has been reconstructed from fragments.
