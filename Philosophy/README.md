@@ -46,4 +46,22 @@ _Works with a octagram displayed next to them represent some of the greatest tre
 | Etienne            | [Humans](Etienne-Humans.md)                                                                                                      |
 | Etienne            | [Pénombre](Etienne-Penombre.md)                                                                                                 |
 | Etna               | [Ridireacht (Chivalry)](Etna-Ridireacht.md)                                                                                      |
+| FalconZero         | [Theory of Hidden Power](FalconZero-Theory-of-Hidden-Power.md)                                                                   |
+| Fascinum           | [Journey Through the Circles](Fascinum-Journey-Through-the-Circles.md)                                                           |
+| Firemace           | [Light Discovery](Firemace-Light-Discovery.md)                                                                                   |
+| FristVire          | [A Treatise for the Acceptance of the Aisling](FristVire-A-Treatise-for-the-Acceptance-of-the-Aisling.md)                        |
+| Garland            | ![Treasure of Temuair](../octagram.png) [The Monk's Traditional Social Graces and Culture](Garland-The-Monks-Traditional-Social-Graces.md)                               |
+| Ginger             | [The Hunger](Ginger-The-Hunger.md)                                                                                               |
+| Gokuden            | [Aisling Shadow Hunger](Gokuden-Aisling-Shadow-Hunger.md)                                                                        |
+| Grim               | [The Hexagram : The Inversion of Balance](Grim-Hexagram.md)                                                                      |
+| Hendle             | [From Whence Nightmares Come](Hendle-From-Whence-Nightmares-Come.md)                                                             |
+| Jakkal             | [Revelation of the Goblin and Kobold Gateway to the East](Jakkal-Gateway-to-the-East.md)                                         |
+| Kailieann          | [Lagorah Dubhaimid](Kailieann-Lagorah-Dubhaimid.md)                                                                              |
+| Kandolo            | [The Theory of Temuarian Music and its relation to Elemental Magic](Kandolo-Theory-of-Temuairan-Music.md)                        |
+| Kasmanan           | [The Beauty of The Spark](Kasmanan-The-Beauty-of-the-Spark.md)                                                                   |
+| Katrionah          | [Darkness and the Dubhaimid](Katrionah-Darkness-and-the-Dubhaimid.md)                                                            |
+| Katrionah          | [Timeless](Katrionah-Timeless.md)                                                                                                |
+| Kedian             | [Aosdic Mystic Theory](Kedian-Aosdic-Mystic-Theory.md)                                                                           |
+| Kedian             | [Wizards and their Magick](Kedian-Wizards-and-Magick.md)                                                                         |
+| Khay               | [The Tenets of Oran](Khay-Tenets-of-Oran.md)                                                                                     |
 
