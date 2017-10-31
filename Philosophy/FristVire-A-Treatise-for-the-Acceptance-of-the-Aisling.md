@@ -89,7 +89,7 @@ host of birthmarks, is crudely illustrated below (Figure 2). It demonstrates a
 distinct ethereal essence and can account for those aspects Eachann's model
 cannot.
 
-![Diagram](./images/Image-MIssing.png)
+![Diagram](./images/image-missing.png)
 
 Figure 2: clannach athar (three Aislings shown)
 

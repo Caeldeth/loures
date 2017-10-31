@@ -1,4 +1,4 @@
-# Aosdan Mystic Theory**
+# Aosdic Mystic Theory
 
 _by Kedian in **Dark Ages**_
 
