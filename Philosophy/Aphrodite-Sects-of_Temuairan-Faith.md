@@ -1,6 +1,5 @@
-# _**Sects of Temuairan Faiths**_
+# Sects of Temuairan Faiths: Theoretical Variations in Worship
 
-_Theoretical Variations in Worship_  
 _By Aphrodite D'Ourvean in Dark Ages_
 
 Faith. For so many of us, this can be at the forefront of our minds, a guide in our day to day actions. But, faith in what? Through listening to many different teachings, on can approach each God almost uniquely, based on one's personal beliefs. However, is there a commonality in all of this, or are we free to interpret each God in our own speculation? I believe, that no one true answer exists, as each deity is multi-faceted, and their meaning to each Aisling different. However, with the study of each of the eight faiths, I have discovered some shared viewpoints taken by worshippers
