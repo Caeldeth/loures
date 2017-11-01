@@ -69,6 +69,9 @@ Collaborated from theories stated by Jean of Loures, mundane gossip, and specula
 ```
 *Librarian Notes*
 
+
+This work is one of the greatest treasures of Temuair.
+
 This entry has been edited to conform to Library formatting.
 The original can be found at http://darkages.com/community/his/Dartanian_Evil.html .
 ```

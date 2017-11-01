@@ -1,4 +1,4 @@
-# Chaos Ascendant: A History of the Third Cycle of the Gods (Deochs 17-24)
+# Chaos Ascendant: A history of the third cycle of the gods (Deochs 17-24)
 
 _By Ramanayan in_ ___Dark Ages___  
 _Deoch 33, Spring_
@@ -229,3 +229,12 @@ Finally the monsters ceased appearing as the Eulogy itself finally arrived. Aisl
 With the end of the Eulogy Deoch 24 and the third cycle soon came to an end. Looking back they were violent and difficult times but in the end light had bested the forces of chaos and darkness. For the first time in a long time the future looked bright.
 
 ___But every light casts a shadow...___
+
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original can be found at http://www.angelfire.com/scifi/b5rpg/chaos.htm .
+```
