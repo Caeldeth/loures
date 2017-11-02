@@ -1,6 +1,8 @@
-# ![fae](images/Cliona-Fae-L.png) An Aisling's Guide to Faeries ![another fae](images/Cliona-Fae-R.png)
+# An Aisling's Guide to Faeries
 
 _by Cliona Malkier, in **Dark Ages**_
+
+![fae](images/Cliona-Fae-L.png) ![another fae](images/Cliona-Fae-R.png)
 
 In Temuair, mention of the fae is likely to bring but one thing to mind: The
 Tuatha. Of course, some will argue that we ourselves are the Tuatha, but such
