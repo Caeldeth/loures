@@ -6,5 +6,5 @@ random contributions, fragments) from players of the game
 
 ## Currently Open Library Sections
 
-[Folklore](Mileth/Folklore) [2 entries]
+[Folklore](Folklore) [2 entries]
 
