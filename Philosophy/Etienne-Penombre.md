@@ -296,5 +296,5 @@ __31st year of Deoch_
 *Librarian Notes*
 
 This entry has been heavily edited to conform to Library formatting.
-The original has unfortunately been lost, and is reconstructed from old copies here.
+The original copy of this document has been lost. It has been reconstructed from fragments.
 ```
