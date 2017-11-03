@@ -1,11 +1,18 @@
 # Aisling History
 
-Read about Temuair’s rich history and culture. Most of these works have been
-edited to conform to the Library’s display formats. Where possible, a link to
-the original work has been included.
+Read about Temuair’s rich history and culture - a great way to understand the
+significance of current events.
+
+Most of these works have been edited to conform to the Library’s display
+formats. Where possible, a link to the original work has been included.
 
 _Works with a octagram displayed next to them represent some of the greatest
 treasures of Temuair._
+
+_Works with a question mark displayed next to them have been lost to time, and
+are merely placeholders. If you have these works, by all means, get in touch
+with us._
+
 
 
 |       Author       |                                                               Work                                                               |
@@ -14,19 +21,19 @@ treasures of Temuair._
 | Angelique          | [Àraidhe: The Story of the Dwarves](Angelique-Àraidhe.md)                                                                     |
 | Anhedria           | [Of the Natural Order, Conflict and Consequence](Anhedria-Of-The-Natural-Order-Conflict-And-Consequences.md)                     |
 | Arachne            | [Medenia: Genesis](Arachne-Medenia-Genesis.md)                                                                                   |
-| Ayshilin           | ![Treasure of Temuair](../octagram.png) [Dorcha Reannán a. Chadul: Dark Star of Chadul](Ayshilin-Dorcha-Reannan-A-Chadul.md)                                            |
+| Ayshilin           | ![Treasure of Temuair](../images/octagram.png) [Dorcha Reannán a. Chadul: Dark Star of Chadul](Ayshilin-Dorcha-Reannan-A-Chadul.md)                                            |
 | Azalea             | [The Great Pig](Azalea-The-Great-Pig.md)                                                                                         |
 | Bacae              | [The Dubhaimid Hero](Bacae-Dubhaimid-Hero.md)                                                                                    |
 | Brittany           | [The History of Medenia](Brittany-The-History-Of-Medenia.md)                                                                     |
 | Cazbrileth         | [A History of the Nobility of Temuair](Cazbrileth-A-History-Of-The-Nobility-Of-Temuair.md)                                       |
 | Chamise            | [Discovery of the Nadurra Necklace](Chamise-Discovery-Of-The-Nadurra-Necklace.md)                                                |
-| Chloe              | ![Treasure of Temuair](../octagram.png) [The Blood of the Forgotten Empire: The Journals of the Ministers Beanlar](Chloe-Blood-Of-The-Forgotten-Empire.md)               |
+| Chloe              | ![Treasure of Temuair](../images/octagram.png) [The Blood of the Forgotten Empire: The Journals of the Ministers Beanlar](Chloe-Blood-Of-The-Forgotten-Empire.md)               |
 | Chogal             | [Seals of Darkness](Chogal-Seals-Of-Darkness.md)                                                                                 |
 | Cliona             | [The History of Undine](Cliona-The-History-Of-Undine.md)                                                                         |
 | Cronus             | [Before the Shadows Dance: A History of the Shadows War](Cronus-Before-The-Shadows-Dance.md)                                     |
 | Dartanian          | [Of Life and Death](Dartanian-Of-Life-And-Death.md)                                                                              |
 | Dartanian          | [Shady Deals](Dartanian-Shady-Deals.md)                                                                                          |
-| Dartanian          | ![Treasure of Temuair](../octagram.png) [The Greater Evil](Dartanian-The-Greater-Evil.md)                                                                                |
+| Dartanian          | ![Treasure of Temuair](../images/octagram.png) [The Greater Evil](Dartanian-The-Greater-Evil.md)                                                                                |
 | Dartanian          | [The Journal of Vincent d’Alkurk: A real-life account during the Shadows War](Dartanian-The-Journal-Of-Vincent-d'Alkurk.md)    |
 | Deksar             | [The Diary of Teirsaes](Deksar-The-Diary-Of-Teirsaes.md)                                                                         |
 | Dkpheonix          | [The Red Moon](Dkpheonix-The-Red-Moon.md)                                                                                        |
@@ -71,7 +78,7 @@ treasures of Temuair._
 | Ramanayan          | [Chaos Ascendant: A history of the third cycle of the gods (Deochs 17-24)](Ramanayan-Chaos-Ascendant.md)                         |
 | Ramanayan          | [The Forgotten War](Ramanayan-The-Forgotten-War.md)                                                                              |
 | Rierdann           | [Loures's Lost Ally](Rierdann-Loures-Lost-Ally.md)                                                                               |
-| Rookerin           | ![Treasure of Temuair](../octagram.png) [The League and its Pact of Anaman](Rookerin-The-League-And-Its-Pact-Of-Anaman.md)                                               |
+| Rookerin           | ![Treasure of Temuair](../images/octagram.png) [The League and its Pact of Anaman](Rookerin-The-League-And-Its-Pact-Of-Anaman.md)                                               |
 | Seara              | [The Betrayal](Seara-The-Betrayal.md)                                                                                            |
 | Shadeed            | [Bellum Inifintum: War and Story of the Grimlock](Shadeed-Bellum-Infinitum.md)                                                   |
 | Shota              | [The Second Affront to Luathas](Shota-The-Second-Affront-To-Luathas.md)                                                          |
@@ -82,6 +89,7 @@ treasures of Temuair._
 | Tasec              | [The First Wizard](Tasec-The-First-Wizard.md)                                                                                    |
 | Timura             | [The Wise Men](Timura-The-Wisemen.md)                                                                                            |
 | Topic              | [A History of the Oren and Nobis Islands and Their Connection to the World Abroad](Topic-History-Of-The-Southern-Isles.md)       |
+| Undeadbard         | [The Last Stand](Undeadbard-The-Last-Stand.md)                                                                                   |
 | Vendes             | [The Night of Tagor](Vendes-The-Night-Of-Tagor.md)                                                                               |
 | Veneficus          | [As the Land Bleeds: A Brief Overview of the Elemental Wars](Veneficus-As-The-Land-Bleeds.md)                                    |
 | Veneficus          | [History of the Acadamie Arcanus](Veneficus-History-Of-The-Academie-Arcanus.md)                                                  |
