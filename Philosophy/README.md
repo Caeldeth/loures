@@ -131,7 +131,7 @@ you have these works, by all means, get in touch with us._
 | Thissus            | [Prospects of Darkness](Thissus-Prospects-of-Darkness.md)                                                                        |
 | Thubub             | [The Ties That Bind](Thubub-The-Ties-that-Bind.md)                                                                               |
 | Topic              | [A Treatise on Leadership](Topic-A-Treatise-on-Leadership.md)                                                                    |
-| Valvalis           | ![This work has been lost](../images/questionmark.png) [The Philosophy of Priesthood](Valvalis-The-Philosophy-of-Priesthood.md)                                                         |
+| Valvalis           | [The Philosophy of Priesthood](Valvalis-The-Philosophy-of-Priesthood.md)                                                         |
 | VanMorgan          | [On the Death of Gods](VanMorgan-On-the-Death-of-Gods.md)                                                                        |
 | Velious            | [The Development & Mannerisms of the Greater Temuairan Insects](Velious-The-Development-Mannerisms-of-the-Greater-Temuairan-Insects.md) |
 | Vendes             | [Culture; fading sparks.](Vendes-Culture-Fading-Sparks.md)                                                                       |
