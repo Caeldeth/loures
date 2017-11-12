@@ -347,7 +347,7 @@ This scroll will help ye to understand a bit about the miscellaneous armor found
 |![Cordovan Boots](images/lethalia_lioarlan_misc_boot_5.png)|Cordovan Boots|50th insight|Found|+3 Dexterity|2 Stones|Found|
 |![Lapis Boots](images/lethalia_lioarlan_misc_boot_6.png)|Lapis Boots|56th insight|5,000 coins|N/A|2 stone|Jilt's Storage - Piet|
 |![Saffian Boots](images/lethalia_lioarlan_misc_boot_7.png)|Saffian Boots|66th insight|Found|+4 Dexterity|2 stone|Found|
-|![Magma Boots](images/lethalia_lioarlan_misc_boott_8.png)|Magma Boots|82nd insight|found|+5 Dexterity|2 stone|Found|
+|![Magma Boots](images/lethalia_lioarlan_misc_boot_8.png)|Magma Boots|82nd insight|found|+5 Dexterity|2 stone|Found|
 
 |Bracers|Name|Insight|Cost|Protection|Weight|Purchase Location|
 |-|-|-|-|-|-|-|
