@@ -26,7 +26,7 @@ layouts. Some sacrifices had to be made to shoehorn custom HTML with mocked up
 book covers into this format.
 
 In general: where the images are *necessary to the communication of the text
-or meaning itself* (such as diagrams, pictures, art, etc), this has been included. 
+or meaning itself* (such as diagrams, pictures, art, etc), they have been included.
 Where the images could be considered *functionally part of a book edition* (covers, borders,
 "paper textures", headings) they have been omitted.
 
@@ -58,8 +58,8 @@ support (again, just yet). There's still much more archiving work to be done.
 
 ## How can I contribute?
 
-Fork us and open a PR! We have a [./Style-Guide.md](style guide) as well
-as a [./Lexicon.md](lexicon) which can help instruct you in the standards
+Fork us and open a PR! We have a [style guide](./STYLE-GUIDE.md) as well
+as a [lexicon](./LEXICON.md) which can help instruct you in the standards
 of the Library.
 
 _More questions that weren’t answered here? Have additions of (recognized)
