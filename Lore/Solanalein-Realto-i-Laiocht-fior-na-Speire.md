@@ -72,7 +72,7 @@ Over the cold sea which between Abel Port and Undine is an array of stars named 
 
 The most notable stars in this constellation are Thaisce, Muirnin, and Leannan, which form a halo of light over the bodies of the lovers. To locate a walking path to Suomi, face the ocean and point to Muirnin. Sweep your hand to the left until you see Bandearg of the constellation Mean Oiche. Bandearg lies over the mountain pass between Suomi and Tagor. Travelers who stray from this path may find themselves suddenly in the heart of Astrid. 
 
-Mean Oiche
+### Mean Oiche
                                   
 Mean Oiche is often depicted in childrens' texts as a cloaked Aisling with a campfire at his feet. This image has been designed to lessen curiosity about Tagor and the House Macabre, but it is the opinion of this lorekeeper that perhaps the real story would deter Aislings more effectively from blackened and cursed places.
 
