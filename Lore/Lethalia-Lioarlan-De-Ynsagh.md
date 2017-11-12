@@ -1271,3 +1271,12 @@ Upon entering the Mileth Tavern, they sat and ordered their drinks. "A round of 
 "’Twas my pleasure if anyone’s, glad to know someone is ‘nterested in the life I lead" said Xilan smiling.
 
 "’Till we meet again Nyxojaele" Xilan said, with his jet-black cloak flowing behind him.
+
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original can be found at http://www.darkages.com/2000/community/lore/Lethalia_Library/library.htm .
+```
