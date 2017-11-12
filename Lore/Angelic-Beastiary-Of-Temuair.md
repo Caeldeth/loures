@@ -53,7 +53,7 @@ Centipedes are a bit of a toss up on whether to hunt or not. If looking for mone
 
 ### ![Bats!](images/angelic_crypt_bat_1.png) Bats
 
-![Bats](images/angelic_crypt_bats_2.png)
+![Bats](images/angelic_crypt_bat_2.png)
 
 Bats are first found on the third layer of the crypt, They are the most powerful creature of this depth,	Be very wary, this is the first depth where the monsters are magical, and bats are especially fond of casting spells upon unsuspecting aislings. They are hostile, so will use spells upon you from far away, and without provocation or warning.
 
@@ -104,7 +104,7 @@ The treasure left behind by Great Bats is a good one. Great Bat's Wings can be s
 
 ### ![Chests!](images/angelic_crypt_chest_1.png) Chests
 
-![Chests](images/angelic_crypt_chests_2.png)
+![Chests](images/angelic_crypt_chest_2.png)
 
 Chests are first encountered deep within the Crypt, and by this time one ought to have a reasonable idea of how to safely hunt. Yet do not underestimate their sharp and vicious fangs. Their favorite tactic is to try and sneak up on unassuming aislings, but the movements of these monsters is usually enough to make it clear that they are not friendly, yet an aisling who isn't watching may find themselves attacked by what they thought was a piece of furniture.
 
