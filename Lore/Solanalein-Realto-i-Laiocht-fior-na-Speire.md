@@ -52,7 +52,7 @@ To find a path to Mileth from the towns mentioned above, first locate a footpath
 
 ### Mairtina: _(formerly Na Drochsheasamh)_
 
-Over Loures, the constellation Mairtina graces the sky. This female warrior of old leans on her shield with her sword upraised. The legendary soldier Mairtina was chased by demons to the cliff's edge at the cold ocean brink. Mairtina cried out to Gramail with her last breath of strength to lift her from the demons' clutches. Ultimately Mairtina took her place in the heavens above Loures Castle. A song, celebrating Gramail's miracles, [can be found in the care of Camille, temple attendant to Gramail.](..Loures/Literature/Lobokia-Mighty-Gramail.md) It is written by Lobokia, of Gramail.
+Over Loures, the constellation Mairtina graces the sky. This female warrior of old leans on her shield with her sword upraised. The legendary soldier Mairtina was chased by demons to the cliff's edge at the cold ocean brink. Mairtina cried out to Gramail with her last breath of strength to lift her from the demons' clutches. Ultimately Mairtina took her place in the heavens above Loures Castle. A song, celebrating Gramail's miracles, [can be found in the care of Camille, temple attendant to Gramail.](../Literature/Lobokia-Mighty-Gramail.md "Mighty Gramail") It is written by Lobokia, of Gramail.
 
 ![Mairtina](images/solanalein_realto_4.png)
 
