@@ -568,7 +568,7 @@ These creatures are not inherently evil, and would prefer to live their life out
 
 ### ![Gogs!](images/angelic_piet_gog_1.png) Gogs
 
-![Gogs](images/angelic_piet_gogs_2.png)
+![Gogs](images/angelic_piet_gog_2.png)
 
 No one is sure where the Gogs first originated. Some attribute it to work of the Dark Gods; others point to magical mutation, and experiments gone wrong. Whatever sparked their creation, there is no denying that these are almost certainty the most bizarre creatures to be found anywhere in Temuair.
  
