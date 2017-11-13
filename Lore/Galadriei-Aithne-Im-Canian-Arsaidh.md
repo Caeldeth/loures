@@ -2,7 +2,7 @@
  
 _by Galadriei in_ ___Dark Ages___ 
 
-(images/galadriei_tongue_1.gif)
+![](images/galadriei_tongue_1.gif)
 
 During transcribing the ancient scripts i discovered a lot of words in the 'Old Tongue', which were used by people of the first ages. Because many of these words are still used by the mundanes of temuair although most aislings do not know their meanings, i decided to put a few of them (i hope i got the most important ones) into this lore.
 
