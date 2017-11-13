@@ -2,7 +2,7 @@
 
 _by Nazashanna in_ ___Dark Ages___
 
-_Behind the wall, in the temple of choosing, in the room where Luathas stands watch, is a room. This room hasn't been entered since The Age of Hybrasyl ended. Aisling eyes have never seen the door, since hidden behind brick and mundane. But, there was one man who dared to dream. One man who heard the legend of this place, a place that never ages, a place of beauty, a place where peace reigns supreme. This legend, told by mundanes around the world, but never mentioned to Aislings, for fear of the paradise becoming impure, for the nature of an Aislings has changed from its original meaning of knowledge, adventure, and peace... to death, destruction, and war. This legend is called: The Ageless Land.
+_Behind the wall, in the temple of choosing, in the room where Luathas stands watch, is a room. This room hasn't been entered since The Age of Hybrasyl ended. Aisling eyes have never seen the door, since hidden behind brick and mundane. But, there was one man who dared to dream. One man who heard the legend of this place, a place that never ages, a place of beauty, a place where peace reigns supreme. This legend, told by mundanes around the world, but never mentioned to Aislings, for fear of the paradise becoming impure, for the nature of an Aislings has changed from its original meaning of knowledge, adventure, and peace... to death, destruction, and war. This legend is called: The Ageless Land._
 
 "Incredible! Absolutely incredible!" 
 
