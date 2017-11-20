@@ -1,6 +1,6 @@
 # Confession of a Fae
 
-By Aurica of **_Dark Ages_**
+_by Aurica of **_Dark Ages_**_
 
 It has been many a Deoch since I had last seen my home. And although time made
 memories faded I missed it still. With such a passion for the wilderness that I
@@ -139,8 +139,3 @@ _Summer, Deoch 15, 5th Moon, 30th sun_
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Aurica_Fae.html .
 ```
-
-
-
-
-

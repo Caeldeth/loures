@@ -1,5 +1,7 @@
 # The Adventures of Archias
 
+_by Archias in **Dark Ages**_
+
 ## Chapter 1: Archias d'Agussiere
 
 It was a warm sunny day in the town of Mileth. The birds chirped shyly and the
@@ -15,7 +17,7 @@ bottom, I saw a beautiful lady, neither too young nor old. She was staring into
 a small mirror and as I glanced closer, I noticed that she had tears in her
 eyes.
 
-![](Archias-Adventure-image002.png)
+![](./images/Archias-Adventure-image002.png)
 
 "Ye look fine." I complemented. Her body lifted and her eyes turned in my
 direction. She stared at me with eyes wide open and jaws dropped as if she had
