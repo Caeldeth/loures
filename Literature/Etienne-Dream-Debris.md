@@ -59,7 +59,7 @@ the eyes of my brother's wife on the day they got married, long ago; in her
 lips a shy, soft smile, that, despite her attempts to hide, could be noticed
 both when she was talking and when silent; her fixed gaze on him, her attention
 to every word he said, the transparent nervousness in her hands. I remembered
-my already mentioned sister-in-law telling me what it was like when people were
+my already mentioned sister\-in\-law telling me what it was like when people were
 in love, and at that moment I could see an example. My mind started to travel,
 first trying to find reasons for love and why people felt that way, then less
 coldly I began thinking about all the happy couples I had met. I wondered what
@@ -168,8 +168,8 @@ laughing became uniform, sounding like a single calming musical instrument. I
 must confess that, despite my usual pursuit of silence, I do like such harmonic
 noises.
 
-The wine, the relaxing tumult, or the night spent reading - or maybe them all
-- was causing me to feel somewhat sleepy, and despite my attempts to remain as
+The wine, the relaxing tumult, or the night spent reading \- or maybe them all
+\- was causing me to feel somewhat sleepy, and despite my attempts to remain as
 alert as possible, I slowly allowed my head to fall against the wall and my
 eyes to close. And just as the first image of a dream was starting to form in
 the darkness...
@@ -184,7 +184,7 @@ of the whole tavern.
 "Let it be known that I did what I did..." He stopped, reflected for some
 moments. If he had the intention of not completing his sentence, the
 interrogation points planted in the faces of all the static patrons surely made
-him see he had no choice now - he had to end what he started.
+him see he had no choice now \- he had to end what he started.
 
 "That I did it for love."
 
@@ -231,8 +231,8 @@ before I get to the middle of the story."
 
 I do confess I hate when people use such clichés to avoid being taken out of
 their sorrows. But I was determined to do two things: first, satiate my
-curiosity; second - and added after he said I just wanted to make him feel
-better - indeed make him feel better. Some stories do require someone to listen
+curiosity; second \- and added after he said I just wanted to make him feel
+better \- indeed make him feel better. Some stories do require someone to listen
 to them, before their tellers lose their sanity, and I like this kind of story,
 no matter how confusing and senseless it may be.
 
@@ -241,13 +241,13 @@ no matter how confusing and senseless it may be.
 "It is quite long, better not start telling now, you must have other things to
 do."
 
-Easy to notice he wanted - needed - to tell his story. I could not just back
+Easy to notice he wanted \- needed \- to tell his story. I could not just back
 up now, and went on playing his hiding game.
 
 "No, I have the whole afternoon, and the evening, and the night if necessary."
 I pulled the bottle of wine closer. "Now please start."
 
-## II. Too much appetizer*
+## II. Too much appetizer
 
 "Very well then," he began, "I will tell you, but at the end do not blame me if
 you hated listening to it. Or rather, if you find it too much of an annoyance,
@@ -262,7 +262,7 @@ excitement, I did it quite quickly, and they gave me another work, then
 another. The next few days I was always helping them whenever I could, and soon
 other employees saw me and started asking for small jobs.
 
-"Someone from the high ranks then officially hired me as a 'do-everything', as
+"Someone from the high ranks then officially hired me as a 'do\-everything', as
 people called me. One day I would sweep the bedrooms, the other brush the
 horses, the other help with the laundry; any small thing they needed done, they
 would call me. And, in my free days, when I was not too tired, I would spend
@@ -460,7 +460,7 @@ controlled by myself. I wanted something of my own, with my touch, my choices."
 
 "Ah, of course. Go on, please."
 
-"Very well. I ordered the construction of a mid-sized ship at the port of
+"Very well. I ordered the construction of a mid\-sized ship at the port of
 Loures, which I supervised from the project to the last polishing. In the
 meanwhile I gathered the finest sailors of the region, receiving each one
 personally at the castle. And when everything was ready, we set our sails to
@@ -512,7 +512,7 @@ as troublesome as it seemed to me.
 
 "With a new decision in my head, I decided to start anew. I visited the
 Duchess, who was quite happy to see me. We spent many hours talking about all
-sort of things. At the end, I asked her to stop sending the weekly money - I
+sort of things. At the end, I asked her to stop sending the weekly money \- I
 wanted to live completely on my own again. She was uneasy at first, but I
 convinced her of my purposes; at last she agreed.
 
@@ -534,7 +534,7 @@ ship and moved to Mileth."
 I refilled my cup and noticed he had no more brandy, so I offered some of
 Théa's wine, which he promptly accepted and, much to my surprise, recognized.
 
-"Ah, I remember this vintage. I still worked as a 'do-everything' in Loures,
+"Ah, I remember this vintage. I still worked as a 'do\-everything' in Loures,
 and picked many grapes. It was at the same year the Duchess fell ill. Amazing
 to find this bottle after so long."  
 
@@ -625,7 +625,7 @@ returned to Loures."
 "Yes, that was what I had in mind. But I found she could not keep what she had
 promised me. Tratta had married a soldier of the Loures Army, and forgot
 completely about our friendship. I still do not believe she could possibly
-marry that man. He was the most impolite - actually, _disgusting_ \- soldier of
+marry that man. He was the most impolite \- actually, _disgusting_ \- soldier of
 the whole army, and treated her _very_ bad."
 
 "The heart has reasons unknown to reason itself..." I quickly remarked. He went
@@ -654,7 +654,7 @@ arrived in Rucesion, the first person I saw was Dano, who had returned to his
 old job in the town of his birth. He was accompanied by his wife..." He threw
 all the wine left in his mug down his throat in one furious gulp. "Liada!"
 
-"By the name of Undine!"  
+"By the name of Undine!"
 
 ## V. Bitter dessert
 
