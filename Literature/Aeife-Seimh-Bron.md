@@ -47,7 +47,7 @@ betray the silken quality of their stature.
 
 And in a hushed whisper, the trees would bend slightly and softly shake their
 limbs, and tell of the two small bundles he carried. How one, the trees
-remembered, dark as the night, stirred in the figure�s arm. And how, added the
+remembered, dark as the night, stirred in the figure's arm. And how, added the
 sea, the other still bundle reflected the brightness of day. And with this, the
 sea and the trees would fall into a hushed whisper to tell of the other
 happenings of that night, and the wind, losing interest, would rise and softly
@@ -69,7 +69,7 @@ The bundle of blankets stirred, and sleepy blue eyes wearily peered out.
 "Latiaran," she sighed. "Remember the last time we went on an adventure of
 yours? I was scrubbing the woad dye out of my hair for weeks."
 
-The girl threw up her hands in exaggerated desperation. "That wasn�t my fault.
+The girl threw up her hands in exaggerated desperation. "That wasn't my fault.
 I didnt know that the bucket had dye in it. Please Lasair. You know I can't do
 this without you. If we don't explore the woods now, we might never get the
 chance to again to sneak away." She straightened up and with a sorrowful look,
