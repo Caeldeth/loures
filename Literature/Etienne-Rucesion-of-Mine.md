@@ -97,5 +97,5 @@ _Deoch 12_
 *Librarian Notes*
 
 This entry has been edited to conform to Library formatting.
-The original can be found at http://www.darkages.com/community/Etienne_Elise.html/Etienne_Rucesion.html .
+The original can be found at http://www.darkages.com/community/lit/Etienne_Rucesion.html .
 ```
