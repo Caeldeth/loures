@@ -1,6 +1,6 @@
 # Leabhar Hemloch
 
-_by Erenthar in_ ___Dark Ages___
+_by Enclave in_ ___Dark Ages___
 
 Hemloch is an ancient plant with many uses. It has great medical potential yet, is highly poisonous to consume in pure form. In faraway lands it is used as a method of execution for their criminals. Other than medical purposes, Hemloch has some interesting conscious altering abilities in Aislings. In this lore I shall do my best to outline the useful remedies I have found in the forgotten tomes, or in some cases, completely by accident.
 
