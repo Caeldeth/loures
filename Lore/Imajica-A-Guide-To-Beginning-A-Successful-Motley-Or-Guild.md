@@ -55,7 +55,14 @@ Choosing members is often difficult, as an Aisling’s interests often change ov
 Communication within our realm in an organization is very important. The mundanes offer us the opportunity to see all members present at any given time, and also provide a board which only members can see. Setting parameters for the use of these tools is extremely important. Members to harass each other should use neither, and they should be kept free of heresy, harassment, threats, and general unpleasantness that could end up destroying even the sturdiest of organizations.
 
 ```
-((Now, to break off from the in-character explanations of communication. Many organizations within the realm of Temuair also use out of character ways to communicate. Online groups is a very popular option, which allows members who must be away for any reason to keep up communication, and vote on upcoming events and new members. This is a useful way to keep up with all members, but keep in mind. Members who have been exiled or who have disagreements within the game with other members will often drag it into your group. Setting rules for the use of such online groups and establishing mature moderators will help control this extremely useful tool. Harassment in or out of the game should never be tolerated, regardless of the reasons.))
+((Now, to break off from the in-character explanations of communication. Many organizations within 
+the realm of Temuair also use out of character ways to communicate. Online groups is a very popular 
+option, which allows members who must be away for any reason to keep up communication, and vote on 
+upcoming events and new members. This is a useful way to keep up with all members, but keep in mind. 
+Members who have been exiled or who have disagreements within the game with other members will 
+often drag it into your group. Setting rules for the use of such online groups and establishing 
+mature moderators will help control this extremely useful tool. Harassment in or out of the game 
+should never be tolerated, regardless of the reasons.))
 ```
 
 ## Maintenance of an Organization
