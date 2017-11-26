@@ -73,16 +73,21 @@ Once inside the area, walk around again and you will step through an infinite se
 
 ## Step 5: Visiting Gramail and Deoch-The Ascension
 
+![](images/destine_ascension_9.png)
+
 Once you are transported into ice land, two temples stand in front of you. They are the temple of Deoch Toiseach and Gramail Toiseach. If you wish to increase your health, go to Deoch temple. If will power, go to Gramail temple.
 
 Awaiting in the Deoch temple is Deoch Toiseach, the god of life and inspiration. As you bow in awe and share your experience with him, he will raise your health according to your experience and your current health.
 
 ```
-You raise your hit points by buying one unit of 50hit points with your experience each purchase. The amount of experience required to buy hit points is determined by your current hit points:
+You raise your hit points by buying one unit of 50hit points with your experience each purchase. 
+The amount of experience required to buy hit points is determined by your current hit points:
 
 current hit points x 500 = experience required to buy 50 hit points
 
-For example, if your current hit points are 6600, it will take 6600 x 500 = 3300000 experience (3.3mil) to raise your hit points to 6650, and 6650 x 500 = 3325000 experience (3.325mil) to raise your hit points to 6700. You can buy hit points as long as you have sufficient exp.
+For example, if your current hit points are 6600, it will take 6600 x 500 = 3300000 experience (3.3mil) 
+to raise your hit points to 6650, and 6650 x 500 = 3325000 experience (3.325mil) to raise your hit points 
+to 6700. You can buy hit points as long as you have sufficient exp.
 ```
 
 In the Gramail temple stands Gramail Toiseach, the god of law. Gramail will raise your will power according to your experience and your current will power.
@@ -97,13 +102,13 @@ For example, to raise your mana from 5000 to 5025 it will take 5000 x 500 = 2500
 
 After you are done with ascension, you can choose to descend back to Temuair. You can ascend anytime and any number of times you want, following the same procedure.
 
-![](images/destine_ascension_9.png)
-
 ![](images/destine_ascension_10.png)
+
+![](images/destine_ascension_11.png)
 
 ## Conclusion
 
-![](images/destine_ascension_11.png)
+![](images/destine_ascension_12.png)
 
 The ascension is a gift from gods to aid Aislings in their journey and exploration in Temuair. Aislings are welcome to try ascension and share their experience with the gods so that new dungeons and quests will be created. Yet, there are still more about ascension than what had been discovered. For now, follow the instructions in the scroll and ascend wisely.
 
@@ -113,11 +118,11 @@ This part of the scroll simulates the actual ascension in as much details as pos
 
 `Note: please expect the content of the simulation to be semi-OOC`. 
 
-![](images/destine_ascension_12.png)
+![](images/destine_ascension_13.png)
 
 |Purchase Health|Purchase Mana|
 |-|-|
-|![http://www.darkages.com/2000/community/lore/Destine_Ascension/BuyHit points.htm](images/destine_ascension_13.png)|![http://www.darkages.com/2000/community/lore/Destine_Ascension/BuyMana.htm](images/destine_ascension_14.png)|
+|![http://www.darkages.com/2000/community/lore/Destine_Ascension/BuyHit points.htm](images/destine_ascension_14.png)|![http://www.darkages.com/2000/community/lore/Destine_Ascension/BuyMana.htm](images/destine_ascension_15.png)|
 
 >_Editor's Note: The ascension calculators no longer function and have not been included_
 
