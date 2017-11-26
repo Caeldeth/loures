@@ -1,10 +1,10 @@
-# Temuairian Wrestling
+# Temuairan Wrestling
 
 _by Klaudaryn in_ ___Dark Ages___
  
-Temuairian wrestling has its roots in an ancient sport practised for a thousand years prior to the War of the Shadows. The old sport began as a form of martial training for soldiers in times of peace, but soon degenerated into a crude bloodsport of pitfighting, where countless fighters were injured, maimed and even killed. The gradual decline in society prior to the War of the Shadows was typified by the attitude of the general populace, who revelled in such bloodletting and senseless brutality.
+Temuairan wrestling has its roots in an ancient sport practiced for a thousand years prior to the War of the Shadows. The old sport began as a form of martial training for soldiers in times of peace, but soon degenerated into a crude blood sport of pit fighting, where countless fighters were injured, maimed and even killed. The gradual decline in society prior to the War of the Shadows was typified by the attitude of the general populace, who reveled in such bloodletting and senseless brutality.
  
-Needless to say, the War of the Shadows hammered in some lessons that could otherwise not be learned, and such incidents of decadence and savagery were soon stamped out by the New Order. Yet the spirit of sport prevails till today. The revival of Temuairian Wrestling by an unidentified group of Aislings has been taking place. These events, still frowned upon by the authorities, are conducted in secret venues known only to a select few. As yet, the sport remains a noble idea, with excessive violence frowned upon both by the fighters and the patrons. Below is a brief summary of the sport as per the information I have gathered in my investigations.
+Needless to say, the War of the Shadows hammered in some lessons that could otherwise not be learned, and such incidents of decadence and savagery were soon stamped out by the New Order. Yet the spirit of sport prevails till today. The revival of Temuairan Wrestling by an unidentified group of Aislings has been taking place. These events, still frowned upon by the authorities, are conducted in secret venues known only to a select few. As yet, the sport remains a noble idea, with excessive violence frowned upon both by the fighters and the patrons. Below is a brief summary of the sport as per the information I have gathered in my investigations.
  
 ## The Ring
  
@@ -16,7 +16,7 @@ The Ring is the area in which the confrontation occurs. It is normally a hastily
  
 The objective of this sport is simple. Two fighters enter the ring at the start of a round, and only one should remain in the ring at the end of the round.
  
-Two of the four corners are marked Red and Blue respectively. These are the starting corners for the contenders, where they must remain until the umpire declares the round open. The other two corners are nullzones, where fighters can claim sanctuary. Upon claiming sanctuary, the round is restarted, with fighters clambering back to their initial positions.
+Two of the four corners are marked Red and Blue respectively. These are the starting corners for the contenders, where they must remain until the umpire declares the round open. The other two corners are null zones, where fighters can claim sanctuary. Upon claiming sanctuary, the round is restarted, with fighters clambering back to their initial positions.
  
 As soon as fighters come into contact with each other in the Ring, a series of grapples and holds are attempted, with each fighter struggling to overpower the other.
  
@@ -55,7 +55,7 @@ Victory occurs as soon as a fighter is thrown out of the ring and onto the hard 
  
 ## Winnings
  
-Wrestlers can expect to earn significant income, depending on their sponsors, and whether the organisers of the fight have provided for a Victor’s Prize or not. The prizes range from magical items, to cold hard currency.
+Wrestlers can expect to earn significant income, depending on their sponsors, and whether the organizers of the fight have provided for a Victor’s Prize or not. The prizes range from magical items, to cold hard currency.
  
 As these matches are underground events, gambling amongst the audience is commonplace, and often, punters even pay off certain wrestlers to lose. Fortunately, this is frowned upon by the enthusiasts, and fighters who obviously throw matches will find their career a very short one indeed.
  
@@ -65,7 +65,7 @@ There are many variations to the basic fight described above, with larger rings 
  
 ## Summary
  
-Temuairian Wrestling is making a comeback. Though frowned upon by many mundanes as a throwback to a more violent age, I see it as a noble sport, where differences can be solved by a means other than constant bickering. Of course, the potential for it degenerating into something deplorable is definitely present and as long as it remains an underground sport, that potential only grows.
+Temuairan Wrestling is making a comeback. Though frowned upon by many mundanes as a throwback to a more violent age, I see it as a noble sport, where differences can be solved by a means other than constant bickering. Of course, the potential for it degenerating into something deplorable is definitely present and as long as it remains an underground sport, that potential only grows.
  
 _Klaudaryn Armagh, Deoch 7._
 
