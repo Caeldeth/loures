@@ -124,7 +124,11 @@ This part of the scroll simulates the actual ascension in as much details as pos
 
 |Purchase Health|Purchase Mana|
 |-|-|
-|[![Health](images/destine_ascension_14.png)](http://www.darkages.com/2000/community/lore/Destine_Ascension/BuyHit points.htm)|![http://www.darkages.com/2000/community/lore/Destine_Ascension/BuyMana.htm](images/destine_ascension_15.png)|
+|[![Health](http://www.darkages.com/2000/community/lore/Destine_Ascension/BuyHit points.htm)](https://github.com/Caeldeth/loures/blob/master/Lore/images/destine_ascension_14.png)|![http://www.darkages.com/2000/community/lore/Destine_Ascension/BuyMana.htm](images/destine_ascension_15.png)|
+
+
+
+
 
 >_Editor's Note: The ascension calculators no longer function and have not been included_
 
