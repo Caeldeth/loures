@@ -93,11 +93,13 @@ to 6700. You can buy hit points as long as you have sufficient exp.
 In the Gramail temple stands Gramail Toiseach, the god of law. Gramail will raise your will power according to your experience and your current will power.
 
 ```
-You raise your mana by buying one unit of 25mana at a time. The amount of experience required is determined by your current mana:
+You raise your mana by buying one unit of 25mana at a time. The amount of experience required 
+is determined by your current mana:
 
 current mana x 500 = experience required to buy 25 mana
 
-For example, to raise your mana from 5000 to 5025 it will take 5000 x 500 = 2500000 experience (2.5mil). You can buy mana as long as you have sufficient exp.
+For example, to raise your mana from 5000 to 5025 it will take 5000 x 500 = 2500000 experience (2.5mil). 
+You can buy mana as long as you have sufficient exp.
 ```
 
 After you are done with ascension, you can choose to descend back to Temuair. You can ascend anytime and any number of times you want, following the same procedure.
