@@ -135,11 +135,11 @@ Below is an overview of the raw data for the feral cats of Temuair and Medenia a
 
 |Image|Name|Cost|Dyeable?|Summon?|
 |-----|----|----|--------|-------|
-||![](images/cittikat_feline_3.gif)|Pet Black Cat|1,000,000 Gold <br> ![](images/cittikat_feline_18.png) <br> 10 Spider's Silk <br> ![](images/cittikat_feline_19.png)|No|No|
-||![](images/cittikat_feline_4.gif)|Pet Bast Cat|1,000,000 Gold <br> ![](images/cittikat_feline_18.png)|No|Yes|
-||![](images/cittikat_feline_7.gif)|Top Hat Cat|525 Kruna <br> ![](images/cittikat_feline_20.png)|Yes|No|
-||![](images/cittikat_feline_8.gif)|Leopard Buddy|250 Kruna <br> ![](images/cittikat_feline_20.png)|No|No|
-||![](images/cittikat_feline_9.gif)|Lion Buddy|350 Kruna (Random Item Chance) <br> ![](images/cittikat_feline_20.png)|No|No|
+|![](images/cittikat_feline_3.gif)|Pet Black Cat|1,000,000 Gold <br> ![](images/cittikat_feline_18.png) <br> 10 Spider's Silk <br> ![](images/cittikat_feline_19.png)|No|No|
+|![](images/cittikat_feline_4.gif)|Pet Bast Cat|1,000,000 Gold <br> ![](images/cittikat_feline_18.png)|No|Yes|
+|![](images/cittikat_feline_7.gif)|Top Hat Cat|525 Kruna <br> ![](images/cittikat_feline_20.png)|Yes|No|
+|![](images/cittikat_feline_8.gif)|Leopard Buddy|250 Kruna <br> ![](images/cittikat_feline_20.png)|No|No|
+|![](images/cittikat_feline_9.gif)|Lion Buddy|350 Kruna (Random Item Chance) <br> ![](images/cittikat_feline_20.png)|No|No|
 
 ## Acknowledgments
 
