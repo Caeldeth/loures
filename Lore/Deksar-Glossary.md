@@ -25,7 +25,7 @@ Every Aisling needs a craft. When an Aisling starts out they are but a peasant. 
 ||Aisling|1.) One with the spark of Deoch, of inspiration. An "Aisling" is a Mundane touched with this "spark". We are the blessed, the cursed. We have the power to both stop evil and start it. Wield the light and the dark, destroy and create. In plain Terran speak, all "players" of this "game" are "Aislings". <br> 2.) Certain people call themselves "Aislings", but in fact they are more dull and uninspired in nature. So the term "True Aisling" came into being, and is used to describe the more inspired and better example of what an "Aisling" should be. <br> Common Use of 2nd definition: "He is a true Aisling!" "She has the spark of a true Aisling."|
 ||Aisling Teachers <br> or Mileth College Instructors|An Aisling who has won the Mundane Contest may be able to teach at Mileth College. Although true experience may be gained in the college, "real experience" can also be gained by attending a class.|
 
-![](images/deksar_glossary_6.png)
+![](images/deksar_glossary_6.png)  
 ___A classroom___
 
 |Image|Name|Description|
@@ -49,7 +49,7 @@ ___A classroom___
 |![](images/deksar_glossary_10.png)|Higgling <br> or Higgler <br> or Banker <br> or Tailor|1). The mundanes can either store your items in their Bank, or gather some fine items like silk from afar at the Tailors. <br> 2). A Rogue, with the help of a Mundane Banker, can "higgle" items. Higgling is like a "searching" job, and requires labor time and some coins to the Mundane, but may give rare and valuable items. Higgling with another Rogue, of course, lets ye search better and ye usually find more items.|
 ||Hunting <br> The Hunt|Hunting down such things as Rats or Goblins for combat experience and bounty. All creatures drop something or other, which serves some purpose either for learning a spell or skill or just lining an Aisling's pocketbook. <br> Common Uses: "Do ye want to hunt?" "I wish to hunt!" "Can ye PLEASE hunt with me?" "Deksar never goes hunting!"|
 
-![](images/deksar_glossary_11.png)
+![](images/deksar_glossary_11.png)  
 ___A Hunt in the Woodlands___
 
 
@@ -61,7 +61,7 @@ ___A Hunt in the Woodlands___
 |![](images/deksar_glossary_13.png)|Beasts of Lag <br> or Demons of Lag <br> or Falling Unconscious or Fainting <br> Holes in the Floor|There are many different phrases of Temuair to talk about a very annoying and sometimes very dangerous problem of Temuair: The Power of Lagh (or more commonly known as "Lag").|
 ||Love of the Fae <br> Bond of Love <br> Fae Love|Upon an Aisling's 11th insight, they can declare their love for any Aisling in the Lover's Glade within the Eastern Woodlands. This love can be either intimate or just platonic (love of a friend or brother).|
 
-![](images/deksar_glossary_14.png)
+![](images/deksar_glossary_14.png)  
 ___Love of the Fae___
 
 
@@ -70,14 +70,14 @@ ___Love of the Fae___
 |![](images/deksar_glossary_15.png)|Mana|A common Terran word as well, this word in the Terran world was first known as "Magic Points", or "MP", and evolved into "Mana Points". It represents yer limit, or limit of "will", in controlling the forces of magick in Temuair. In plain Terran speak, a certain amount of "Mana" is needed to cast spells and use certain secrets. When this is depleted, ye cannot use the spell or secret until the Mana is restored. The amount of yer mana is shown in yer mind with the orange octogram, below the blue octogram. But again, instructed by the gods, it can be shown numerically by "hitting the 'g' key on your keyboard", a phrase I still cannot entirely decipher. Wizards can use a special secret and item to restore mana, while others must wait for Mana to regenerate naturally. <br> Common Uses: "Is yer mana drained?" "How is yer mana?" Slang: "Mana?" or "Mana ok?"|
 ||Marriage|Marriage of two Aislings, a blessed event. This can be done only in a recognized Chapel, such as the one in Mileth Village. Each Aisling much have reached at least the 11th insight to say the vows of holy matrimony.|
 
-![](images/deksar_glossary_16.png)
+![](images/deksar_glossary_16.png)  
 ___Church of Mileth___
 
 |Image|Name|Description|
 |-----|----|-----------|
 ||Mass <br> or Religous Mass|Religious Mass to worship of a god. Mass is conducted by a mass holder, or "high priest/priestess". Ye can gain valuable insight in mass from the mass holder and speakers, and if ye are of that religion's Trinity, ye can gain "real" experience and faith from participating. However, this can be done only once per god per double-moon, or 1 Terran week. Respect must be shown in mass, for priests of that religion have the ability to banish from the temple or even excommunicate a troublemaker. The first is not permanent and only lasts 3 days, or 12 Terran hours, but the latter is permanent. <br> Common Use: (note the common use is slang) "I need to go to mass." "I am holding mass tonight". "Is mass EVER going to start?" (this is very rude and disrespectful)
 
-![](images/deksar_glossary_17.png)
+![](images/deksar_glossary_17.png)  
 ___Religous Mass to Cail___
 
 |Image|Name|Description|
@@ -93,14 +93,14 @@ ___Religous Mass to Cail___
 ||Scar of Sgrios|The Scar left by "Sgrios" on yer soul after a brush with death. The Scar of Sgrios can be seen by all Aislings once it is made, but it can be removed by a Gliocan, Deochian, or Cail worshipper. The Scar of Sgrios is mainly a mark of shame or valor whichever way ye look at it, its powers are said to only affect guiding a young Aisling. Also see Sgrios. <br> Common Uses: "Please heal my Scar of Sgrios!" "I got a Scar of Sgrios!" Slang: "Please heal my scar!"|
 ||Secrets|Secrets tricks of the trade, such as a Rogue's knowledge of Traps. Since these secrets are magickal in nature, yer mana may be consumed by them. Spells are also technically "secrets".|
 
-![](images/deksar_glossary_24.png)
+![](images/deksar_glossary_24.png)  
 ___A Priest's Spells and Secrets___
 
 |Image|Name|Description|
 |-----|----|-----------|
 ||Skills|Skill to use a weapon or technique. These are attacks and techniques which do not need mana to work properly.|
 
-![](images/deksar_glossary_25.png)
+![](images/deksar_glossary_25.png)  
 ___A Rogue's Skills___
 
 |Image|Name|Description|
@@ -112,7 +112,7 @@ ___A Rogue's Skills___
 ||Temuair <br> or Temuairan|Plain enough, the world of Dark Ages. The adjective is usually said to be "Temuairan". <br> Common Uses: "In all of the world of Temuair..." "This is Temuairan Society".|
 ||Temple of Choosing|All Aislings must choose their craft here, with a guide. It is located in Mileth Village, east of the "benches".|
 
-![](images/deksar_glossary_27.png)
+![](images/deksar_glossary_27.png)  
 ___The Temple of Choosing, in Mileth___
 
 |Image|Name|Description|
@@ -167,7 +167,7 @@ A much more in-depth guide to the gods of Temuair can be found in the "manual" y
 |![](images/deksar_glossary_56.png)|Sgrios|The God of Death, Destruction, and Chaos, it is Sgrios who scars yer soul when ye almost feel the slice of the reaper's scythe. Sgrios is kin the Dubhaimid like Deoch once was. Many worshippers of Sgrios feel that Sgrios is an evil god, that they must cause death and chaos to other Aislings to please him. Sgrios might actually want this, as he gives his worshippers ways to cause all kinds of trouble, including provide real danger to other Aislings. Sgrios's allies are Ceannlaidir, and, because Deoch was once kin of the Dubhaimid and a close ally, Deoch. Sgrios's enemies are Gramail and Cail. The Temple of Sgrios is somewhat a secret location within the Castle of Dubhaim.|
 |![](images/deksar_glossary_39.png)|Summon and Summonings|A worshipper of any faith can summon a creature that will do their bidding if they have enough favor with their god or goddess. Usually summoned creatures are passive towards Aislings, but a summoning of Sgrios may be aggressive and even kill Aislings. However this leaves the summoner vulnerable to attack by other Aislings.|
 
-![](images/deksar_glossary_40.png)
+![](images/deksar_glossary_40.png)  
 ___A Summoning of Sgrios's Hostile Monsters Attack!___
 
 |Image|Name|Description|
@@ -187,7 +187,7 @@ ___A Summoning of Sgrios's Hostile Monsters Attack!___
 |![](images/deksar_glossary_46.png)|Guard Captains|Leaders of the Guards, ye must be a Guard for a few terms to become a Guard Captain. Guard Captains can be recognized by the Guard Helmet, an iron helmet with a "t"-shape opening.|
 ||Judge|A Judge is the ultimate side of the law enforcers. A Judge holds trials and interprets law. A Judge is also in charge of keeping the Guard Captains in order. Ye must be a Guard Captain for quite a few terms to become a Judge. I would suppose a Judge would wear a black robe, however I have never seen the Judge's robes. In fact, I believe a Judge gains no robes for his or her position.|
 
-![](images/deksar_glossary_47.png)
+![](images/deksar_glossary_47.png)  
 ___The Courts of Rucesion___
 
 |Image|Name|Description|
@@ -195,7 +195,7 @@ ___The Courts of Rucesion___
 ||Respected Citizens|A citizen respected by the members of their town, they have to admit someone as a Citizen or a Guest. The latter is only fer making an Aisling change his or her name, as only Aisling towns keep records of names. Some towns have laws on admitting citizens and should be followed.|
 ||Sgath: The Shadow Hunger|Kin to the Dubhaimid, ye do NOT want Sgath summoned on ye. Horrible, HORRIBLE things happen... things I would not like to go into in case anyone younger than 300 Deochs is reading this, including myself. Thankfully a summoning of Sgath has not happened for a long time. A Demagogue would be the one to summon Sgath, if that ever be needed (hopefully not).|
 
-![](images/deksar_glossary_48.png)
+![](images/deksar_glossary_48.png)  
 ___The domain of Sgath - Only an office holder can enter___
 
 ## Section 5: Combat Slang
