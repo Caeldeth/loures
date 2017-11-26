@@ -48,3 +48,12 @@ This is a simple chart showing the items that I have found in my treasure runs i
 
 _Complied from the journal of Hyo Shiroji by Gokuden Ishraki._   
 _May Ceannlaidir guide his blade, and Sgrios stay his hunger..._
+
+***
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original can be found at http://www.darkages.com/2000/community/lore/Gokuden_Heart/index.html .
+```
