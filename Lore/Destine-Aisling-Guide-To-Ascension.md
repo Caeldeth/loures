@@ -127,6 +127,7 @@ This part of the scroll simulates the actual ascension in as much details as pos
 |[![Health](http://www.darkages.com/2000/community/lore/Destine_Ascension/BuyHit points.htm)](https://github.com/Caeldeth/loures/blob/master/Lore/images/destine_ascension_14.png)|![http://www.darkages.com/2000/community/lore/Destine_Ascension/BuyMana.htm](images/destine_ascension_15.png)|
 
 
+[![Health][https://github.com/Caeldeth/loures/blob/master/Lore/images/destine_ascension_14.png](http://www.darkages.com/2000/community/lore/Destine_Ascension/BuyHit points.htm)
 
 
 
