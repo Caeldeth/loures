@@ -2,6 +2,8 @@
 
 _by Eugorp in_ ___Dark Ages___
 
+![](images/eugorp_oren_1.png)
+
 Hello! I am eugorP, and this is my Lore on the Oren Pirates Quest! Inside I give a detailed, word for word dialogue from Baldo himself. This Lore is quite interactive, so I hope you enjoy your stay and maybe even learn something while you're here.
 
 `((Note: Some of what Baldo says is gramatically incorrect, nevertheless, I quoted him exactly.))`
@@ -110,10 +112,10 @@ Baldo will then award you with a Pirate Garb (male) or Pirate Dress (female)
 ![](images/eugorp_oren_3.png)  
 ___Oren Island___
 
-![](images/eugorp_oren_4.png)  
+![](images/eugorp_oren_4.png)   
 ___Oren Ruins___
 
-![](images/eugorp_oren_5.png)
+![](images/eugorp_oren_5.png)  
 ___Oren Map___
 
 ## Prizes
