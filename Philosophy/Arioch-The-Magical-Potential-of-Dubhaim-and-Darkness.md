@@ -2,7 +2,7 @@
 
 _by Arioch in **Dark Ages**_
 
-_A Philosophical Treatise by Wizard Arioch al�Tarasin_
+_A Philosophical Treatise by Wizard Arioch al'Tarasin_
 
 This world we live in is one of mystery and power. Think for a moment upon the
 deeds of heroes in legend or even the deeds that take place to this day: power
@@ -98,6 +98,6 @@ betterment of our lives and kingdoms from here until the end of time.
 *Librarian Notes*
 
 This entry has been edited to conform to Library formatting.
-The original can be found at http://www.darkages.com/community/lit/Arioch_Darkness.html .
+The original can be found at http://www.darkages.com/community/phi/Arioch_Darkness.html .
 ```
 
