@@ -27,10 +27,12 @@ We also have a [lexicon](./LEXICON.md) of common Temuairan terms.
 
 ### Loures Library
 
-[Philosophy](./Philosophy/README.md) [103 works, 25 missing/lost]  
-[History](./History/README.md) [81 works]  
+[Philosophy](./Philosophy/README.md) [103 works, 25 missing/lost]
+[History](./History/README.md) [81 works]
+[Literature](./Literature/README.md) [148 works]
 
 ### The Library of Mileth
 
-[Folklore](Mileth/Folklore) [2 works]  
+[Folklore](Mileth/Folklore) [2 works]
+
 
