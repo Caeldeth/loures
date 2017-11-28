@@ -36,6 +36,8 @@ _Lailia, Priestess of Sgrios_
 ```
 *Librarian Notes*
 
+This entry is considered one of the greatest treasures of Temuair.
+
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/community/lit/Laila_Innocence.html .
 ```
