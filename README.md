@@ -25,14 +25,12 @@ We also have a [lexicon](./LEXICON.md) of common Temuairan terms.
 
 ## Currently Open Library Sections
 
-### Loures Library
+### The Aisling Library of Loures
 
-[Philosophy](./Philosophy/README.md) [103 works, 25 missing/lost]  
+[Philosophy](./Philosophy/README.md) [130 total works, 25 missing/lost]  
 [History](./History/README.md) [81 works]  
-[Literature](./Literature/README.md) [148 works]  
+[Literature](./Literature/README.md) [171 total works, 17 missing/lost]  
 
-### The Library of Mileth
+### The Village Library of Mileth
 
 [Folklore](Mileth/Folklore) [3 works]  
-
-

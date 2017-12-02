@@ -137,6 +137,7 @@ with us._
 | Morrigan           | ![This work has been lost](../images/questionmark.png) [Garden of Night](Morrigan-Garden-of-Night.md)                                                                                   |
 | Morrigan           | [Morrigan's Shadow](Morrigan-Morrigan-s-Shadow.md)                                                                               |
 | Morrigon           | [The Reunion](Morrigon-The-Reunion.md)                                                                                           |
+| Naze               | [The Chest](Naze-The-Chest.md)                                                                                                   |
 | Nostrus            | [Awakening](Nostrus-Awakening.md)                                                                                                |
 | Palin              | ![Treasure of Temuair](../images/octagram.png) [The Kid and The Ruby](Palin-The-Kid-and-The-Ruby.md)                                                                            |
 | Palleon            | [Father](Palleon-Father.md)                                                                                                      |
