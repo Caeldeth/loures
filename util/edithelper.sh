@@ -17,7 +17,6 @@ function _edit()
     mv $2.md $AUTHOR-$NEW_FILENAME.md
 }
 
-# Use like so:
 # editentries <category> derpy-1990s-html-*.html
 
 function editentries()
@@ -35,4 +34,15 @@ function editentries()
         fi
         shift
     done
+}
+
+# missingentry <author> <QUOTED title>
+# missingentry Kedian "Derpy Derp"
+
+function missingentry()
+{
+    AUTHOR=$1
+    NEW_FILENAME=$(echo $2 | iconv -t ascii//TRANSLIT | sed -E s/[^a-zA-Z0-9]+/-/g | sed -E s/^-+\|-+$//g)
+    echo "creating placeholder for ${AUTHOR}, ${2} in ${AUTHOR}-${NEW_FILENAME}.md"
+    cat ../util/missing.md | sed -e "s/%%AUTHOR%%/${AUTHOR}/" | sed -e "s/%%TITLE%%/${2}/" > ${AUTHOR}-${NEW_FILENAME}.md
 }
