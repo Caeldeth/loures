@@ -8,7 +8,7 @@ _Diermoor, the wanderer_
 _follower of Luathas_
 
 
-![](images/diermoor_wanderer_1.png)
+![](images/diermoor_tome_1.png)
 
 ## The Towns and Cities of Temuair
 
