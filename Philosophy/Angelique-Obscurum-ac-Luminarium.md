@@ -15,9 +15,9 @@ _Over the Grinneals, Danaans, and even Deochs, theology has played a major role 
 Octagram|Figures
 --------|-------
 Figure 1: The Traditional Octagram|Figure 2: Theoretical Arrangement
-[![Figure 1: The Traditional Octagram](images/ange_obscurum_octagram_traditional_small.png)](images/ange_obscurum_octagram_traditional.png)|[![Figure 2: Theoretical Arrangement](images/ange_obscurum_octagram_new_small.png)](images/ange_obscurum_octagram_new.png)
+[![Figure 1: The Traditional Octagram](images/ange_obscurum_octagram_traditional.png)](images/ange_obscurum_octagram_traditional.png)|[![Figure 2: Theoretical Arrangement](images/ange_obscurum_octagram_new.png)](images/ange_obscurum_octagram_new.png)
 Figure 3: Altruism against Selfishness|Figure 4: Order against Chaos
-[![Figure 3: Altruism against Selfishness](images/ange_obscurum_octagram_good_evil_small.png)](images/ange_obscurum_octagram_good_evil.png)|[![Figure 4: Order against Chaos](images/ange_obscurum_octagram_chaos_order_small.png)](images/ange_obscurum_octagram_chaos_order_small.png)
+[![Figure 3: Altruism against Selfishness](images/ange_obscurum_octagram_good_evil.png)](images/ange_obscurum_octagram_good_evil.png)|[![Figure 4: Order against Chaos](images/ange_obscurum_octagram_chaos_order.png)](images/ange_obscurum_octagram_chaos_order_small.png)
 
 ---
 
