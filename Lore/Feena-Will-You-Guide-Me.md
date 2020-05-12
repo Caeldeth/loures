@@ -68,7 +68,7 @@ Aisling mentoree:
 ||Woods lore from Fae priestess in Mileth|
 ||Fae love lore from fae priestess in Mileth|
 ||Entreaties lore from fae priestess or dark wizard in Mileth (priest and wizard only)|
-||Graymayre lore from fae priestess or dark wizard in Mileth (priest and wizard only)|
+||Greymayre lore from fae priestess or dark wizard in Mileth (priest and wizard only)|
 ||"On Honey" quest from fae priestess in Mileth|
 ||"Little bit of that" quest from alchemist in Mileth|
 ||"Dark things" quest from dark wizard in Mileth|
@@ -77,6 +77,13 @@ Aisling mentoree:
 ||Gods lore from shrine attendant OR if fragile fae priestess in Suomi|
 ||Bank and how to use|
 ||Labour and its uses|
-||Potions and other itemsof use in battle|
+||Potions and other items of use in battle|
 ||First hunt|
 ||Religion and benefits between the Gods|
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original can be found at http://www.darkages.com/community/lore/Feena_Mentor/index.html .
+```

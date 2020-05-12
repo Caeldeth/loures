@@ -8,7 +8,7 @@ It is separated into five nonlinear sections, designed to be read in any order. 
 
 + "Who are you?" - a simple questionnaire in an attempt to show you who your character is. and provide a small background. I suggest you read this first.
 
-+ The World - This piece includes ways I suggest to tie your character into the fantasy world of Temuair. These kinds of things are most notable; includes several law citations and "don’ts”. It is second in importance only to the things you learn on your own from "Who are you?"
++ The World - This piece includes ways I suggest to tie your character into the fantasy world of Temuair. These kinds of things are most notable; includes several law citations and "don'ts”. It is second in importance only to the things you learn on your own from "Who are you?"
 
 + Using the Old Tongue - This gives advanced suggestions into using Gaelic, the Old Tongue, to make your character's speech more authentic. This also gives suggestions in the use of accents.
 

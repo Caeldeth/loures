@@ -4,9 +4,9 @@ _by Galadriei in_ ___Dark Ages___
 
 ![](images/galadriei_tongue_1.gif)
 
-During transcribing the ancient scripts i discovered a lot of words in the 'Old Tongue', which were used by people of the first ages. Because many of these words are still used by the mundanes of temuair although most aislings do not know their meanings, i decided to put a few of them (i hope i got the most important ones) into this lore.
+During transcribing the ancient scripts i discovered a lot of words in the 'Old Tongue', which were used by people of the first ages. Because many of these words are still used by the mundanes of Temuair although most aislings do not know their meanings, i decided to put a few of them (i hope i got the most important ones) into this lore.
 
-Unfortunately mundanes forgot the right pronunciation of some ancient words; they speak some kind of 'temuairian slang', simplifications of the ancient words. I put all together in the following tables with a translation into common language, spoken by most aislings.
+Unfortunately mundanes forgot the right pronunciation of some ancient words; they speak some kind of 'Temuairan slang', simplifications of the ancient words. I put all together in the following tables with a translation into common language, spoken by most aislings.
 
 To further imaginations of certain meanings, i added some drawings. 
   
@@ -92,3 +92,10 @@ If you ever find any further words in ancient language i did not mentioned, tell
 _by Galadriei Altariel_  
 _Lady of the Light_  
 _Sal Mage of Temuair_  
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original can be viewed here http://www.darkages.com/community/lore/Galadriei_Tongue/index.html .
+```

@@ -92,7 +92,7 @@ _A description of the most helpful manner in which to post a report of banishmen
 
 It is essential, if not required by law, for a Guard to report that they have banished a criminal. It is best if this report is filed as quickly as possible, and it should be posted to the proper Slate or Board per whatever directives exist in the Guard’s jurisdiction.
 
-The most effective manner of posting a banishment is to write a brief, but complete, account of the situation including the names of any witnesses and the presence of any relevant memories ((screen shots)). The posting should be titled, simply, as "Banished <Criminal>" so that Demagogues, Burgesses, and Judges can easily find it.
+The most effective manner of posting a banishment is to write a brief, but complete, account of the situation including the names of any witnesses and the presence of any relevant memories ((screen shots)). The posting should be titled, simply, as "Banished [Criminal]" so that Demagogues, Burgesses, and Judges can easily find it.
 
 ## Forgiving Banishments
 

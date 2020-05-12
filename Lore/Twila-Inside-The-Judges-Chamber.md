@@ -19,7 +19,7 @@ This guide is my attempt to summarize the duties of a Judge as per my experience
 
 The office of Judge carries with it a great deal of responsibility. It is the duty of the Judge to interpret the law as written in the city of his or her jurisdiction, to determine the fairness of said law, and to pass sentence on those who disobey the aforementioned law or laws.
 
-A Judge must be able to set aside all bias, completely disregarding the path, religious affiliation, guild or motley association, or any personal involvements with the accused when seated at the bench. This does not mean you become a coldhearted machine. You must remain human and tangible to those you are about to judge without ever letting them forget you are in charge.
+A Judge must be able to set aside all bias, completely disregarding the path, religious affiliation, guild or motley association, or any personal involvements with the accused when seated at the bench. This does not mean you become a cold-hearted machine. You must remain human and tangible to those you are about to judge without ever letting them forget you are in charge.
 
 You must possess the ability to listen, and listen you must, for a distraught Aisling will feel a great need to vocalize their woes. You must also know when to speak and when to hold your tongue. Never, never argue or make decisions in haste or anger. Remember that an Aisling who feels they have been wronged will be emotionally charged, do not let yourself get caught up in this wave of emotion or you will most certainly lose control of the situation.
 
@@ -93,7 +93,7 @@ This would bring the trial to a close. Kindly thank all of the Aislings involved
 
 ## Recording Trial Proceedings
 
-A brief summary of all court proceedings must be posted to the Judgements board as soon as possible.
+A brief summary of all court proceedings must be posted to the Judgments board as soon as possible.
 
 ## Conclusion
 

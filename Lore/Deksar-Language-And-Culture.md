@@ -4,19 +4,19 @@ _by Deksar in_ ___Dark Ages___
 
 `Note: All of this is out-of-character, of course.`
 
-_A few note before we continue: When you develop your accent, remember that postings on a board or letters shouldn't include your accent. You are writing these posts and letters, not saying them outloud. Also note that all "suggestions" assume English is your native language. And, finally, if the name ends with an "a", there is a good chance its a feminine name. If you want to know, check the sources._
+_A few note before we continue: When you develop your accent, remember that postings on a board or letters shouldn't include your accent. You are writing these posts and letters, not saying them out loud. Also note that all "suggestions" assume English is your native language. And, finally, if the name ends with an "a", there is a good chance its a feminine name. If you want to know, check the sources._
 
 ## Mileth: Pagan Ireland
 
 The mythology of Pagan Ireland is that of the ancient Celtics and some Irish sects. Also known as the Druids, the Celtics worshipped the stars and the earth. Their religion is what fuels Darks Ages, and therefore is extremely important to understand.
 
 ### Mythology
-The race of Irish gods were supposedly created by the goddess Danu. They were called the tutha dé dannan (People of the Goddess Danu). The gods were believed to have "mastered" the art of magic, and taken root in what was going to be known "Ireland". Note that the Celtics worshiped nature, so that had a vast number of river, forest, etc. gods and goddesses.
+The race of Irish gods were supposedly created by the goddess Danu. They were called the tutha dé danan (People of the Goddess Danu). The gods were believed to have "mastered" the art of magic, and taken root in what was going to be known "Ireland". Note that the Celtics worshiped nature, so that had a vast number of river, forest, etc. gods and goddesses.
 
 The Celtics had MANY gods of academia and written works, but not that many of war, death, etc. This makes sense, since the Druids were more philosophers then war-makers.
 
 ### Language
-Irish Gaelic is not an easy thing to learn. However, it sports the backbone of the "old tounge" of Dark Ages. Irish Gaelic is used in the names of all of the spells. So, here goes. Note that one of the manual's regular links is a very good source of Irish Gaelic.
+Irish Gaelic is not an easy thing to learn. However, it sports the backbone of the "old tongue" of Dark Ages. Irish Gaelic is used in the names of all of the spells. So, here goes. Note that one of the manual's regular links is a very good source of Irish Gaelic.
 
 Nuair a bhíonn an fíon istigh,  
 bíonn an ciall amuigh.  

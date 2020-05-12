@@ -48,7 +48,7 @@ That the gold shouldn't have been that high to begin with is another story.
 
 ## Conclusion.
 
-The Economics of Temuair are not easy to figure out. Some of this may be wrong but these are my theories which in simplicity states that prices are everchanging due to demand and supply. I hope you have gotten an overview of some of the aspects of the economics, there are many more, but these are the ones that I have thought about and wished to share with you all.
+The Economics of Temuair are not easy to figure out. Some of this may be wrong but these are my theories which in simplicity states that prices are ever-changing due to demand and supply. I hope you have gotten an overview of some of the aspects of the economics, there are many more, but these are the ones that I have thought about and wished to share with you all.
 
 All in all, we know this for a fact: Some prices will go up, some prices will go down and some people will get richer. But maybe we can all understand better as to why if we try.
 

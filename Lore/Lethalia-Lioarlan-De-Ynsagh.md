@@ -387,8 +387,8 @@ This scroll will help ye to understand a bit about the miscellaneous armor found
 |Shield|Name|Insight|Cost|Purchase Location|
 |-|-|-|-|-|
 |![Wooden Shield](images/lethalia_lioarlan_misc_shield_1.png)|Wooden Shield|1st insight|100 coins|Torrance's Armor - Mileth|
-|![Leather Shield](images/lethalia_lioarlan_misc_shield_2.png)|Leather Shield|15th insight|750 coins|Torrance's Armor - Piet|
-|![Bronze Shield](images/lethalia_lioarlan_misc_shield_3.png)|Bronze Shield|31st insight|3,750 coins|Torrance's Armor - Suomi|
+|![Leather Shield](images/lethalia_lioarlan_misc_shield_2.png)|Leather Shield|15th insight|750 coins|Leo's Armor - Piet|
+|![Bronze Shield](images/lethalia_lioarlan_misc_shield_3.png)|Bronze Shield|31st insight|3,750 coins|Valdemar's Armor - Suomi|
 |![Iron Shield](images/lethalia_lioarlan_misc_shield_4.png)|Iron Shield|45th insight|Found|Found|
 |![Mythril Shield](images/lethalia_lioarlan_misc_shield_5.png)|Mythril Shield|61st insight|Found|Found|
 |![Hy-Brasyl Shield](images/lethalia_lioarlan_misc_shield_6.png)|Hy-Brasyl Shield|77th insight|Found|Found|
@@ -543,7 +543,7 @@ This scroll will help ye to understand a bit about the magical rings of Temuair
 |![Talos Ring](images/lethalia_lioarlan_misc_ring_3.png)|Talos Ring|4th insight|3,000 coins|+100 Health|Leo's Armor Shop - Piet|
 |![Beryl Ring](images/lethalia_lioarlan_misc_ring_4.png)|Beryl Ring|5th insight|3,000 coins|+50 Mana|Alexios's Armor Shop - Undine|
 |![Ruby Ring](images/lethalia_lioarlan_misc_ring_5.png)|Ruby Ring|6th insight|20,000 coins|+200 Health|Torreance's Armor Shop - Mileth|
-|![Coral Ring](images/lethalia_lioarlan_misc_ring_6.png)|Coral Ring|7th insight|20,000 coins|+100 Mana|'s Armor Shop - Abel <br> Alexios's Armor Shop - Undine|
+|![Coral Ring](images/lethalia_lioarlan_misc_ring_6.png)|Coral Ring|7th insight|20,000 coins|+100 Mana|Steiner's Armor Shop - Abel <br> Alexios's Armor Shop - Undine|
 |![Lapis Ring](images/lethalia_lioarlan_misc_ring_7.png)|Lapis Ring|8th insight|50,000 coins|+300 Health <br> +2 Damage|Alexios's Armor Shop - Undine|
 |![Red Jade Ring](images/lethalia_lioarlan_misc_ring_8.png)|Red Jade Ring|10th insight|5,000 coins|+200 Health <br> +100 Mana|Leo's Armor Shop - Piet|
 |![Spinel Ring](images/lethalia_lioarlan_misc_ring_9.png)|Spinel Ring|11th insight|5,000 coins|+500 Health <br> +2 Hit|Leo's Armor Shop - Piet|

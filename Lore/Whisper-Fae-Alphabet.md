@@ -113,3 +113,10 @@ Tarot: 8, Strength (also I) / Astro: Leo, Fire / Rune: Uruz
 
 Z ~ Zeth,Zath,Zil,Zor,Zun,Zae,Zay  
 Tarot: 21, World (also S) / Astro: Saturn, Air & Earth / Rune: Mannaz
+
+```
+*Librarian Notes*
+
+This entry has been edited to conform to Library formatting.
+The original can be found at http://www.darkages.com/community/lore/Whisper_Fae_Abc.html .
+```

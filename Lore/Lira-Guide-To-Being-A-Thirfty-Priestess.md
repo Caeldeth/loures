@@ -43,7 +43,7 @@ A very expensive item that becomes a necessity the higher insight you become is 
 
 At your ninety-seventh insight, you are able to make your final armor, the Bansagart. Many ways exist to make this garment, tailored in the twentieth area of the East Woodlands. If you have gained Aisling recognition throughout your journeys, you may make it using just a single piece of Hybrasyl, thus becoming an Aisling of Hybrasyl. Hybrasyl can be found scattered along the ground in the Cthonic Remains, as well as in Kasmanium Mines.
 
-You may also become an Aisling of Mythril by making your armor after mentoring two hundred times. The last way to make your armor is to become an Aisling of Talgonite. By using twenty-four pieces of finished talgonite and sacrificing fifty million experience, you may tailor your armor. But beware, if you do not make your armor by your ninty-ninth insight, and you are not an Aisling of Hybrasyl, you will have to sacrifice one hundred million experience to make the Bansagart.
+You may also become an Aisling of Mythril by making your armor after mentoring two hundred times. The last way to make your armor is to become an Aisling of Talgonite. By using twenty-four pieces of finished talgonite and sacrificing fifty million experience, you may tailor your armor. But beware, if you do not make your armor by your ninety-ninth insight, and you are not an Aisling of Hybrasyl, you will have to sacrifice one hundred million experience to make the Bansagart.
 
 ## A Final Note
 

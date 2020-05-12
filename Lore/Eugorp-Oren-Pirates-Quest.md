@@ -6,9 +6,9 @@ _by Eugorp in_ ___Dark Ages___
 
 Hello! I am eugorP, and this is my Lore on the Oren Pirates Quest! Inside I give a detailed, word for word dialogue from Baldo himself. This Lore is quite interactive, so I hope you enjoy your stay and maybe even learn something while you're here.
 
-`((Note: Some of what Baldo says is gramatically incorrect, nevertheless, I quoted him exactly.))`
+`((Note: Some of what Baldo says is grammatically incorrect, nevertheless, I quoted him exactly.))`
 
-The quest is given to you by a very concerned Oren citizen named Baldo. He also refuses to put someone who is not physically ready, in harms way, with that said, you must be atleast level 90 to receive his first instruction.
+The quest is given to you by a very concerned Oren citizen named Baldo. He also refuses to put someone who is not physically ready, in harms way, with that said, you must be at least level 90 to receive his first instruction.
 
 ## A Quick Explanation: How to Defeat the Oren Pirates
 
@@ -128,8 +128,13 @@ There are two prizes that come out of this quest for each gender.
 
 Upon receiving each prize, you are also awarded 200,000 experience. 
 
-As an added bonus, every three pirates you kill, Baldo gives you a legend mark. This legend mark only goes up by incriments of three and continues on infinitely after the last prize is received (every three you kill).
+As an added bonus, every three pirates you kill, Baldo gives you a legend mark. This legend mark only goes up by increments of three and continues on infinitely after the last prize is received (every three you kill).
 
 "Has Defeated __ of Oren's Pirates"
 
+```
+*Librarian Notes*
 
+This entry has been edited to conform to Library formatting.
+The original can be found (in flash) at http://eugorp.wix.com/test .
+```

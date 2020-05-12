@@ -10,7 +10,7 @@ The gods grant their benefits through prayer, which can be performed either at a
 
 To pray within a temple, merely speak to the attendant, and they will guide you through the process. To pray with a necklace, the Aisling must use the appropriate Secret, then drop and immediately pick up their necklace.
 
-An Aisling can pray alone, but the gods are more likely to take notice when one Aisling prays in Fellowship with another. The Aislings need not be worshippers of the same god, but to pray to the same god, both must be well-liked by the god, by worshipping within that god's trinity. Thus, both a Deoch worshipper and a Cail worshipper could pray together to Glioca, since both gods are within Glioca's trinity; but the two worshippers could not pray together to Deoch or to Cail, since the two gods are not memebers of the same trinity.
+An Aisling can pray alone, but the gods are more likely to take notice when one Aisling prays in Fellowship with another. The Aislings need not be worshippers of the same god, but to pray to the same god, both must be well-liked by the god, by worshipping within that god's trinity. Thus, both a Deoch worshipper and a Cail worshipper could pray together to Glioca, since both gods are within Glioca's trinity; but the two worshippers could not pray together to Deoch or to Cail, since the two gods are not members of the same trinity.
 
 Whether or not the Aisling receives the notice of a god, and what form that notice takes, is dependent upon that Aisling's faith. Faith is built up through Giving Thanks, by attending a mass, or by performing a religious geas. While most of the prayers affect only the worshipper, in some cases, if one's faith is great enough, the beneficial effects can "spill over" to other Aislings grouped with the supplicant.
 
@@ -20,9 +20,9 @@ All gods offer two gifts that are common to all of the Pantheon: Summoning and S
 
 Summoning varies widely from god to god, and even more widely by the level of the supplicant's faith. I've seen beginning worshippers with little faith summon simple mice, while extremely faithful priests of Sgrios have summoned Succubi and Gargoyle Fiends. Generally, the summoned creatures will protect the summoner, and attack his enemies; if the summoner attacks his creatures, though, they will turn on him. And Sgrios summoners must beware that their summoned creatures may be hostile immediately after being summoned.
 
-Gods also bestow gifts through their Consecrated items, a gift which reflect's that god's sphere of influence. As far as I know, you need not worship a particular god to receive the benefits of that god's Consecrated item. Thus a Deoch worshipper may wear an item consecrated by Sgrios; although why he would want to is beyond me.
+Gods also bestow gifts through their Consecrated items, a gift which reflects that god's sphere of influence. As far as I know, you need not worship a particular god to receive the benefits of that god's Consecrated item. Thus a Deoch worshipper may wear an item consecrated by Sgrios; although why he would want to is beyond me.
 
-To determine what gifts are besotwed by the gods, I did a great deal of research, both experimenting with items, and questioning various priests and other worshippers of the various gods about what Supplications and Entreaties their god had bestowed upon them. At this point, I would like to extend my thanks to those priests and followers who so patiently answered my questions, and sometimes even experimented with me to see what their god could provide.
+To determine what gifts are bestowed by the gods, I did a great deal of research, both experimenting with items, and questioning various priests and other worshippers of the various gods about what Supplications and Entreaties their god had bestowed upon them. At this point, I would like to extend my thanks to those priests and followers who so patiently answered my questions, and sometimes even experimented with me to see what their god could provide.
 
 Finally, it is my wish that readers of this humble treatise will use it to explore the benefits their god has to offer, as well as the other gods of their Trinity. It is most distinctly not my wish that any Aisling would use this guide to determine which god to follow: such a decision should be based on one's personal beliefs, not on what gifts a god can bestow upon them.
 
@@ -44,7 +44,7 @@ Upon requesting this gift, the worshipper will receive jars of honey, the amount
 
 #### Great Stone Hand
 
-With this prayer, Cail himself wraps a protective hand around the Aisling, granting him both increased defense, and greater regenerative powers. The duration of the protection is determined by the worshipper's faith.
+With this prayer, Cail himself wraps a protective hand around the Aisling, granting him both increased defense, and greater regenerative powers. The duration of the protection is determined by the worshiper's faith.
 
 #### Great Mist
 
@@ -52,7 +52,7 @@ Similar to the Monk skill Mist, this prayer will grant the worshipper enhanced s
 
 #### Cure Poison
 
-Similar to the spell Ao Puinsein, this prayer will remove poison from the worshipper's bloodstream, and if his faith is great enough, from the bodies of other Aislings grouped with him, as well.
+Similar to the spell Ao Puinsein, this prayer will remove poison from the worshiper's bloodstream, and if his faith is great enough, from the bodies of other Aislings grouped with him, as well.
 
 #### Heal a Scar of Sgrios
 
@@ -68,7 +68,7 @@ As the God of War, it is fitting to learn that Ceannlaidir's Consecrated items g
 
 #### Invigorate
 
-From what I've gathered, this spell will restore the health and mana of the supplicant and his compnions, but I've received so many different responses in my queries that I believe the effects of this prayer are greatly dependent on one's faith.
+From what I've gathered, this spell will restore the health and mana of the supplicant and his companions, but I've received so many different responses in my queries that I believe the effects of this prayer are greatly dependent on one's faith.
 
 #### Bless Weapons
 
@@ -136,7 +136,7 @@ By using this prayer, the supplicant can temporarily remove the sight of one or 
 
 #### Veil Group
 
-A very useful prayer for those desiring stealth, this Supplication will temporarily make the worshipper and his allies invisible. Be forewarned, however, that any provacative action, such as attacking or spellcasting, will make you visible again.
+A very useful prayer for those desiring stealth, this Supplication will temporarily make the worshipper and his allies invisible. Be forewarned, however, that any provocative action, such as attacking or spellcasting, will make you visible again.
 
 #### Confuse
 
@@ -144,7 +144,7 @@ Depending on the supplicant's faith, this prayer will allow the worshipper to co
 
 #### Charm
 
-This prayer allows the supplicant to turn his enemies into allies, with its strength and duration again being dependent on the worshipper's faith.
+This prayer allows the supplicant to turn his enemies into allies, with its strength and duration again being dependent on the worshiper's faith.
 
 #### Find Wealth
 
@@ -154,13 +154,13 @@ By requesting wealth from Fiosachd, the supplicant may have his coins split, dou
 
 ### Consecrations
 
-Wisdom brings compassion, and the Consecrated items of the Goddes of Compassion bring wisdom to the wearer.
+Wisdom brings compassion, and the Consecrated items of the Goddess of Compassion bring wisdom to the wearer.
 
 ### Prayers
 
 #### Protection from Harm
 
-With this prayer, a worshipper will be granted varying levels of protection, dependening on his faith. Weak faith brings weak protection, while strong faith grants near invulnerability.
+With this prayer, a worshipper will be granted varying levels of protection, depending on his faith. Weak faith brings weak protection, while strong faith grants near invulnerability.
 
 #### Resurrection
 
@@ -172,7 +172,7 @@ With this prayer Glioca shows compassion for the supplicant and his allies by re
 
 #### Charm What Stands Before Me
 
-As the name of this prayer implies, Glioca will turn the supplicant's enemy into an ally ... for awhile. The duration, of course, is dependent on the worshipper's faith.
+As the name of this prayer implies, Glioca will turn the supplicant's enemy into an ally ... for awhile. The duration, of course, is dependent on the worshiper's faith.
 
 #### Return to Safety
 
@@ -196,7 +196,7 @@ Whether blinded, frozen, poisoned, or otherwise cursed, this prayer will remove 
 
 #### Reflect Enchantments
 
-While under the effects of this prayer, the supplicant will have a chance to deflect harmful enchanments cast upon him.
+While under the effects of this prayer, the supplicant will have a chance to deflect harmful enchantments cast upon him.
 
 #### Step through Space to Home
 
@@ -204,7 +204,7 @@ This prayer will instantly transport the supplicant to his hometown, an excellen
 
 #### Bend Space
 
-This prayer grants the supplicant a single Arcane Scroll, a Song of Home. I believe it will also grant a single scroll to the worshipper's allies, allowing them to escape, as well.
+This prayer grants the supplicant a single Arcane Scroll, a Song of Home. I believe it will also grant a single scroll to the worshiper's allies, allowing them to escape, as well.
 
 #### Arcane Scrolls
 
@@ -224,11 +224,11 @@ While it doesn't Identify an item, this useful prayer will reveal any item's att
 
 #### Destruction Ritual
 
-With this spell, Luathas grants the supplicant arcane knowledge of ancient magicks, and looses those magicks on the worshipper's enemies.
+With this spell, Luathas grants the supplicant arcane knowledge of ancient magicks, and looses those magicks on the worshiper's enemies.
 
 #### Great Storm
 
-Lightning has long been a symbol of enlightenment, and with this prayer, Luathas rains enlightenment down upon the heads of all the supllcant's nearby enemies.
+Lightning has long been a symbol of enlightenment, and with this prayer, Luathas rains enlightenment down upon the heads of all the supplicant's nearby enemies.
 
 #### Awaken and Clear their Vision
 
@@ -240,11 +240,11 @@ A useful prayer for desperate mages, this supplication allows the worshipper to 
 
 ## Sgrios
 
-Before I begin this section, I must point out that the followers of the Dark One are a secretive lot, and obtaining information about their god and his gifts was difficult, to say the least; and what information I did get may have been falsehoods fed to me to keep me from divining their secrets. Thus, some of the following information may be innaccurate.
+Before I begin this section, I must point out that the followers of the Dark One are a secretive lot, and obtaining information about their god and his gifts was difficult, to say the least; and what information I did get may have been falsehoods fed to me to keep me from divining their secrets. Thus, some of the following information may be inaccurate.
 
 ### Consecrations
 
-Sgrios is the Lord of Destruction, but he does not claim his Consecrated items when an Ailsing visits him.
+Sgrios is the Lord of Destruction, but he does not claim his Consecrated items when an Aisling visits him.
 
 ### Prayers
 
@@ -254,7 +254,7 @@ As any Monk knows, "puinsein" means "poison"; we use the spell ao puinsein to cu
 
 #### Cradh
 
-With this prayer, a Sgrios supplicant can curse his enemies, how powerfully determined by the worshipper's faith.
+With this prayer, a Sgrios supplicant can curse his enemies, how powerfully determined by the worshiper's faith.
 
 #### Dall
 
@@ -262,7 +262,7 @@ Another one that should be familiar to Monks: "dall" means "blindness". Thus, th
 
 #### Dhubh
 
-This dark prayer was one of the most difficult to divine. From what I've gathered, it attacks the supplicant's enemeis in some way.
+This dark prayer was one of the most difficult to divine. From what I've gathered, it attacks the supplicant's enemies in some way.
 
 #### Spion Chadul and Spion Dubhaimid
 

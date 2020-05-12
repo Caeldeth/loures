@@ -29,11 +29,11 @@ This magic lore scroll provides step-by-step instructions to guide Aislings thro
 
 ## Step 1: Checking Requirement
 
-Ascension was first discovered by Kiril, Undine master of magic, in Deoch 9. It's a gift from gods to extend Aisling’s health and will power beyond their limit. Therefore, in order to ascend an Aisling must have achieved his last circle of 99th insight. In addition, the Aisling must have achieved Aisling of Talgonite, Mythril, or Hybrasyl metal:
+Ascension was first discovered by Kiril, Undine master of magic, in Deoch 9. It's a gift from gods to extend Aisling's health and will power beyond their limit. Therefore, in order to ascend an Aisling must have achieved his last circle of 99th insight. In addition, the Aisling must have achieved Aisling of Talgonite, Mythril, or Hybrasyl metal:
 
 + Talgonite: To become Aisling of Talgonite, one must be of 97th insight or higher. 25 finished Talos gems are also required. Notice that an Aisling will lose certain amount of experience `50 million exp` when achieving Aisling of Talgonite at 97th and 98th insight. An Aisling will lose large amount of experience `100 million exp` when achieving Talgonite at 99th insight.
 
-+ Mythril: To become Aisling of Mythril, one must have mentored students 200 times. The Aisling also must obtain 5 Mythril shields blessed by the same god, namely Glioca, Fiosachd, Cail, Deoch, Gramail, Luathas, Ceannaidir, and Sgrios. An Aisling does not lose experience when achieving Aisling of Mythril.
++ Mythril: To become Aisling of Mythril, one must have mentored students 200 times. The Aisling also must obtain 5 Mythril shields blessed by the same god, namely Glioca, Fiosachd, Cail, Deoch, Gramail, Luathas, Ceannlaidir, and Sgrios. An Aisling does not lose experience when achieving Aisling of Mythril.
 
 + Hybrasyl: To become Aisling of Mythril, once must be recognized as an Aisling award winner in either philosophy, arts, lore, or history contests. One finished Hybrasyl gem is required. An Aisling does not lose experience when achieving Aisling of Hybrasyl.
 

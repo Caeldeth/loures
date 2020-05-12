@@ -15,7 +15,7 @@ _Dosage_:  I’ll refer to different kinds of drops in this lore, Normal drops a
 |1 Leaf =|1|2|1/4|1/36|
 |1 Root =|2|1|1/8|1/72|
 |1 Normal drop =|4|8|1|1/9|
-|1 Concentrared drop =|36|72|9|1|
+|1 Concentrated drop =|36|72|9|1|
 
 _Pain reliever_: When mixed properly Hemloch is a strong pain reliever. It can be combined with various substances to augment or decrease this innate property. Care must be given in preparation, If too little Hemloch is added the remedy will be ineffective. If too much Hemloch is used, Hemloch poisoning and/or paralysis could occur. Hydele blossom seems to neutralize the effects of Hemloch. I’ve found that small amounts can be used to dull the Hemloch. Very small amounts of Hemloch (about half of a crushed leaf or 1/2 of a normal drop) and one Hydele blossom in wine acts as a fairly effective remedy for minor ailments and pains. A stronger mixture may be required for more serious ailments. Be sure to counter every 3 normal drops used with roughly one and a half Hydele blossoms. When attempting to alleviate great pains from massive wounds riskier mixtures are needed. Rum replaces the wine as a base. Exactly 4 concentrated drops from the point of a dagger are to be mixed with every 1/4 bottle of rum and two fists of Hydele blossom. The proportions for this last mixture must be exact. It is the maximum concentrate that I’ve found relatively safe to use.
 

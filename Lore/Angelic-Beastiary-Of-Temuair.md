@@ -10,7 +10,7 @@ Crypt Monsters
 
 ![Rat](images/angelic_crypt_rat_2.png)
 
-The rat is the first monster any young Aisling is likely to encounter in Temuair. This is good because they are also the least dangerous. They are found in the first few levels of Mileth's Crypt. <br> Rats are always passive until provoked. This means that any aisling can walk amongst them without fear, unless they are naive enough to attack one when they are not prepared to fight. Rats can bite back, so watch out.
+The rat is the first monster any young Aisling is likely to encounter in Temuair. This is good because they are also the least dangerous. They are found in the first few levels of Mileth's Crypt. Rats are always passive until provoked. This means that any aisling can walk amongst them without fear, unless they are naive enough to attack one when they are not prepared to fight. Rats can bite back, so watch out.
 
 Rats are a good source of income for a young Aisling. When slain, they often leave behind small bits of rotting food lying around. While not very healthy for an Aisling, this food can be sold to Cian the Alchemist in Mileth for a tidy profit, anywhere from 30 to 250 gold pieces.
 
@@ -23,9 +23,9 @@ Rats are a good source of income for a young Aisling. When slain, they often lea
 
 ![Spider](images/angelic_crypt_spider_2.png)
 
-Spiders are are the second most common creature in the early levels of the crypt. They are a bit more dangerous and powerful than rats, but overall a good monster to hunt. 
+Spiders are are the second most common creature in the early levels of the crypt. They are a bit more dangerous and powerful than rats, but overall a good monster to hunt. The majority of Spiders are passive. Occasionally I have come across a hostile Spider, but it is rare. They are usually as safe as rats are.  
 
-The majority of Spiders are passive. Ocassionally I have come across a hostile Spider, but it is rare. They are usually as safe as rats are. <br> Aside from magic items deeper in the crypt, the only things spiders drop are spider's eyes, or spider's silk. This is why they are good for a young Aisling to hunt. These two items go for 500 gold and 1000 gold respectively from Dar the Wizard in Mileth.
+Aside from magic items deeper in the crypt, the only things spiders drop are spider's eyes, or spider's silk. This is why they are good for a young Aisling to hunt. These two items go for 500 gold and 1000 gold respectively from Dar the Wizard in Mileth.
 
 |Floor|Experience|
 |-|-|
@@ -246,7 +246,7 @@ Ahh the wasp. Although rather large, they are only one step up in power from the
 
 ![Mantises](images/angelic_woods_mantis_2.png)
 
-Mantises are the first truely hostile creature encountered in the Eastern Woodlands. They attack without warning and blend in very well with the foliage, so are very dangerous. Keep your guard up for these ones.
+Mantises are the first truly hostile creature encountered in the Eastern Woodlands. They attack without warning and blend in very well with the foliage, so are very dangerous. Keep your guard up for these ones.
 
 The treasure that the mantis drops is the Mantis Eye. It is one of the most abundant, and valuable items that can be found in the early areas anywhere in Temuair. They are a very good source of income for any young Aisling that can stand up to the pain mantises like to dish out. Mantis Eyes go to Cian the Alchemist in Mileth for 1500 gold pieces.
 
@@ -282,7 +282,7 @@ Wolves drop several different kinds of treasure. Wolf Skins can be sold to Stein
 
 ![Kobold](images/angelic_woods_kobold_2.png)
 
-Kobolds are some of the first truely intelligent enemies you will have to face in battle. Not only do they stand upright, they wield sharp daggers that hurt much more then the claws of a wolf or mantis. Watch out for them, because in almost all situations, if you see one, another is sneaking up behind you.
+Kobolds are some of the first truly intelligent enemies you will have to face in battle. Not only do they stand upright, they wield sharp daggers that hurt much more then the claws of a wolf or mantis. Watch out for them, because in almost all situations, if you see one, another is sneaking up behind you.
 
 Kobolds are a very good source of treasure. Occasionally, when a Kobold is killed, its Skull can be saved and sold to Bodil the Abel Combat Skill Master for 1150 gold pieces. Aside from this, Kobolds like to collect money, and often they will be carrying anywhere between 1000 and 5000 gold pieces on them into battle.
 
@@ -392,13 +392,13 @@ Their stomachs often contain gold and other magical items, and for some reason t
 
 ### ![Wisps!](images/angelic_woods_wisp_1.png) Wisp
 
-![Succubus](images/angelic_woods_wisp_2.png)
+![Wisp](images/angelic_woods_wisp_2.png)
 
 Wisps are a magical creature found deep within the woodlands. Their origins are unknown; all that is known is that they have been reported as legends throughout history. They are ethereal beings, who are nothing more then a brilliant shining light, so bright that if looked at directly they can easily blind an aisling.
 
 It seems that they have some kind of territorial instinct, because they will attack any aisling who enters their land. Whether this is because they are aggressively natured, or just because they feel compelled to defend their territory from aislings is unknown, but the truth is that their attacks can be very damaging to anyone unfortunate enough to happen upon them. They use their magical powers to attack aislings with an unseen force. And though it appears nothing is happening, the aisling under attack can feel the pain and their life force being drained.
 
-Wisps are also effective wielders of more traditonal magic, and can cast mor and ard spells, as well as freezing their foes. Although the ones encountered early on don't show a very developed ability to wield magic, those in the deeper areas have magical abilities that are definitely to be feared.
+Wisps are also effective wielders of more traditional magic, and can cast mor and ard spells, as well as freezing their foes. Although the ones encountered early on don't show a very developed ability to wield magic, those in the deeper areas have magical abilities that are definitely to be feared.
 
 |Floor|Experience|
 |-|-|
@@ -456,9 +456,9 @@ Crabs are slightly tougher then Frogs, their hard shells providing them with gre
 |4|6,566|
 |5|9,029|
 
-### ![Anemonies!](images/angelic_piet_anemonie_1.png) Anemonies
+### ![Anemones!](images/angelic_piet_anemonie_1.png) Anemones
 
-![Anemonie](images/angelic_piet_anemonie_2.png)
+![Anemone](images/angelic_piet_anemonie_2.png)
 
 The Anemones found in the tunnels of Piet have mutated from those found in the ocean. How exactly they found their way in to these tunnels is unknown, but those that survived seem to have slowly developed the ability to survive outside of the water and to maneuver rapidly to entangle their prey. They are much more dangerous then their water-locked brethren, and their plant like appearance often belies their true ferocity.
 
@@ -608,7 +608,7 @@ Abel Dungeon Monsters
 
 There are three basic types of creatures that occupy the Dungeon beneath Abel's beach. The first of these are the ground crawlers, creatures that slither along the ground with no arms or legs. The Leech is one of these, and although it is the least powerful creature in this dungeon they are still quite fearsome beasts, being more powerful then most Goblin Soldiers.
 
-These leeches are giant cousins to those that find their homes in the swamps and marshes of Temuair, and have grown massive armor plating over their soft bodies. This gives them much better protection, making them more difficult to slay, and giving them ample oppurtunity to drain their prey of its precious life-blood.
+These leeches are giant cousins to those that find their homes in the swamps and marshes of Temuair, and have grown massive armor plating over their soft bodies. This gives them much better protection, making them more difficult to slay, and giving them ample opportunity to drain their prey of its precious life-blood.
 
 Almost all of these creatures aggressively attack their prey once it they sense it, which can make them quite dangerous when an aisling is already fighting another beast. In addition, it is very important to remember when fighting these creatures that it's critical to avoid allowing their sucker-like jaw to take hold. If it is engaged it is extremely painful to remove, tearing the flesh of the victim and causing considerable damage.
 

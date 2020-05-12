@@ -4,24 +4,24 @@ _by Solanalein in_ ___Dark Ages___
 
 _Blaise, Librarian of Loures looks up from a steaming mug of twiggy-smelling tea, and lowers his glasses skeptically. "May I.. help you? Oh!" He smiles at you and puts his reading down; a red leather cover inscribed with thick gold embossing. The words are in an unfamiliar language. He folds his hands. "An Aisling. Can I help you find something in particular to-day? A novel on the exploits of the Marauder perhaps?" As you respond, he raises his eyebrows, "Research, you say?" and smiles knowingly._ 
 
-_Blaise alights on surprisingly spry feet and leads you, enthusiastically, to the Maps section. "You're looking for astronomy charts? Indeed! I'm a map enthusiast myself." You notice several maps of the Wilds of Temuair, beautifully framed, hanging over his desk. He searches the shelves with his eyes. "We only just received this copy a few moons ago... A gift, from one of our many benefactors. It came out of his private collection." Blaise speaks with solemn importance. He takes a handbook with a torn and faded cover from a high shelf and hands it to you. The book has obviously been well-used, and well-loved. He lowers his voice and speaks meaningfully. "Its actually the only copy of Temuair's astronomical charts in existance. I would have to request you remain in the Library to read it. Well, lets take it into the light!")_
+_Blaise alights on surprisingly spry feet and leads you, enthusiastically, to the Maps section. "You're looking for astronomy charts? Indeed! I'm a map enthusiast myself." You notice several maps of the Wilds of Temuair, beautifully framed, hanging over his desk. He searches the shelves with his eyes. "We only just received this copy a few moons ago... A gift, from one of our many benefactors. It came out of his private collection." Blaise speaks with solemn importance. He takes a handbook with a torn and faded cover from a high shelf and hands it to you. The book has obviously been well-used, and well-loved. He lowers his voice and speaks meaningfully. "Its actually the only copy of Temuair's astronomical charts in existence. I would have to request you remain in the Library to read it. Well, lets take it into the light!")_
 
 ## Using this Guide: A Preface
 By day, the Light of Danaan guides our working hours, helping us to see, to tell time by sundial, and encouraging plants and flowers to grow. In the evening, the darkening, purpling sky reveals stars.
 
-Aislings never stay in one place for very long. The night sky has traditionally been used as both a map and as a calendar. This guide will show how the constellations indicate accurately the season and time of the deoch. This guidebook is also a tool to tradesmen who rely on the consistancy of trade routes: During certain seasons, some roads become impassable or overgrown.
+Aislings never stay in one place for very long. The night sky has traditionally been used as both a map and as a calendar. This guide will show how the constellations indicate accurately the season and time of the deoch. This guidebook is also a tool to tradesmen who rely on the consistency of trade routes: During certain seasons, some roads become impassable or overgrown.
 
 To the casual astronomer, finding a constellation in the night sky can be an exciting event. For more dedicated observers, charting the movement of the stars throughout the seasons can be a fulfilling hobby. And still some of us, the travelers and tradesmen, depend on the night sky as a map to lead us home and clear of danger. As well as remaining a steadfast and accurate map, the stars tell the story of Temuair, long ago; our most beloved legends and histories.
 
 ## On the Seasons
 
-Temuair's natives keep track of hours and days through a system called the Theology of the Octave. A Temuairian season lasts approximately 1 1/2 to 2 doublemoons. There are four seasons to a deoch: Spring, Summer, Fall, Winter. Climate in Temuair is very mild, and the harshness of winter is seen mostly on mountaintops. In the valleys where Aislings live, the plants and animals are unaffected by the seasonal changes. The star pattern in the night sky shifts along with the seasons.
+Temuair's natives keep track of hours and days through a system called the Theology of the Octave. A Temuairan season lasts approximately 1 1/2 to 2 doublemoons. There are four seasons to a deoch: Spring, Summer, Fall, Winter. Climate in Temuair is very mild, and the harshness of winter is seen mostly on mountaintops. In the valleys where Aislings live, the plants and animals are unaffected by the seasonal changes. The star pattern in the night sky shifts along with the seasons.
 
 ```
 Temuair time is 8 times faster than Real Life time.
-   8 Temuairian hours = 1 RL hour 
-   8 Temuairian days = 1 RL day 
-   24 Temuairian days = 3 RL days 
+   8 Temuairan hours = 1 RL hour 
+   8 Temuairan days = 1 RL day 
+   24 Temuairan days = 3 RL days 
    1 Moon = 3 RL days 
    1 Doublemoon = 6 RL days (1 week) 
    1 Season = Roughly 1 1/2 - 2 Real Life weeks 
@@ -34,7 +34,7 @@ This lorekeeper acknowledges that a compass is costly, and often mislaid by thos
 
 ![Map of Temuair](images/solanalein_realto_1.png)
 
-Sea captains, Rangers, mail carriers, pidgeon trainers, and Loures scouts all carry a compass by necessity. Here is a typical compass. Under the glass window in the center is a pin which spins under the influence of magik. As you can see, there is very little glass used in making a compass. Glass must be manufactured in Oren where there is plenty of sand, which makes it an expensive import. A compass is also expensive due to the complicated enchantments on the pin to ensure accuracy.
+Sea captains, Rangers, mail carriers, pigeon trainers, and Loures scouts all carry a compass by necessity. Here is a typical compass. Under the glass window in the center is a pin which spins under the influence of magik. As you can see, there is very little glass used in making a compass. Glass must be manufactured in Oren where there is plenty of sand, which makes it an expensive import. A compass is also expensive due to the complicated enchantments on the pin to ensure accuracy.
 
 ![Map of Temuair](images/solanalein_realto_2.png)
 
@@ -64,7 +64,7 @@ Over the cold sea which between Abel Port and Undine is an array of stars named 
 
 ![Ceadsearc](images/solanalein_realto_5.png)
 
->_"Here follows the account of the first experimentational forms of matter. In days long gone, gods and demons experimented with primitive life. They created crude beasts which walked awkwardly, shunned light, and had no language or culture ("Flesh Gollum," see Reanimation and its Uses). However these monsters had no capacity for love. Finally the gods desired to see creatures interact with the emotion of love. Two crude animals were created and were granted a heart to love and care for one another. These creatures, being very innocent of the world, so fiercely loved one another that they never were apart for longer than a few moments at a time._
+>_"Here follows the account of the first experimental forms of matter. In days long gone, gods and demons experimented with primitive life. They created crude beasts which walked awkwardly, shunned light, and had no language or culture ("Flesh Gollum," see Reanimation and its Uses). However these monsters had no capacity for love. Finally the gods desired to see creatures interact with the emotion of love. Two crude animals were created and were granted a heart to love and care for one another. These creatures, being very innocent of the world, so fiercely loved one another that they never were apart for longer than a few moments at a time._
 >
 >_One day, the one said to the other, "I realize now that some day one of us will die, and leave the other to be alone in this world." The lovers were so overcome with sadness at this thought that they cursed the ground and the animals and the gods above them. They mourned and wailed, smashed trees and broke rock in their sorrow and anger. In time, the gods wearied of this behaviour. The two were given a choice: Either come to terms with the prospect of death or be destroyed. The two creatures clung to each other and would not commit to the gods. They flung themselves into Undine Lake and perished there. The gods took pity on them at last, and lifted them to an eternal place in the skies above, forever locked in each other's arms."_
 >

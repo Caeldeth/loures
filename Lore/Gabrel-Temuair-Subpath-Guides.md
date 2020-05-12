@@ -90,7 +90,7 @@ Master Requirements
 
 Your toughest decision will be which Monk Form to Sub with. Because of your 6 assails, you will bash at an incredible rate. Being Draco Form will increase your bashing speed even more. Draco Tail Kick is also a great companion in Chaos, or anywhere else you are surrounded with creatures of the same defensive element. Having both Draco Stance and Dion means that you can Dion instantly almost every time, because you can press both skills simultaneously
 
-However, if you love Arena and plan to get at least 25k HP, Kelberoth is the Form for you. This skill will only be useful in PVP situations. Kelberoth Form will also allow you to become better and better in Arena as you obtain more Hit Points. Also, if you Sub with Kelberoth, plan on spending even more time Macroing. I suggest setting up an entertainment system next to your computer, so you can keep an eye on yourself. Otherwise, be prepared to get a few ugly legend marks in the process. Not to mention there is a good chance you could die if you leave yourself unattended.
+However, if you love Arena and plan to get at least 25k HP, Kelberoth is the Form for you. This skill will only be useful in PVP situations. Kelberoth Form will also allow you to become better and better in Arena as you obtain more Hit Points. Also, if you Sub with Kelberoth, plan on spending even more time practicing `((Macroing))`. I suggest setting up an entertainment system next to your computer, so you can keep an eye on yourself. Otherwise, be prepared to get a few ugly legend marks in the process. Not to mention there is a good chance you could die if you leave yourself unattended.
 
 Keep your Wolf Claws on until you are at least Insight 50. Personally, I would keep it on until you can use a 2-handed weapon. Make sure to remove the "~" key from your keyboard to insure you don't accidentally take it off.
 
@@ -225,7 +225,7 @@ Master Requirements
 >Balanced: 15+ base all stats  
 >Power: less than 15 in all stats
 
-+ Pros: Priest/Monk is starting to become a popular sub for Arena Lovers. You will be able to Aite yourself, plus Ao Suian, Ao Ard Cradh, etc A three-line Mor or Ard Cradh, plus four line Beag Prahm/Prahm could be a real advantage to you in duels.
++ Pros: Priest/Monk is starting to become a popular sub for Arena Lovers. You will be able to Aite yourself, plus Ao Suain, Ao Ard Cradh, etc A three-line Mor or Ard Cradh, plus four line Beag Prahm/Prahm could be a real advantage to you in duels.
 
 + Cons: You'll be a Pure Monk, without any of the benefits of being Pure. You'll need to hunt 3 man until you get your stats up. (Don't forget those will cost you a little over 10m exp. each.) Once you get your STR/CON up a bit, you'll be able to two man in CR. Your Priest spells will really only be handy in arena, as you will need to hunt with some form of Priest, due to cast lines.
 
@@ -344,7 +344,7 @@ Master Requirements
 
 + Pros: You'll be able to blind your creatures, and after you master, you will be able to read their elements. That alone is a huge advantage for a Warrior. You will be able to two man in CR, because you can Blind, Read Elements, plus have the strength to kill. You will want to make sure that you have some decent stats, like close to max STR before you two man, or it will probably be a very slow hunt.
 
-+ Cons: Basically, you're a pure Warrior who can blind, since most of your Rogue skills won't work. Until you master, you will need to hunt with a Rogue or a Monk who can read elements. You won't have Asgall or Dion, so you'll be very vulnerable in Arena. No matter how many Hit Points you have, you will always need to Blind when you're hunting. This will slow you down, and you won't be able to hunt at the same rate as other subbed bashers. You will have a tougher time on Grand Master quests, so be sure you have a Priest with you who can Mor Dion Comla. Also, be sure you max your mends, because your repairs will tend to be higher without Dion.
++ Cons: Basically, you're a pure Warrior who can blind, since most of your Rogue skills won't work. Until you master, you will need to hunt with a Rogue or a Monk who can read elements. You won't have Asgall or Dion, so you'll be very vulnerable in Arena. No matter how many Hit Points you have, you will always need to Blind when you're hunting. This will slow you down, and you won't be able to hunt at the same rate as other subbed bashers. You will have a tougher time on Grand Master quests, so be sure you have a Priest with you who can Mor Dion Comlha. Also, be sure you max your mends, because your repairs will tend to be higher without Dion.
 
 #### Hints on Rogue/Warrior
 
@@ -352,7 +352,7 @@ Mastering doesn't require many HP or MP. However, I would recommend getting as m
 
 Your Boots, and Signets will allow you to get all of your new skills for a while, so there is no real need to Sub in any God items. So, because of this, I would recommend subbing in Blessed Gold Earrings and either Blessed or Magic Greaves. Also, be sure that you hunt with Fiosachd Beannaich.
 
-After you've hit your target WIS mark, start adding STR. If you're still bashing at a good rate, you might want to add a few more points to CON. Build STR up to about 55 base, before you start to add points to DEX for Beag Suian.
+After you've hit your target WIS mark, start adding STR. If you're still bashing at a good rate, you might want to add a few more points to CON. Build STR up to about 55 base, before you start to add points to DEX for Beag Suain.
 
 ### Sub Options: Rogue/Priest
 
@@ -581,7 +581,7 @@ Master Requirements
 
 |Skills|Secrets|Experience|HP|MP|
 |-|-|-|-|-|
-|None|Brown Dugon and Wise Touch <br> OR Maxed Puinneag Beath and Maxed Beag Nochd <br> Or Maxed Claw Fist and Wise Touch|200,000,000|6850<br 8850<br>|4000 Balanced <br>4500 Power|
+|None|Brown Dugon and Wise Touch <br> OR Maxed Puinneag Beath and Maxed Beag Nochd <br> Or Maxed Claw Fist and Wise Touch|200,000,000|6850<br> 8850<br>|4000 Balanced <br>4500 Power|
 
 >Balanced: 15+ base all stats  
 >Power: less than 15 in all stats
