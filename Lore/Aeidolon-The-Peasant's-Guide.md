@@ -67,7 +67,7 @@ Also, priests can join a religion, and upon reaching the rank of Cleric, may cas
 
 ### Wizards
 
-Wizards should decide their main element early on and stick with it. By focusing your strength trhis way it is easier to gain the more powerful elemental spells earlier on. Wizards can gain extra experience by researching, however, unlike the other crafts special abilities, this can be quite dangerous.  Always have an assistant when researching.
+Wizards should decide their main element early on and stick with it. By focusing your strength this way it is easier to gain the more powerful elemental spells earlier on. Wizards can gain extra experience by researching, however, unlike the other crafts special abilities, this can be quite dangerous.  Always have an assistant when researching.
 
 ### Warriors
 

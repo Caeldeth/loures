@@ -5,9 +5,9 @@ _by Barriagh in_ ___Dark Ages___
 Introduction
 Ah! The grand life of an Aisling is filled with many challenges and rewards. One of the greatest rewards any Aisling can receive is to be recognized by the Mundanes for his or her creative talents. Mundanes hold regular contests so that Aislings may have a chance to become recognized their creativity.
 
-The mundunes have written extensivity on this, and therefore I will not spend my ink doing so in this guide. (Please see the Mundane Tome of Aisling Recognition for further details.) This guide is intended to be used by proud Aislings who have already been recognized by the mundanes and wish to claim their prize.
+The mundanes have written extensively on this, and therefore I will not spend my ink doing so in this guide. (Please see the Mundane Tome of Aisling Recognition for further details.) This guide is intended to be used by proud Aislings who have already been recognized by the mundanes and wish to claim their prize.
 
-Once one has been recognized, a specific mundane inhabitant of Temuair must be sought out and spoken with briefly. This mundane will then bestow upon an Aisling the full measure of his or her reward as dicated by the extend of talent which was shown. Which mundane it is depends upon which recognition an Aisling has received.
+Once one has been recognized, a specific mundane inhabitant of Temuair must be sought out and spoken with briefly. This mundane will then bestow upon an Aisling the full measure of his or her reward as dictated by the extend of talent which was shown. Which mundane it is depends upon which recognition an Aisling has received.
 
 Egil, the mundane Alchemist of Abel, can be quite helpful when it comes to finding the required Mundane, but alas he has grown quite old. With this old age, he has became somewhat feeble-minded. He can only remember which Mundanes can help an Aisling claim his or her reward for the following recognitions: Art/Portrait, History, Lore, and Memory
 
@@ -79,9 +79,9 @@ Below is the complete listing of Mundanes who can help Aislings claim their reco
 
 ## Notes on Mundane Titles
 
-Aislings are not the only inhabitants of Temuair to have 'path' related titles. Just as among the Aislings there are monks, priests, rogues, warriors, and wizards, there are among the mundanes numerous professions. These professions include, among others: alchemist, barmaid, and messanger. 
+Aislings are not the only inhabitants of Temuair to have 'path' related titles. Just as among the Aislings there are monks, priests, rogues, warriors, and wizards, there are among the mundanes numerous professions. These professions include, among others: alchemist, barmaid, and messenger. 
 
-As with Aislings, mundanes generally wear garments which idenitify them as being of a certain profession. Unlike an Aisling however, a mundane does not have much freedom to choose what type of garment he or she wears. Thus, Mundane bakers throughout Temuair dress in the same fashion. For example, a Mundane baker in Suomi will be dressed exactly like her counterpart in Piet. 
+As with Aislings, mundanes generally wear garments which identify them as being of a certain profession. Unlike an Aisling however, a mundane does not have much freedom to choose what type of garment he or she wears. Thus, Mundane bakers throughout Temuair dress in the same fashion. For example, a Mundane baker in Suomi will be dressed exactly like her counterpart in Piet. 
 
 Below are examples of how the various mundanes one needs to meet to receive one's reward appear.
 
@@ -109,7 +109,7 @@ Below are examples of how the various mundanes one needs to meet to receive one'
 
 * Jean, Loures Court Councilor an alchemist as well, and is therefore also dressed in this fashion. 
 
-It is my hope that this simple guide proves informative and saves some deserving Aisling a little frusation the next time his or her talent is recognized.
+It is my hope that this simple guide proves informative and saves some deserving Aisling a little frustration the next time his or her talent is recognized.
 
 _Barraigh of Abel_
 

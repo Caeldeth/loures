@@ -68,4 +68,9 @@ Another drawback to this method is that at night, your traps basically become us
 
 I hope that this volume is useful for rogues who wish to increase their knowledge of the traps that they may acquire.  Always keep enough materials on hand to make more in case ye run out of them.  Knowledge of your traps is vital to the odds of your survival.  Know your limitations, strengths and weaknesses.  I shall continue working on the next volumes of me manual to describe more of the rogue craft in detail.
 
+```
+*Librarian Notes*
 
+This entry has been edited to conform to Library formatting.
+The original can be found at http://www.darkages.com/community/lore/Dartanian_Snare/index.html .
+```

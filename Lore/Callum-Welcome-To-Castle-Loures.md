@@ -8,7 +8,7 @@ I stand before the great castle of Loures. It is a great stone structure, built 
 
 "Servants?" You may be thinking. "I've never seen the servants wandering around."
 
-You are correct! You likely haven't seen the servants, but just because you haven't seen them doesnt mean they aren't there. You haven't seen them because they do all of their work behind the scenes. They are not permitted to wander the main halls of the castle. The mundanes' caste system means that often the servant caste offends the Nobility. Instead, there is a secret underground system of tunnels that allow the servants to work undetected and without disturbing anyone, both mundane and Aisling alike.
+You are correct! You likely haven't seen the servants, but just because you haven't seen them doesn't mean they aren't there. You haven't seen them because they do all of their work behind the scenes. They are not permitted to wander the main halls of the castle. The mundanes' caste system means that often the servant caste offends the Nobility. Instead, there is a secret underground system of tunnels that allow the servants to work undetected and without disturbing anyone, both mundane and Aisling alike.
 
 Today, I will take you on a brief tour of the secret servant passages of Loures. However, please be mindful of the servants and let them go undisturbed in their work. They deserve as much (perhaps more) respect than the Noble class. It is on the shoulders of the Serf caste that the entire empire rests. After all, without the servant class the castle and subsequently the entire empire would cease to function correctly.
 
@@ -18,7 +18,7 @@ Here we have the servant entrance. As the mundanes have a rather strict caste sy
 
 ![Labyrinth](images/callum_loures_3.png)
 
-In this room there is the mysterious secret passage to the Labrynth. This is perhaps the most well-known secret tunnel, but it is not the concern of this particular tour. If you would like to know more about that particular part of the dungeon, there are other texts more appropriate than this one. Here, I am mainly focusing on the servant passages.
+In this room there is the mysterious secret passage to the Labyrinth. This is perhaps the most well-known secret tunnel, but it is not the concern of this particular tour. If you would like to know more about that particular part of the dungeon, there are other texts more appropriate than this one. Here, I am mainly focusing on the servant passages.
 
 ![Blanchefleur](images/callum_loures_4.png)
 
@@ -26,7 +26,7 @@ In order to gain access to the servant passages, I had to give something in retu
 
 ![Dining](images/callum_loures_5.png)
 
-A keen aisling can predict where some of the secret tunnels may be. Here in the main kitchen is the primary entrance to the servant tunnels. By turning this candle clockwise (on left), it opens a secret door in the pantry (see right). Here, from the kitchen, all of the Royal meals are cooked and transported all throughout the castle. The servants dart in and out of the kitchen without detection. Discretion is a very valuable trait to the servants. If an Aisling or Noble were to see you, most of the time it could mean your job. 
+A keen Aisling can predict where some of the secret tunnels may be. Here in the main kitchen is the primary entrance to the servant tunnels. By turning this candle clockwise (on left), it opens a secret door in the pantry (see right). Here, from the kitchen, all of the Royal meals are cooked and transported all throughout the castle. The servants dart in and out of the kitchen without detection. Discretion is a very valuable trait to the servants. If an Aisling or Noble were to see you, most of the time it could mean your job. 
 
 ![Servant's Passage](images/callum_loures6.png)
 
@@ -49,17 +49,17 @@ Aside from the servant passages throughout the castle, I was also informed of th
 
 ![King's Passage](images/callum_loures_10.png)
 
-Here, we see a semi-covered passage behind the king. This passage leads to the secret escape passage. It is a series of winding tunnels that go throughout the body of the castle. There are two distinct sections of the tunnels. One is newer, with carpeting and torches on the walls. The other is a dark stone tunnel. Strangely, this tunnel closely resembles the labrynth built below the castle. This leads me to believe that the stone tunnels were here before the castle and built by the region's previous inhabitants, and the newer section was built later to accomodate the castle's layout. Poorly lit and dusty, it is apparent that this emergency escape route has not been used in many deochs.
+Here, we see a semi-covered passage behind the king. This passage leads to the secret escape passage. It is a series of winding tunnels that go throughout the body of the castle. There are two distinct sections of the tunnels. One is newer, with carpeting and torches on the walls. The other is a dark stone tunnel. Strangely, this tunnel closely resembles the labyrinth built below the castle. This leads me to believe that the stone tunnels were here before the castle and built by the region's previous inhabitants, and the newer section was built later to accommodate the castle's layout. Poorly lit and dusty, it is apparent that this emergency escape route has not been used in many Deochs.
 
 ![King's Passage](images/callum_loures_11.png)
 
-There are two exits from the escape route. The exit from the newer passages (right) leads to just outside of the castle walls, and close to the sanctuary of Grammail. In contrast, The older passages continue for far longer than the newer. After following the dark passages for what seemed to be miles, I finally reached a familiar locale. It seems these tunnels lead to the sewers of Piet! Again, knowing that the tunnels below the castle and the sewers connect, I have grown very suspicious of the original rulers of Loures Castle. Just how ancient are the tunnels and the sewers? What could they have to hide by making these ancient tunnels into the sewers of the kingdom? Curious...
+There are two exits from the escape route. The exit from the newer passages (right) leads to just outside of the castle walls, and close to the sanctuary of Gramail. In contrast, The older passages continue for far longer than the newer. After following the dark passages for what seemed to be miles, I finally reached a familiar locale. It seems these tunnels lead to the sewers of Piet! Again, knowing that the tunnels below the castle and the sewers connect, I have grown very suspicious of the original rulers of Loures Castle. Just how ancient are the tunnels and the sewers? What could they have to hide by making these ancient tunnels into the sewers of the kingdom? Curious...
 
 ![King's Passage](images/callum_loures_12.png)
 
 This concludes the tour of the Castle Loures. I hope you have found this to be educational and informative. Perhaps with this newfound insight you will appreciate the hard work and tribulations of the servants in the castle. The mundane caste system oppresses these diligent workers. We as Aislings should show them the proper respect they are due. As the Children of Light, it is our duty to deny their caste system and show the love of Lady Glioca and the peace of Lord Cail to them.
 
-Perhaps in future ventures I will delve deeper into the secrets of these new tunnels under Loures and how they relate to the sewers under Piet; maybe taking a look at such things and comparing it with what is known of the labrynth we can begin to piece together the history of this land we love.
+Perhaps in future ventures I will delve deeper into the secrets of these new tunnels under Loures and how they relate to the sewers under Piet; maybe taking a look at such things and comparing it with what is known of the labyrinth we can begin to piece together the history of this land we love.
 
 _Submitted for your approval,_  
 _Callumn i'Losuta_  
