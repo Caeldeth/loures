@@ -30,6 +30,7 @@ We also have a [lexicon](./LEXICON.md) of common Temuairan terms.
 [Philosophy](./Philosophy/README.md) [130 total works, 25 missing/lost]  
 [History](./History/README.md) [81 works]  
 [Literature](./Literature/README.md) [171 total works, 17 missing/lost]  
+[Lore](./Lore/README.md) [64 total works]  
 
 ### The Village Library of Mileth
 
