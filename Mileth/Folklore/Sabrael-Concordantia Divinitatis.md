@@ -1,4 +1,4 @@
-# Concordanita Divinitatis
+# Concordantia Divinitatis
 _by Sabrael in_ ___Dark Ages___
 
 ## Preface
@@ -45,14 +45,14 @@ Influence: Order, Law, Justice, Science, Vengeance†
 Symbol: Evenly balanced golden scales  
 Temple Location: Loures City  
 Worshippers: Judges, Politicians, Scholars  
-```
-(( Begin OOC))
+
+`((Begin OOC))`  
 Domains: Order, Unity (UA)
 Alignment: Lawful Neutral
 Power Level: Greater God
-Channel Divinity: Judgment - By expending one charge, your hold spells are now cast as if they were 5 levels higher and work on any living creature.
-((End OOC)) 
-```
+Channel Divinity: Choose between Order and Unity; for 2nd level, choose between Order, Unity and Judgment - By expending one charge, your hold spells are now cast as if they were 5 levels higher and work on any living creature.  
+`((End OOC))`
+
 #### History  
 Gramail began life as an Aosdic scholar, and later was elevated to godhood by Danaan [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de_Temuair.md).  Though several stories around his awakening and ascension exist, it is theorized that Gramail was chosen due to his complete embrace of Justice and Order during his time as the First Judge (a position in ancient Hy-brasyl's legal system) prior to the city sinking beneath the waves.  Legend holds that Gramail himself held the trial over the first murderer, and sentenced him through sheer reason and logic, as no laws existed at the time to cover the heinous act.  Interestingly, his trinity also represents the first to fall against Chadul, as well as the only evidence of mortals ascending to deity.
 
@@ -69,14 +69,14 @@ Influence: Compassion, Healing, Love, Herbalism, the Fae†
 Symbol: A bouquet of red roses  
 Temple Location: Mileth  
 Worshippers: Lovers, Priests, Children  
-```
-(( Begin OOC))
+
+`((Begin OOC))`  
 Domains: Life, Protection
 Alignment: Chaotic Good
 Power Level: Greater God
-Channel Divinity: Rebirth - By expending one charge, you may empower Healing Word to fully heal an ally, and additionally heal the closest two allies for half the amount healed.
-((End OOC)) 
-```
+Channel Divinity: Choose between Life and Protection.  For second level, choose between Life, Protection and Rebirth - By expending one charge, you may empower Healing Word to fully heal an ally, and additionally heal the closest two allies for half the amount healed.  
+`((End OOC)) `
+
 #### History  
 Glioca is the only daughter of Danaan, and mother of Cail [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md).  It is said that she created the Fae, by one day walking by a dying flower in her garden.  With a kiss, her love of all things living caused the flower to bloom and the first Fae emerged from the unfolded petals.  Matron of the Eldar [_(Nenya's "A Short History of the Eldar")_](../../../loures/History/Nenya-A-Short-History-Of-The_Eldar.md), it is said that the heavy spring rains in Mileth come from her tears as she weeps for her slain children.
 
@@ -93,14 +93,14 @@ Influence: Gnosis, Magic, Craftsmanship, Divination, History†
 Symbol: A green quill  
 Temple Location: Rucesion  
 Worshippers: Wizards, Scholars, Blacksmiths  
-```
-(( Begin OOC))
-Domains: Knowledge, Arcana
-Alignment: Lawful Neutral
-Power Level: Greater God
-Channel Divinity: Gnosis - By expending one charge, you or an ally automatically gain an advantage on your next two skill checks, and treat such checks as if you had proficiency in the skill.
-((End OOC)) 
-```
+
+`((Begin OOC))`  
+Domains: Knowledge, Arcana  
+Alignment: Lawful Neutral  
+Power Level: Greater God  
+Channel Divinity: Choose between Knowledge and Arcana.  For second level, choose between Knowledge, Arcana and Gnosis - By expending one charge, you or an ally automatically gain an advantage on your next two skill checks, and treat such checks as if you had proficiency in the skill.  
+`((End OOC))`
+
 #### History  
 Luathas was an Aosdic scholar known for his wisdom to such a degree that he was raised to divinity by Danaan [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md).  His detailed histories, advanced studies of magic, and deft philosophical musings are the fodder for legend, as only mere scraps were recovered from the sinking of Hy-brasyl.  It is rumored that the Loures library was founded by his inspiration as his first act of divinity.
 
@@ -141,93 +141,99 @@ Influence: Honor, War, Carnage, The Hunt, Conquest†
 Symbol: A bloodied and ragged pennant  
 Temple Location: Piet  
 Worshippers: Warriors, Soldiers, Huntsmen   
-```
-(( Begin OOC))
-Domains: War, Blood (Critical Role)
-Alignment: Chaotic Neutral
-Power Level: Greater God
-Channel Divinity: Smite - By expending one charge, you may add 2d8 damage to any melee attack that hits.  This bonus increases to 3d8 at level 5, 4d8 at level 10, and 5d8 at level 20.
-((End OOC)) 
-```
+
+`((Begin OOC))`  
+Domains: War, Blood (Critical Role)  
+Alignment: Chaotic Neutral  
+Power Level: Greater God  
+Channel Divinity: Choose between War and Blood.  For 2nd level, choose between War, Blood and Smite - By expending one charge, you may add 2d8 damage to any melee attack that hits.  This bonus increases to 3d8 at level 5, 4d8 at level 10, and 5d8 at level 20.  
+`((End OOC))`  
+
 #### History  
-While he and his fellow mortals share ascension to the divine, Fiosachd was no Aosdic scholar  [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md)!  Tales of his daring adventures, love of coin and gems, and silvered tongue survived even the drowning of Hy-brasyl. Indeed, he is called the first Rogue, patron of quick deals and coin.  Legend has it that as an observer to the ascension of both Gramail and Luathas, Fiosachd convinced Danaan to raise him to deity as well.  Surely, a bargain of some kind had to have been struck to accomplish such a feat.
+Another of the original Gods, Ceannlaidir has long been worshipped by those who do battle  [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md)!  An truly complex being, Ceannlaidir is often painted as a brute, but this is also the same being that seduced Glioca and fathered Cail.  As these lands have known nothing but turmoil since Hy-brasyl sank beneath the waves, Ceannlaidir is always nearby, basking in the delight of battle.  It is said that he even materialized for the final confrontation between the demi-gods Ealagad and Tenes, to observe first hand the most glorious of all battles.
 
 #### Orders & Champions
-As both the patron of Rogues and shadows, if any orders exist in the Fiosachd faith, they hide well.  No particular orders come to mind, but perhaps the many merchants that congregate in Rucesion have a secret allegiance.
+Perhaps the most prolific of deities who inspire orders, many have existed throughout the ages.  Warrioth Clan and Aegis Knights were both Aisling organizations dedicated to the glory of Ceannlaidir.  Arguably, it could also be said that Tiarnach, that bed of heresy and later apostasy, was perhaps the most notable of clans dedicated to Ceannlaidir.  This designation, I am sure, would have been hotly contested by the heretical members of the clan, but in the end no other order has done more to praise the God of Battle.
 
-While Fiosachd has no known champions of renown, infamy and his temple go hand in hand.  One Aisling in particular meets this level of notoriety, but I will not add to their legend. 
+If any Aisling embodies the idea of the Champion of Ceannlaidir, none other than "The Warrior" himself, Vamistle, could be better qualified.  While his religious affiliation may be unknown, Vamistle's dedication to his craft is a true homage to the patron of Warriors. 
 
 #### Relationships
-Fiosachd allies with Gramail and Ceannlaidir, holds enmity with Deoch and Cail, and is opposed by Glioca†.  Ever popular with the down on their luck, Fiosachd's limitless wealth seemingly comes for free.  Little do the desperate know that the God of Fortune always gets his due.
+Ceannlaidir allies with Sgrios and Fiosachd, holds enmity with Luathas and Glioca, and is opposed by Cail†.  Whenever swords clash or glory is to be found, Ceannlaidir and his worshippers will not be far behind.  With his name evoked by soldiers before battle, or hunters before a hunt, Ceannlaidir remains one of the more popular gods in Temuair.
 
-### __Sgrios – Decay, Entropy__
-Influence: Luck, Fortune, Prosperity, Desire, Shadows†  
-Symbol: A single silver coin  
-Temple Location: Abel  
-Worshippers: Rogues, Merchants, Adventurers   
-```
-(( Begin OOC))
-Domains: Trickery, Twilight (UA)
-Alignment: Lawful Neutral
-Power Level: Greater God
-Channel Divinity: By expending one charge, you or an ally may reroll a saving throw with advantage, or automatically stabilize if downed.
-((End OOC)) 
-```
+### __Sgrios__
+Influence: Decay, Entropy, Famine, Disease, Death†  
+Symbol: A skeletal hand pointing downward  
+Temple Location: Dubhaim Castle  
+Worshippers: The ill, the wretched, the unfortunate   
+
+`((Begin OOC))`  
+Domains: Death, Grave  
+Alignment: True Neutral  
+Power Level: Greater God  
+Channel Divinity: Choose between Death and Grave.  For second level, choose between Death, Grave and Sgrios's Scar - By expending one charge, you mark a creature with -1 to all attributes, checks and saving throws.  This lasts until the creature has been blessed by a follower of Cail, Glioca or Deoch.  
+`((End OOC))`  
+
 #### History  
-While he and his fellow mortals share ascension to the divine, Fiosachd was no Aosdic scholar  [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md)!  Tales of his daring adventures, love of coin and gems, and silvered tongue survived even the drowning of Hy-brasyl. Indeed, he is called the first Rogue, patron of quick deals and coin.  Legend has it that as an observer to the ascension of both Gramail and Luathas, Fiosachd convinced Danaan to raise him to deity as well.  Surely, a bargain of some kind had to have been struck to accomplish such a feat.
+Ascension, it seems, is not only for mortals[_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md).  Sgrios is perhaps the most curious case of ascension from one form to another.  In a lost work I discovered in the ruins north of Dubhaim Castle, a somewhat mad chronicler detailed the birth, growth and eventual rise of the entity we call Sgrios.  Starting as the most small of dubhaimid larva, the creature came into existence with an insatiable hunger.  As he ate, he grew and evolved in form, moving from larva, to gaunt, and then finally to night gaunt.  What is undetermined is how he transitioned to his current form, but the chronicler speculated that in exchange for ascension, he tore his own wings and horns off, and consumed them.
+
+Even in his endless hunger, Sgrios knew the alliance with Chadul would be his undoing.  With the destruction of all life, Sgrios would devour all that remained and eventually starve.  With this in mind, out of necessity for survival, Sgrios struck a bargain with Deoch.  Instead of wholly consuming each spark that came to him, he would instead nibble ever so slightly before sending the spark back to grow in power.
+
+It is with this eternal bargain that we as Aislings will feel the excruciating pain of Sgrios delicately tasting our essence before he sends us away to grow stronger.  Having secured a means to temper his endless hunger, he now maintains vigil alongside the other gods of the octagram, his eternal banquet secured as long as Chadul remains imprisoned.
 
 #### Orders & Champions
-As both the patron of Rogues and shadows, if any orders exist in the Fiosachd faith, they hide well.  No particular orders come to mind, but perhaps the many merchants that congregate in Rucesion have a secret allegiance.
+Sgrios is perhaps the most misunderstood and maligned gods of the Octagram.  Any orders devoted to his name are persecuted and stamped out of existence, most often by the zealotry of Gramailians and Gliocans.  While historical records exists of secret sects of the followers of Sgrios, no trace of these orders remain today.
 
-While Fiosachd has no known champions of renown, infamy and his temple go hand in hand.  One Aisling in particular meets this level of notoriety, but I will not add to their legend. 
+One would be remiss in discussing Sgrios without the mention of two Aislings - Ginger, and Enclave.  Ginger, the wretched, claimed scores of souls in Sgrios's name, seeking to send every Aisling to Sgrios to feed on in short order.  It was only through the efforts of Enclave, the Dark Father, that control of the Sgrian religion was wrestled from Ginger the iconoclast and returned to the true worship of Sgrios as the regulator of the octagram.  To this day, the Enclavian Dogma, and its many branches, still hold sway in the temple of Sgrios.  As for Ginger, her teachings and dissident views have long been removed from the public eye.  I fear for the lands if these views should ever return to prominence.
 
 #### Relationships
-Fiosachd allies with Gramail and Ceannlaidir, holds enmity with Deoch and Cail, and is opposed by Glioca†.  Ever popular with the down on their luck, Fiosachd's limitless wealth seemingly comes for free.  Little do the desperate know that the God of Fortune always gets his due.
+Sgrios allies with Ceannlaidir and Deoch, holds enmity with Gramail and Cail, and is opposed by Luathas†.  The worship of decay and entropy had been mostly driven underground by zealotry, but curious alliances have existed since the time of the Dark Father. What truer testament to the rightfulness of his leadership, which has since allowed the faith to grow and flourish, exists outside of this?
 
-### __Cail – Balance, Nature__
-Influence: Luck, Fortune, Prosperity, Desire, Shadows†  
-Symbol: A single silver coin  
-Temple Location: Abel  
-Worshippers: Rogues, Merchants, Adventurers   
-```
-(( Begin OOC))
-Domains: Trickery, Twilight (UA)
-Alignment: Lawful Neutral
-Power Level: Greater God
-Channel Divinity: By expending one charge, you or an ally may reroll a saving throw with advantage, or automatically stabilize if downed.
-((End OOC)) 
-```
+### __Cail__ 
+Influence: Nature, Balance, Agriculture, Forests, Mountains†  
+Symbol: An oak tree  
+Temple Location: Undine  
+Worshippers: Monks, Druids, Farmers   
+
+`((Begin OOC))`  
+Domains: Nature, Martyrdom [(Homebrew)](https://www.dandwiki.com/wiki/Martyrdom_Domain_(5e_Subclass))  
+Alignment: True Neutral  
+Power Level: Greater God  
+Channel Divinity: Choose between Nature and Martyrdom.  For 2nd level, choose between Nature, Martyrdom and Ring of Peace - By expending one charge, you may cause an aura of peace to emanate in a 60 yard radius for 1 turn per cleric level.  Any hostile action will result in a creature within the radius being thrown forcibly outside of it upon failing a wisdom saving throw, suffering 1d8 force damage.  Succeeding on a wisdom saving throw will cause all attack rolls to be at a disadvantage.  
+`((End OOC))` 
+
 #### History  
-While he and his fellow mortals share ascension to the divine, Fiosachd was no Aosdic scholar  [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md)!  Tales of his daring adventures, love of coin and gems, and silvered tongue survived even the drowning of Hy-brasyl. Indeed, he is called the first Rogue, patron of quick deals and coin.  Legend has it that as an observer to the ascension of both Gramail and Luathas, Fiosachd convinced Danaan to raise him to deity as well.  Surely, a bargain of some kind had to have been struck to accomplish such a feat.
+Ah, Cail.  Born of violence, cursed by his father, an interesting discussion is to be had around this deity of the wild  [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md).  In quoting a famous mundane scholar "Life finds a way", one indeed finds a most whole summary of the deity Cail.  Forbidden by his father from bearing arms, Cail subverted this curse to inspire the founding of the Monk path we see today.  No weapon is required for these warriors to shatter stone or break bone, but also lean on the influence of his mother, with their gentle touch.  Indeed, the inevitability of the slow moving mountain, the patience of the winding stream, all belong to Cail.  Long known for his peaceful nature and stewardship of the wilds, Cail strives to see this balance maintained across the lands.  Peace and balance do not come without cost, however; just as a raging forest fire cleanses the land for new growth, so too does Cail correct imbalances in the natural order.
 
 #### Orders & Champions
-As both the patron of Rogues and shadows, if any orders exist in the Fiosachd faith, they hide well.  No particular orders come to mind, but perhaps the many merchants that congregate in Rucesion have a secret allegiance.
+As the patron of both Monks and nature, Cail boasts perhaps the only mundane order to any deity - the Druids of Temuair.  Aislings who follow Cail, however, tend to loosely affiliate, preferring the solitude and wisdom of the forests to the bustle of chaotic guild halls.  In all my searching, no record of any Aisling order devoted to Cail could be found.
 
-While Fiosachd has no known champions of renown, infamy and his temple go hand in hand.  One Aisling in particular meets this level of notoriety, but I will not add to their legend. 
+One would be remiss, and likely castigated, should the name Pashura not be mentioned with discussion of Cail.  From the legends of earlier times, it would seem Pashura acted as a protective vine, growing steadily and shielding the temple of Cail from heresy and apostacy.  However, without balance, even a vine can move from a shield to a stranglehold, causing the host to wither and die.  Such seems to be the case for the temple of Cail, as the footsteps of barefooted clergy seldom echo in those halls in these times.
 
 #### Relationships
-Fiosachd allies with Gramail and Ceannlaidir, holds enmity with Deoch and Cail, and is opposed by Glioca†.  Ever popular with the down on their luck, Fiosachd's limitless wealth seemingly comes for free.  Little do the desperate know that the God of Fortune always gets his due.
+Cail allies with Glioca and Luathas, holds enmity with Fiosachd and Sgrios, and is opposed by Ceannlaidir†.  In these times, the absence of the apostles of balance is felt most stingingly, as equilibrium could not be found in these lands even if one were to overturn every stone.  If the past is any predictor, we may be in for a great storm of fury as Cail rights things back to their natural order.
 
-### __Deoch – Creativity, Chaos__
-Influence: Luck, Fortune, Prosperity, Desire, Shadows†  
-Symbol: A single silver coin  
-Temple Location: Abel  
-Worshippers: Rogues, Merchants, Adventurers   
-```
-(( Begin OOC))
-Domains: Trickery, Twilight (UA)
-Alignment: Lawful Neutral
-Power Level: Greater God
-Channel Divinity: By expending one charge, you or an ally may reroll a saving throw with advantage, or automatically stabilize if downed.
-((End OOC)) 
-```
+### __Deoch__
+Influence: Creativity, Chaos, Passion, Rebirth, Songs†  
+Symbol: Brightly burning flame  
+Temple Location: Suomi  
+Worshippers: Bards, Artists, Revelers   
+
+`((Begin OOC))`  
+Domains: Chaos [(Homebrew)](https://www.dandwiki.com/wiki/Chaos_Domain_(5e_Subclass)), Flames [(Homebrew)](https://www.dandwiki.com/wiki/Chaos_Domain_(5e_Subclass))  
+Alignment: Chaotic Neutral  
+Power Level: Greater God  
+Channel Divinity: Select from either Chaos or Flames  
+`((End OOC))`
+
 #### History  
-While he and his fellow mortals share ascension to the divine, Fiosachd was no Aosdic scholar  [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md)!  Tales of his daring adventures, love of coin and gems, and silvered tongue survived even the drowning of Hy-brasyl. Indeed, he is called the first Rogue, patron of quick deals and coin.  Legend has it that as an observer to the ascension of both Gramail and Luathas, Fiosachd convinced Danaan to raise him to deity as well.  Surely, a bargain of some kind had to have been struck to accomplish such a feat.
+In another curious case of ascending to the divine, Deoch was not always an ally to what are now known as the gods of the Octagram  [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md).  Originally what passes for a deity among the dubhaimid, Deoch the Corruptor whispered seductions into the ears of men, causing them to forsake the righteous path and descend into unholy debauchery.  All of this changed upon his first encounter with Danaan.  So brightly did the light of Danaan touch Deoch, that he shed his old ways and took up the mantle of inspiration.  It is through this transformation that Deoch ascended into our savior, and took his rightful place in the octagram.  No other being, mortal or immortal, changed the balance between Darkness and Light than Deoch.  Likewise, it is his grand design which keeps Chadul imprisoned.
+
+Truly, without Deoch, we would all be lost to the darkness.
 
 #### Orders & Champions
-As both the patron of Rogues and shadows, if any orders exist in the Fiosachd faith, they hide well.  No particular orders come to mind, but perhaps the many merchants that congregate in Rucesion have a secret allegiance.
+Given the chaotic nature of Deoch, finding something resembling an organized group established in his name was somewhat difficult.  However, my tireless research stumbled upon some old manuscripts, detailing the founding of the Garamonde Theater Group.  While members of this original group are rarely seen, the Suomi Troupe has taken up the mantle of keeping the traditions and ways of the playwrights alive to this day.
 
-While Fiosachd has no known champions of renown, infamy and his temple go hand in hand.  One Aisling in particular meets this level of notoriety, but I will not add to their legend. 
+No other Aisling exemplified the brilliance of our lord of fire, than Paladine Meatha, first High Priest to Deoch.  Tales tell that simply being in his presence inspired some of the greatest Aisling minds to pen the greatest works of Temuair.  As a young Deoch priest, tales of his spark filled me with the greatest of imaginations
 
 #### Relationships
 Fiosachd allies with Gramail and Ceannlaidir, holds enmity with Deoch and Cail, and is opposed by Glioca†.  Ever popular with the down on their luck, Fiosachd's limitless wealth seemingly comes for free.  Little do the desperate know that the God of Fortune always gets his due.
@@ -272,3 +278,4 @@ Fiosachd allies with Gramail and Ceannlaidir, holds enmity with Deoch and Cail, 
 ### __Ealagad__
 ### __Tenes__
 ### __Phailin__
+### __Tyr__
