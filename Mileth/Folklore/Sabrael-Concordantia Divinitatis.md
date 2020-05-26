@@ -109,7 +109,7 @@ Channel Divinity: Choose between Knowledge and Arcana.  For second level, choose
 Luathas was an Aosdic scholar known for his wisdom to such a degree that he was raised to divinity by Danaan [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md).  His detailed histories, advanced studies of magic, and deft philosophical musings are the fodder for legend, as only mere scraps were recovered from the sinking of Hy-brasyl.  It is rumored that the Loures library was founded by his inspiration as an act of his divinity.
 
 #### Orders & Champions
-Of all religious orders, perhaps none is more known, and more peculiar, than the Academie Arcanus [_(Veneficus's "History of the Academie Arcanus")_](../../../loures/History/History-Of-The-Academie-Arcanus.md).  An order of wizards dedicated to the God Luathas, the Acedemie was created in times before Aislings, destroyed and shamed into exile, and then reborn as an institute of learning.  What truer dedication could there be?  The only strange part would be the complete lack of priests among their midst!
+Of all religious orders, perhaps none is more known, and more peculiar, than the Academie Arcanus [_(Veneficus's "History of the Academie Arcanus")_](../../../loures/History/History-Of-The-Academie-Arcanus.md).  An order of wizards dedicated to the God Luathas, the Academie was created in times before Aislings, destroyed and shamed into exile, and then reborn as an institute of learning.  What truer dedication could there be?  The only strange part would be the complete lack of priests among their midst!
 
 With that, Veneficus bears mention as the scion of Luathas.  No other Aisling has done more to further his name, or have created such a lasting impression on the minds of Aislings as to the importance of the God Luathas. 
 
@@ -157,7 +157,7 @@ Channel Divinity: Choose between War and Blood.  For 2nd level, choose between W
 Another of the original Gods, Ceannlaidir has long been worshipped by those who do battle  [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md)!  An truly complex being, Ceannlaidir is often painted as a brute, but this is also the same being that seduced Glioca and fathered Cail.  As these lands have known nothing but turmoil since Hy-brasyl sank beneath the waves, Ceannlaidir is always nearby, basking in the delight of battle.  It is said that he even materialized for the final confrontation between the demi-gods Ealagad and Tenes, to observe first hand the most glorious of all battles.
 
 #### Orders & Champions
-Caennlaidir is perhaps the most prolific of deities who inspire orders, as many have existed throughout the ages.  Both the Warrioth Clan and Aegis Knights were Aisling organizations dedicated to the glory of Ceannlaidir.  Arguably, it could also be said that Tiarnach, that bed of heresy and later apostasy, was perhaps the most notable of clans dedicated to Ceannlaidir.  This designation, I am sure, would have been hotly contested by the heretical members of the clan, but in the end no other order has done more to praise the God of Battle.
+Ceannlaidir is perhaps the most prolific of deities who inspire orders, as many have existed throughout the ages.  Both the Warrioth Clan and Aegis Knights were Aisling organizations dedicated to the glory of Ceannlaidir.  Arguably, it could also be said that Tiarnach, that bed of heresy and later apostasy, was perhaps the most notable of clans dedicated to Ceannlaidir.  This designation, I am sure, would have been hotly contested by the heretical members of the clan, but in the end no other order has done more to praise the God of Battle.
 
 If any Aisling embodies the idea of the Champion of Ceannlaidir, none other than "The Warrior" himself, Vamistle, could be better qualified.  While he is an acolyte of Luathas, Vamistle's dedication to his craft is a true homage to the patron of Warriors. 
 
@@ -245,7 +245,7 @@ Deoch allies with Glioca and Sgrios, holds enmity with Luathas and Fiosachd, and
 ## Intermediate Deities
 With the review of Gods well known and established in Temuair, now we move on to another exciting piece of this work.  From this section forward, I will detail all I have gathered on the lost gods of Temuair.  Whether rumor or fact, evidence of these deities exists in fragments, scattered throughout the lands.
 
-With such an introduction, we now move on to what I have coined the "Intermediate Deities".  These beings, powerful in their own right, could have stepped into the pact of the Octagram, but for whatever reasons did not.  Ancient as the earthsea itself, their worship seems relegated only to insular remote communities, if any worshippers can be found at all.
+With such an introduction, we now move on to what I have coined the "Intermediate Deities".  These beings, powerful in their own right, could have stepped into the pact of the Octagram, but for whatever reasons did not.  Ancient as the Earthsea itself, their worship seems relegated only to insular remote communities, if any worshippers can be found at all.
 
 ### __Belenus__
 Influence: The Sun, Dawn   
@@ -277,7 +277,7 @@ of the undead it is no longer safe to forage in the forests.
 Luca, Cristian, Nicolae and myself are all that remain.  The foul creatures no longer
 appear to fear my rebukes, and Belenus himself grows distant.  What have we done for
 him to forsake us?  If only master Ishgar were here.  His faith was a shining beacon
-in the night, and would easily drive out these monstrosties!
+in the night, and would easily drive out these monstrosities!
 
 For now, we rest.  At dawn, we shall set out for Tagor, as Eingren village is lost.
 Bitterly, the dead no longer line the streets, as they too have risen.  Even the scant
@@ -320,9 +320,9 @@ Re was perhaps the most interesting of the intermediate gods to track down.  Rul
 
 Never one to shrink from a challenge, I sat out on the long journey from Loures to the ruins of Niara.  After several days journey, I came to the cliffs of Faodhail Abhainn [_(Evenue's "Iodhnadh De A Luaithre")_](../../../loures/History/Evenue-Iodhnadh-De-A-Luaithre.md).  Pausing briefly, I cursed my inability as an artist - the beauty of the vista is quite breathtaking.  From far away, one can still see the spires of the great city, glinting at sundown.  All of this is an illusion though, for upon approaching, the ruins of the city are devastating to behold.
 
-The very land seems cursed, soaked in the blood of dubhaimid over a millenia ago.  Even still, while abandoned, I could not help but feel I was being watched.  Locating the temple itself was easy enough, the structure in remarkably good condition compared to the ruins around it.  It took several attempts to open the door, as it appears to have been barred from the inside.
+The very land seems cursed, soaked in the blood of dubhaimid over a millennia ago.  Even still, while abandoned, I could not help but feel I was being watched.  Locating the temple itself was easy enough, the structure in remarkably good condition compared to the ruins around it.  It took several attempts to open the door, as it appears to have been barred from the inside.
 
-What I discovered inside was breathtaking - nary a drop of dust or thing out of place inside the entire temple.  Candles still burned on the altar, and the air was chill and fresh.  I searched thoughout the temple, careful to not disturb anything lest I incur the wrath of the Night Queen.
+What I discovered inside was breathtaking - nary a drop of dust or thing out of place inside the entire temple.  Candles still burned on the altar, and the air was chill and fresh.  I searched throughout the temple, careful to not disturb anything lest I incur the wrath of the Night Queen.
 My search of the temple was fruitless.  Not only were there no written records, but there was no sign of life anywhere in the vicinity.  I can only conclude that someone from a nearby village must make the dangerous trek to maintain this shrine, as no other explanation exists.
 
 I recall most vividly the chill ran down my spine as I prepared to leave the temple.  Glancing above me, at the rough hewn marble above the doorway, there was something I missed upon entering.  Jaggedly slashed into the mantle was the phrase "_My glory preserved - One day, I will return for you_".  It was at this moment that I decided discretion was indeed the better part of valor, and in a most dignified manner, quickly made my way back to Loures. Extra precautions were taken to make sure the temple was sealed tightly behind me - there may also have been a small piling of rubble in front of the door.
@@ -394,7 +394,7 @@ What is unfortunately not available is a method to actually enter Khoreduhr.  Af
 
 Taranis, however, is the most peculiar of the intermediate gods, if not indeed all the gods.  A dwarven deity, of the sky?  Worshipped by mundanes and Aislings?  I surmise that perhaps a settlement in close proximity to the Khoreduhr would have perhaps picked up the faith through trade with the kingdom, blossomed and grown, and eventually vanished alongside any villages.  When the dubhaimid attacked Khoreduhr, they cut a swath of destruction through the landscape - I saw no traces of settlements along the trail I followed to the entrance.
 
-Of interest, it seems liturgical chaning was a part of the faith. Scribed on the back of a map in the Loures Library, I discovered what is called the "Litany of Storms":
+Of interest, it seems liturgical chanting was a part of the faith. Scribed on the back of a map in the Loures Library, I discovered what is called the "Litany of Storms":
 ```
 Blessed is the lord of storms
 for his is the way of salvation
@@ -412,7 +412,7 @@ Blessed are those who fall before us
 for they are our gifts to him
 ```
 #### Speculations
-With the fall of Khoreduhr and the annhilation of the countryside leading to it, it is hard to imagine that the worship of Taranis has survived in any meaningful form.  Still, no one has set foot inside of Khoreduhr for countless generations - perhaps some of the dwarves survived and worship him still.
+With the fall of Khoreduhr and the annihilation of the countryside leading to it, it is hard to imagine that the worship of Taranis has survived in any meaningful form.  Still, no one has set foot inside of Khoreduhr for countless generations - perhaps some of the dwarves survived and worship him still.
 
 #### Relationships
 Taranis was allied with Belenus, held enmity with Re, and was opposed by Mannan.
@@ -445,7 +445,7 @@ One of the more fascinating finds I discovered on my journeys was tucked away in
 |Goibhniu|Smithing|Hammer|Luathas|Esotericism|
 |Oghma|Chronicles|Open Book|Luathas|Esotericism|
 |Andraste|Divination|Blue Star|Luathas|Esotericism|
-|Aine|Love|Rose|Glioca|Life|
+|Aine|Love|Golden Tear|Glioca|Life|
 |Luibhlia|Herbalism|Sevti Blossom|Glioca|Life|
 |Eriu|Fae|Green Heart|Glioca|Life|
 |Rathunas|Prosperity|Sack of Coins|Fiosachd|Adventure|
@@ -453,7 +453,7 @@ One of the more fascinating finds I discovered on my journeys was tucked away in
 |Oiche|Shadows|Purple Mask|Fiosachd|Adventure|
 |Cernunnos|The Hunt|Bow|Ceannlaidir|Victory|
 |Nemain|Carnage|Dagger|Ceannlaidir|Victory|
-|Nuada|Conquest|Pennant|Ceannlaidir|Viictory|
+|Nuada|Conquest|Halberd|Ceannlaidir|Victory|
 |Balor|Death|Scythe|Sgrios|Entropy|
 |Elphane|Disease|Yellow Skull|Sgrios|Entropy|
 |Arawn|Famine|Sack of Grain|Sgrios|Entropy|
@@ -466,14 +466,63 @@ One of the more fascinating finds I discovered on my journeys was tucked away in
 
 These various lesser deities seem to be the primary way in which interactions with Aislings are conducted currently.  With much of their attention focused on maintaining the great seal, these gods serve as messengers of sorts.  Locating examples of their direct worship was not successful, which leads me to wonder - are these separate beings, or simple avatars taken on by the Gods of the Octagram?  In truth, each seems to represent a different aspect of the god they serve.  However, whether separate beings or simply forms taken, there is definitive proof they exist.
 
-Various oaths and exclaimations from throughout the lands invoke these deities, such as the phrase "That one has been kissed by Aine", when describing a young person in love, or "By Oghma, what was I just going to write down?" - a phrase I have often used myself!  Small signs of each god can be seen throughout Temuair - each smith hangs the symbol of Goibhniu outside their door.  In taverns, Branwen's name is not far from the lips of drunkards and revelrers alike.  Any who have ventured into the Shinewood forest can tell you of the fae that abound there, even one that will speak to Aislings.  Is this Eriu?  She did not seem to respond to that name when I called out to her, but the fae, ever capricious, could have simply been toying with me.
+Various oaths and exclamations from throughout the lands invoke these deities, such as the phrase "That one has been kissed by Aine", when describing a young person in love, or "By Oghma, what was I just going to write down?" - a phrase I have often used myself!  Small signs of each god can be seen throughout Temuair - each smith hangs the symbol of Goibhniu outside their door.  In taverns, Branwen's name is not far from the lips of drunkards and revelers alike.  Any who have ventured into the Shinewood forest can tell you of the fae that abound there, even one that will speak to Aislings.  Is this Eriu?  She did not seem to respond to that name when I called out to her, but the fae, ever capricious, could have simply been toying with me.
 
 A relatively obscure, but fortunate find on my part - I still endeavor to research more of each of these gods as I find the topic fascinating!
 
-## Gods of the Wilds
-### __The Seasons - Earrach, Spring, Caithim, Winter, Fomhar, Autumn, Samradh, Summer__
-### __The Elements - Tine, Fire Spirit, Uisce, Water Spirit, Ithir, Earth Spirit, Gaoth, Air Spirit__
-### __The Morrigan – Ana, Mabd and Macha__
+## Spirits, Elementals and More
+An odd collection of deities will be discussed here, who appear to be even further removed from the Octagram than the intermediate deities.  Spanning from elemental spirits, manifestations of the seasons, and the spinners of fate, these beings seem to care only for what is their domain.
+
+### __The Seasons__ 
+These seasonal deities represent an interesting cycle - only two of them are ever awake at the same time, and even then, only in passing.  I read an interesting text about how these deities hold a spectacle for the Fae Court, passing the crown of time from one to the other as the seasons move forward.  Only in the most remote of farming villages have I come across any sign of worship for these deities by Aisling or Mundane - you will know you have found their shrine when you find a cairn encircled in a mushroom ring.
+
+|Name|Influence|
+|-|-|
+|Earrach|Spring|
+|Samradh|Summer|
+|Fomhar|Autumn|
+|Caithim|Winter|
+
+From a recount of what was clearly a drunkard, the Rite of Passing Seasons, as performed for the Fae Court:
+
+```
+When Caithim draws near,
+Fomhar will fear
+and sleep this night
+
+When Earrach does appear,
+So does Caithim leer,
+to withdraw from sight
+
+As Samradh calls,
+Earrach too falls,
+bending to his might
+
+Once Fomhar sings,
+Samradh too brings,
+the fading of light
+
+Old Caithim once more,
+as Fomhar does snore,
+the circle is right
+```
+
+A simple poem?  The mead stained pages offered little insight other than "them faerie things did dancing".  Truthfully, the rest of the writing in the account was strikingly different than this poem, so I am left with little choice but to accept this is indeed the "Rite of Passing Seasons".
+
+### __The Elements__ 
+Tales of the far away land of Medenia tell of the spirits that hold sway there.  Truth be told, I sometimes wonder if Medenia is nothing more than the cabin-fevered dreams of Aislings deep in their cups of mead while sailing in a circle outside the Loures Harbor - that, however, is a tale for a different time.  In this land of Medenia, Aislings tell of three spirits - Earth, Fire and Water spirits, each of which accept reverence from Aislings.  This coincides with a tome I was gifted by an anonymous admirer, which claims to have been recovered from Hy-brasyl - I remain completely skeptical of the source of this tome, but the contents were intriguing. 
+
+|Name|Element|
+|-|-|
+|Tine|Fire|
+|Uisce|Water|
+|Ithir|Earth|
+|Gaoth|Air|
+
+I was unable to locate any evidence of worship for these Temuairan elemental spirits.  If these beings accept worship, they must not require it like other gods.  In theory, as the elements were discovered here in Temuair... perhaps their "worship" comes from the studious practice of Wizards?  Perhaps one more studied in the arts of wizardry would be able to investigate this further.
+
+### __The Morrigan__
+The Morrigan are perhaps the most interesting of this unconnected deities, as they appear to exist outside of our world and yet seemingly know all that is to come.  Female priests sometimes dream of these beings at upon reaching the 80th insight, although I am told the dream is more of a nightmare.  In these dreams, the three appear, Maiden, Mother and Crone.  Spinner, Weaver and Cutter.  Ana, Mabd and Macha.  These three weave a majestic tapestry, each thread a single Aisling or Mundane life.  As they weave, they cross paths, cut and even remove the thread from the tapestry in entirety.  For what purpose they do this, or who they pay homage to, none know.  While interesting, little is known about them other than what has been pieced together from the fevered dreams of female priests, often scattered fragments of incoherent visions.  Perhaps it is best we not delve too deeply into their affairs, lest old Macha get her scissors at the ready.
 
 ## Deceased Gods
 ### __Dagdha – Gramail replaced__
