@@ -2,18 +2,18 @@
 _by Sabrael in_ ___Dark Ages___
 
 ## Preface
-In my many travels throughout these lands, the study of the divine has always fascinated me.  A gift, inquisitiveness, the torment and delight of those licked by the flames of Deoch, which has lead me through many a daring adventure, delving the deepest of ruins and conquering the most formidable of libraries, all in a quest to record the nature of our cosmology for all to observe, wonder over and seek inspiration from.
+In my many travels throughout these lands, the study of the divine has always fascinated me.  A gift, inquisitiveness, the torment and delight of those licked by the flames of Deoch. Inspiration has lead me through many a daring adventure, delving the deepest of ruins and conquering the most formidable of libraries, all in a quest to record the nature of our cosmology for all to observe, wonder over and seek inspiration from.
 
-In this work, several references will be made to Aphrodite’s [_Sects of Temuairan Faith_](../../../loures/Philosophy/Aphrodite-Sects-of-Temuairan-Faith.md), Angelique’s [_Obscurum ac Luminarium_](../../../loures/Philosophy/Angelique-Obscurum-ac-Luminarium.md), and Chloe’s [_Reflections on the Interactions Between the Gods_](../../../loures/Philosophy/Chloe-Reflections-on-the-Interactions-Between-the-Gods.md).  Having combed through the library, these three works show the most relevance to finalizing and detailing all we know about the divine.  As such, where relevant, citations will be marked with a †.  Additionally, illustrations will be provided when possible, but be warned that my humble gifts lie with the pen and harp, not with the brush.
+In this work, several references will be made to Aphrodite’s [_Sects of Temuairan Faith_](../../../loures/Philosophy/Aphrodite-Sects-of-Temuairan-Faith.md), Angelique’s [_Obscurum ac Luminarium_](../../../loures/Philosophy/Angelique-Obscurum-ac-Luminarium.md), and Chloe’s [_Reflections on the Interactions Between the Gods_](../../../loures/Philosophy/Chloe-Reflections-on-the-Interactions-Between-the-Gods.md).  These three works show the most relevance to finalizing and detailing all we know about the divine, and will be quoted often.  As such, where relevant, citations for these three entries will be marked with a † - typically all three will apply.  Additionally, illustrations will be provided when possible, but be warned that my humble gifts lie with the pen and harp, not with the brush.
 
-The origins and details of many of these deities have been gathered from folklore and handed down tales, as little can be found in the written works of Aislings for many of these lesser known deities.  In addition, the nature of the divine will be examined through a discussion of the what and why of the octagram, what the relation is between faith and power, and lastly, a cursory introduction to the path of ascension.
+The origins and details of many of these deities have been gathered from folklore and handed down tales, as little can be found in the written works of Aislings for many of these lesser known deities.  In addition, the nature of the divine will be examined through a discussion of the what and why of the Octagram, what the relation is between faith and power, and lastly, a cursory introduction to the path of ascension.
 
 ## Octagram Theory
-For a moment, indulge me in this flight of fantasy.  Picture if you will, the vastness of the night sky, but with the familiar grounds we walk a far distant memory.  We will call this great emptiness space, where one can see the stars and moons and suns that make up familiar figures that greet us from the night sky ([_Solanalein's "Realto I Laiocht Fior Na Spiere_](../../../loures/Lore/Solanalein-Realto-I-Laiocht-Fior-Na-Speire.md)).  In this vast darkness, lit only by the twinkling of stars, see the octagram as a flat plane.
+For a moment, indulge me in this flight of fantasy.  Picture if you will, the vastness of the night sky, but with the familiar grounds we walk a far distant memory.  We will call this great emptiness "space", where one can see the stars and moons and suns that make up familiar figures that greet us from the night sky ([_Solanalein's "Realto I Laiocht Fior Na Spiere_](../../../loures/Lore/Solanalein-Realto-I-Laiocht-Fior-Na-Speire.md)).  In this vast darkness, lit only by the twinkling of stars, see the Octagram as a flat plane.
 
-It is there, on this plane, that Danaan made the great sacrifice to seal away Chadul for all eternity.  What is speculated though, is the nature of this seal.  How does it work?  Many would say that Danaan has perished, but as we look around us, we can see her influence.  Her light still shines.  It is here that Danaan is chained, on this great seal, her light shining brightly to keep the darkness at bay.  In this, in her wisdom and glory, Danaan enlisted the aid of what we now know as the gods of the octagram.  Ever at vigil, each for a different reason and purpose, the Gods of the Octagram stand in ritual, strengthening both Danaan and the ward which keeps the great darkness from arising.
+It is there, on this plane, that Danaan made the great sacrifice to seal away Chadul for all eternity.  What is speculated though, is the nature of this seal.  How does it work?  Many would say that Danaan has perished, but as we look around us, we can see her influence.  Her light still shines.  It is here that Danaan is chained, on this great seal, her light shining brightly to keep the darkness at bay.  In this, in her wisdom and glory, Danaan enlisted the aid of what we now know as the Gods of the Octagram.  Ever at vigil, each for a different reason and purpose, the Gods of the Octagram stand in ritual, strengthening both Danaan and the ward which keeps the great darkness from arising.
 
-For a millennia they have stood, in silent vigil, channeling their will into the prison that has kept the dark lord from returning.  In turn, we, as the inspired dreamers, so too channel our faith, prayers, pleas and thanks to each God of the Octagram.  Such is the forging of the chain that binds the darkness, let us never forget.  For should we fall, the Gods of the Octagram will diminish as well, and then too will Danaan's sacrifice be for naught.  
+For millennia they have stood, in silent vigil, channeling their will into the prison that has kept the dark lord from returning.  In turn, we, as the inspired dreamers, so too channel our faith, prayers, pleas and thanks to each God of the Octagram.  Such is the forging of the chain that binds the darkness, let us never forget.  For should we fall, the Gods of the Octagram will diminish as well, and then too will Danaan's sacrifice be for naught.  
 
 One surmises that this theory can be evidenced by direct review of the lands of Temuair.  All around us, in this the one hundred and seventy first deoch, faith is in decline.  The minions of Chadul brush against the borders of Chaos as the temples collect dust from disuse.  Should this course not be corrected, I fear the darkness will envelop us all.
 
@@ -24,18 +24,18 @@ So then, one can imagine Aislings as small, in the grand scheme of things, but i
 
 By his gifts, you, I, and indeed all Aislings engage in an ebb and flow of power refinement and transfer.  One can see the effects on the land when the worship of Luathas is high, as magic also shimmers in the air.  Or when the love of Glioca flows freely, the kindness is nearly palpable in every touch, every gift, every song.  With the waxing of one faith, it too seems a different faith wanes.  As one can see today, worship of Gramail is but a shade of its former self, and the effects can be seen on the land as apostates and their practice of forbidden magic remains at an unprecedented level.
 
-Of importance, however, is the understanding that while the power flow may shifts and collect at one point of the octagram or another, the total balance should remains the same.  However, what if that energy is directed in a different direction?
+Of importance, however, is the understanding that while the power flow may shifts and collect at one point of the Octagram or another, the total balance should remains the same.  However, what if that energy is directed in a different direction?
 
 ## Theorem of Divine Ascension
-Far before my time, although some of the elders may remember, a group of Aislings gathered and formed what became the Cult of Enigma.  Following no god, these Aislings left a mark on the lands.  Whilst nominally pledged to Sgrios, as his summons were still a force of power at the time, this was quite different.  When a faithful of the octagram calls upon the deity for aid,  creatures come to the aid of the supplicant as an ally, taking suggestions but operating of their own will.  Not so, for the Cult of Enigma.  These creatures were enslaved, used skillfully and with intent to commit atrocities not since seen on these lands.
+Far before my time, although some of the elders may remember, a group of Aislings gathered and formed what became the Cult of Enigma.  Following no god, these Aislings left a mark on the lands.  Whilst nominally pledged to Sgrios, as his summons were still a force of power at the time, this was quite different.  When a faithful of the Octagram calls upon the deity for aid,  creatures come to the aid of the supplicant as an ally, taking suggestions but operating of their own will.  Not so, for the Cult of Enigma.  These creatures were enslaved, used skillfully and with intent to commit atrocities not since seen on these lands.
 
-How was this done?  It is the point of this theorem to demonstrate that the power of the spark, which strengthens the prison of Chadul, can, through force of will, be directed to forces and ideas outside of the octagram.  Indeed, had the cult not been stopped, we Aislings may have witnessed the birth of a new God, one perhaps even as dark and terrible as Chadul.
+How was this done?  It is the point of this theorem to demonstrate that the power of the spark, which strengthens the prison of Chadul, can, through force of will, be directed to forces and ideas outside of the Octagram.  Indeed, had the cult not been stopped, we Aislings may have witnessed the birth of a new God, one perhaps even as dark and terrible as Chadul.
 
-This redirection of power can also be seen in various other cults that have appeared.  The sometimes "Cult of Danaan" appears without warning, gathering followers for a rush of exaltation to the goddess of light, and then mysteriously vanishing just as quickly.  Indeed, the chosen of the cult has often been described as being able to perform miracles, normally reserved for those pledged to the gods of the Octagram.  Decried as a charlatan by many leaders of the octagram faiths, perhaps they too strengthened Danaan in their own way.  As discussed previously, however, the purpose of the worship of the octagram gods is to refine and enhance power before transference.  Without this process, one is left to wonder of the effectiveness of this Cult's efforts, even if they are able to produce miracles as such.
+This redirection of power can also be seen in various other cults that have appeared.  The sometimes "Cult of Danaan" appears without warning, gathering followers for a rush of exaltation to the goddess of light, and then mysteriously vanishing just as quickly.  Indeed, the chosen of the cult has often been described as being able to perform miracles, normally reserved for those pledged to the Gods of the Octagram.  Decried as a charlatan by many leaders of the Octagram faiths, perhaps this cult also strengthened Danaan in their own way.  As discussed previously, however, the purpose of the worship of the Octagram gods is to refine and enhance power before transference.  Without this process, one is left to wonder of the effectiveness of this Cult's efforts, even if they are able to produce miracles as such.
 
-More troubling, however, are those of the Anaman Pact.  Begun by Lord Tenes and councilors of Loures, this thousand year pact rose to prominence and fell to mystery before the rise of Aislings.  Forever, it seemed, to remain relegated to the lands of fairy tale, all of this changed when the Pact was renewed by the Aisling Hollie and her cohorts in the 8th Deoch.  Since then, followers of this cult too have shown their propensity for miracles, though they are dark and shadowy.  It is said the whispers of these cultists can bring even the most noble and kind hearted Aisling down into the depths of cruelty and pain.  Students of the history of Mileth Politics will see how this small group of Aislings, with their rumored sacrifices, have been able to topple the government there time and again.  It is the sincere hope that, like the cult of Danaan, this transference of raw power to Chadul in exchange for gifts is ineffective.
+More troubling, however, are those of the Anaman Pact.  Begun by Lord Tenes and councilors of Loures, this thousand year pact rose to prominence and fell to mystery before the rise of Aislings.  Forever, it seemed, to remain relegated to the realms of fairy tale imagination, all of this changed when the Pact was renewed by the Aisling Hollie and her cohorts in the 8th Deoch.  Since then, followers of this cult too have shown their propensity for miracles, though they are dark and shadowy.  It is said the whispers of these cultists can bring even the most noble and kind hearted Aisling down into the depths of cruelty and pain.  Students of the history of Mileth Politics will see how this small group of Aislings, with their rumored sacrifices, have been able to topple the government there time and again.  It is the sincere hope that, like the cult of Danaan, this transference of raw power to Chadul in exchange for gifts is ineffective.
 
-In each of these scenarios, we see the transference of divinity into places surely unintended by Deoch in his grand design.  These events, while few and far between, are likely to be the source of the occasional breakthrough for the minions of Chadul to enter Temuair once more.  It is with great fortune, however, that these instances seem few and far between.  I worry for us all should they become more commonplace.
+In each of these scenarios, we see the transference of divinity into places surely unintended by Deoch in his grand design.  These events, while rare, are likely to be the source of the occasional breakthrough for the minions of Chadul to enter Temuair once more.  It is with great fortune, however, that these instances seem few and far between.  I worry for us all should they become more commonplace.
 
 ## Gods of the Octagram
 With the discussion of the dynamics of faith, power, divinity and ascension behind us, now too shall we learn of each of the deities, both real and assumed, that shape these lands.  With hope, a more complete view of the cosmology of Temuair will help rekindle an interest in the divine.  In many instances, the worship of some deities exists only in the past, or in some cases, are assumed to exist and remain undiscovered.  
@@ -61,7 +61,7 @@ Channel Divinity: Choose between Order and Unity; for 2nd level, choose between 
 Gramail began life as an Aosdic scholar, and later was elevated to godhood by Danaan [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de_Temuair.md).  Though several stories around his awakening and ascension exist, it is theorized that Gramail was chosen due to his complete embrace of Justice and Order during his time as the First Judge (a position in ancient Hy-brasyl's legal system) prior to the city sinking beneath the waves.  Legend holds that Gramail himself held the trial over the first murderer, and sentenced him through sheer reason and logic, as no laws existed at the time to cover the heinous act.  Interestingly, his trinity also represents the first to fall against Chadul, as well as the only evidence of mortals ascending to deity.
 
 #### Orders & Champions
-No current orders exist in the Gramail fellowship that I was able to determine, save rumors of a sect of Gramailians who follow his aspect of Vengeance.  I was unable to locate any follower of this aspect, as Gramailians themselves are rare indeed.  Even Angelique, High Priestess of Gramail for over one hundred Deochs, laughed and said they were tales to scare small children, and that she had never seen  evidence such a sect existing in reality.
+No current orders exist in the Gramail fellowship that I was able to determine, save rumors of a sect of Gramailians who follow his aspect of Vengeance.  I was unable to locate any follower of this aspect, as Gramailians themselves are rare indeed.  Even Angelique, High Priestess of Gramail for over one hundred Deochs, laughed and said they were tales to scare small children, and that she had never seen evidence of such a sect existing in reality.
 
 Of Champions, one exists in Aisling memory, that of Miramele DuBalde, known as the Fist of Gramail.  The first Acolyte, the founder of the Rucesion government, Miramele was a paragon of Gramail in her time. 
 
@@ -82,7 +82,7 @@ Channel Divinity: Choose between Life and Protection.  For second level, choose 
 `((End OOC)) `
 
 #### History  
-Glioca is the only daughter of Danaan, and mother of Cail [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md).  It is said that she created the Fae, by one day walking by a dying flower in her garden.  With a kiss, her love of all things living caused the flower to bloom and the first Fae emerged from the unfolded petals.  Matron of the Eldar [_(Nenya's "A Short History of the Eldar")_](../../../loures/History/Nenya-A-Short-History-Of-The_Eldar.md), it is said that the heavy spring rains in Mileth come from her tears as she weeps for her slain children.
+Glioca is the only daughter of Danaan, and mother of Cail [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md).  It is said that she created the Fae as she walking by a dying flower in her garden one day.  With a kiss, her love of all things living caused the flower to bloom and the first Fae emerged from the unfolded petals.  Matron of the Eldar [_(Nenya's "A Short History of the Eldar")_](../../../loures/History/Nenya-A-Short-History-Of-The_Eldar.md), it is said that the heavy spring rains in Mileth come from her tears as she weeps for her slain children.
 
 #### Orders & Champions
 The Gliocan faith has always had a large following, due to her shrine being located in Mileth.  The numerous sects and ideologies within the temple are more than can be committed to paper, yet none have achieved much prominence due to the chaotic nature of the Goddess.
@@ -90,7 +90,7 @@ The Gliocan faith has always had a large following, due to her shrine being loca
 If any could be called a champion of Glioca, the priest Deksar surely fits that role.  Renowned for the literal volumes he could speak on the goddess, I am told that his masses would last for several days at a time.  As the first arena host, he even took his compassion to the field of Aisling glory, tending to the fallen and bruised after each match. 
 
 #### Relationships
-Glioca allies with Deoch and Cail, holds enmity with Gramail and Ceannlaidir, and is opposed by Fiosachd†.  A popular goddess, even the dark and foreboding Sgrios holds no particular ill will towards her.  If any could unity the octagram against a threat, it would be the daughter of the one who first united them.
+Glioca allies with Deoch and Cail, holds enmity with Gramail and Ceannlaidir, and is opposed by Fiosachd†.  A popular goddess, even the dark and foreboding Sgrios holds no particular ill will towards her.  If any could unite the Octagram against a threat, it would be the daughter of the one who first united them.
 
 ### __Luathas__
 Influence: Gnosis, Magic, Craftsmanship, Divination, History†  
@@ -106,10 +106,10 @@ Channel Divinity: Choose between Knowledge and Arcana.  For second level, choose
 `((End OOC))`
 
 #### History  
-Luathas was an Aosdic scholar known for his wisdom to such a degree that he was raised to divinity by Danaan [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md).  His detailed histories, advanced studies of magic, and deft philosophical musings are the fodder for legend, as only mere scraps were recovered from the sinking of Hy-brasyl.  It is rumored that the Loures library was founded by his inspiration as his first act of divinity.
+Luathas was an Aosdic scholar known for his wisdom to such a degree that he was raised to divinity by Danaan [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md).  His detailed histories, advanced studies of magic, and deft philosophical musings are the fodder for legend, as only mere scraps were recovered from the sinking of Hy-brasyl.  It is rumored that the Loures library was founded by his inspiration as an act of his divinity.
 
 #### Orders & Champions
-Of all religious orders, perhaps none is more known, and more peculiar, than the Academie Arcanus [_(Veneficus's "History of the Academie Arcanus")_](../../../loures/History/History-Of-The-Academie-Arcanus.md).  An order of wizards dedicated to the God Luathas, was created in times before Aislings, destroyed and shamed into exile, and then reborn as an institute of learning.  What truer dedication could there be?  The only strange part would be the complete lack of priests among their midst!
+Of all religious orders, perhaps none is more known, and more peculiar, than the Academie Arcanus [_(Veneficus's "History of the Academie Arcanus")_](../../../loures/History/History-Of-The-Academie-Arcanus.md).  An order of wizards dedicated to the God Luathas, the Acedemie was created in times before Aislings, destroyed and shamed into exile, and then reborn as an institute of learning.  What truer dedication could there be?  The only strange part would be the complete lack of priests among their midst!
 
 With that, Veneficus bears mention as the scion of Luathas.  No other Aisling has done more to further his name, or have created such a lasting impression on the minds of Aislings as to the importance of the God Luathas. 
 
@@ -121,14 +121,14 @@ Influence: Luck, Fortune, Prosperity, Desire, Shadows†
 Symbol: A single silver coin  
 Temple Location: Abel  
 Worshippers: Rogues, Merchants, Adventurers   
-```
-(( Begin OOC))
-Domains: Trickery [(SRD)](http://dnd5e.wikidot.com/cleric:trickery), Twilight [(UA)](http://dnd5e.wikidot.com/cleric:twilight)
-Alignment: Lawful Neutral
-Power Level: Greater God
-Channel Divinity: Luck - By expending one charge, you or an ally may reroll a saving throw with advantage, or automatically stabilize if downed.
-((End OOC)) 
-```
+
+`(( Begin OOC))`  
+Domains: Trickery [(SRD)](http://dnd5e.wikidot.com/cleric:trickery), Twilight [(UA)](http://dnd5e.wikidot.com/cleric:twilight)  
+Alignment: Lawful Neutral  
+Power Level: Greater God  
+Channel Divinity: Luck - By expending one charge, you or an ally may reroll a saving throw with advantage, or automatically stabilize if downed.  
+`((End OOC)) `  
+
 #### History  
 While he and his fellow mortals share ascension to the divine, Fiosachd was no Aosdic scholar  [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md)!  Tales of his daring adventures, love of coin and gems, and silvered tongue survived even the drowning of Hy-brasyl. Indeed, he is called the first Rogue, patron of quick deals and coin.  Legend has it that as an observer to the ascension of both Gramail and Luathas, Fiosachd convinced Danaan to raise him to deity as well.  Surely, a bargain of some kind had to have been struck to accomplish such a feat.
 
@@ -157,9 +157,9 @@ Channel Divinity: Choose between War and Blood.  For 2nd level, choose between W
 Another of the original Gods, Ceannlaidir has long been worshipped by those who do battle  [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md)!  An truly complex being, Ceannlaidir is often painted as a brute, but this is also the same being that seduced Glioca and fathered Cail.  As these lands have known nothing but turmoil since Hy-brasyl sank beneath the waves, Ceannlaidir is always nearby, basking in the delight of battle.  It is said that he even materialized for the final confrontation between the demi-gods Ealagad and Tenes, to observe first hand the most glorious of all battles.
 
 #### Orders & Champions
-Perhaps the most prolific of deities who inspire orders, many have existed throughout the ages.  Warrioth Clan and Aegis Knights were both Aisling organizations dedicated to the glory of Ceannlaidir.  Arguably, it could also be said that Tiarnach, that bed of heresy and later apostasy, was perhaps the most notable of clans dedicated to Ceannlaidir.  This designation, I am sure, would have been hotly contested by the heretical members of the clan, but in the end no other order has done more to praise the God of Battle.
+Caennlaidir is perhaps the most prolific of deities who inspire orders, as many have existed throughout the ages.  Both the Warrioth Clan and Aegis Knights were Aisling organizations dedicated to the glory of Ceannlaidir.  Arguably, it could also be said that Tiarnach, that bed of heresy and later apostasy, was perhaps the most notable of clans dedicated to Ceannlaidir.  This designation, I am sure, would have been hotly contested by the heretical members of the clan, but in the end no other order has done more to praise the God of Battle.
 
-If any Aisling embodies the idea of the Champion of Ceannlaidir, none other than "The Warrior" himself, Vamistle, could be better qualified.  While his religious affiliation may be unknown, Vamistle's dedication to his craft is a true homage to the patron of Warriors. 
+If any Aisling embodies the idea of the Champion of Ceannlaidir, none other than "The Warrior" himself, Vamistle, could be better qualified.  While he is an acolyte of Luathas, Vamistle's dedication to his craft is a true homage to the patron of Warriors. 
 
 #### Relationships
 Ceannlaidir allies with Sgrios and Fiosachd, holds enmity with Luathas and Glioca, and is opposed by Cail†.  Whenever swords clash or glory is to be found, Ceannlaidir and his worshippers will not be far behind.  With his name evoked by soldiers before battle, or hunters before a hunt, Ceannlaidir remains one of the more popular gods in Temuair.
@@ -182,12 +182,12 @@ Ascension, it seems, is not only for mortals [_(NitroTFD's "Gods de Temuair")_](
 
 Even in his endless hunger, Sgrios knew the alliance with Chadul would be his undoing.  With the destruction of all life, Sgrios would devour all that remained and eventually starve.  With this in mind, out of necessity for survival, Sgrios struck a bargain with Deoch.  Instead of wholly consuming each spark that came to him, he would instead nibble ever so slightly before sending the spark back to grow in power.
 
-It is with this eternal bargain that we as Aislings will feel the excruciating pain of Sgrios delicately tasting our essence before he sends us away to grow stronger.  Having secured a means to temper his endless hunger, he now maintains vigil alongside the other gods of the octagram, his eternal banquet secured as long as Chadul remains imprisoned.
+It is with this eternal bargain that we as Aislings will feel the excruciating pain of Sgrios delicately tasting our essence before he sends us away to grow stronger.  Having secured a means to temper his endless hunger, he now maintains vigil alongside the other Gods of the Octagram, his eternal banquet secured as long as Chadul remains imprisoned.
 
 #### Orders & Champions
-Sgrios is perhaps the most misunderstood and maligned gods of the Octagram.  Any orders devoted to his name are persecuted and stamped out of existence, most often by the zealotry of Gramailians and Gliocans.  While historical records exists of secret sects of the followers of Sgrios, no trace of these orders remain today.
+Sgrios is perhaps the most misunderstood and maligned Gods of the Octagram.  Any orders devoted to his name are persecuted and stamped out of existence, most often by the zealotry of Gramailians and Gliocans.  While historical records exists of secret sects of the followers of Sgrios, no trace of these orders remain today.
 
-One would be remiss in discussing Sgrios without the mention of two Aislings - Ginger, and Enclave.  Ginger, the wretched, claimed scores of souls in Sgrios's name, seeking to send every Aisling to Sgrios to feed on in short order.  It was only through the efforts of Enclave, the Dark Father, that control of the Sgrian religion was wrestled from Ginger the iconoclast and returned to the true worship of Sgrios as the regulator of the octagram.  To this day, the Enclavian Dogma, and its many branches, still hold sway in the temple of Sgrios.  As for Ginger, her teachings and dissident views have long been removed from the public eye.  I fear for the lands if these views should ever return to prominence.
+One would be remiss in discussing Sgrios without the mention of two Aislings - Ginger, and Enclave.  Ginger, the wretched, claimed scores of souls in Sgrios's name, seeking to send every Aisling to Sgrios to feed on in short order.  It was only through the efforts of Enclave, the Dark Father, that control of the Sgrian religion was wrestled from Ginger the iconoclast and returned to the true worship of Sgrios as the regulator of the Octagram.  To this day, the Enclavian Dogma, and its many branches, still hold sway in the temple of Sgrios.  As for Ginger, her teachings and dissident views have long been removed from the public eye.  I fear for the lands if these views should ever return to prominence.
 
 #### Relationships
 Sgrios allies with Ceannlaidir and Deoch, holds enmity with Gramail and Cail, and is opposed by Luathas†.  The worship of decay and entropy had been mostly driven underground by zealotry, but curious alliances have existed since the time of the Dark Father. What truer testament to the rightfulness of his leadership, which has since allowed the faith to grow and flourish, exists outside of this?
@@ -206,12 +206,12 @@ Channel Divinity: Choose between Nature and Martyrdom.  For 2nd level, choose be
 `((End OOC))` 
 
 #### History  
-Ah, Cail.  Born of violence, cursed by his father, an interesting discussion is to be had around this deity of the wild  [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md).  In quoting a famous mundane scholar "Life finds a way", one indeed finds a most whole summary of the deity Cail.  Forbidden by his father from bearing arms, Cail subverted this curse to inspire the founding of the Monk path we see today.  No weapon is required for these warriors to shatter stone or break bone, but also lean on the influence of his mother, with their gentle touch.  Indeed, the inevitability of the slow moving mountain, the patience of the winding stream, all belong to Cail.  Long known for his peaceful nature and stewardship of the wilds, Cail strives to see this balance maintained across the lands.  Peace and balance do not come without cost, however; just as a raging forest fire cleanses the land for new growth, so too does Cail correct imbalances in the natural order.
+Ah, Cail.  Born of violence and cursed by his father, an interesting discussion is to be had around this deity of the wild  [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md).  In quoting a famous mundane scholar, "Life finds a way", one indeed finds a most whole summary of the deity Cail.  Forbidden by his father from bearing arms, Cail subverted this curse to inspire the founding of the Monk path we see today.  No weapon is required for these warriors to shatter stone or break bone, but they also lean on the influence of his mother, with their gentle touch known to heal minor wounds.  Indeed, the inevitability of the slow moving mountain, the patience of the winding stream, all belong to Cail.  Long known for his peaceful nature and stewardship of the wilds, Cail strives to see this balance maintained across the lands.  Peace and balance do not come without cost, however; just as a raging forest fire cleanses the land for new growth, so too does Cail correct imbalances in the natural order.
 
 #### Orders & Champions
 As the patron of both Monks and nature, Cail boasts perhaps the only mundane order to any deity - the Druids of Temuair.  Aislings who follow Cail, however, tend to loosely affiliate, preferring the solitude and wisdom of the forests to the bustle of chaotic guild halls.  In all my searching, no record of any Aisling order devoted to Cail could be found.
 
-One would be remiss, and likely castigated, should the name Pashura not be mentioned with discussion of Cail.  From the legends of earlier times, it would seem Pashura acted as a protective vine, growing steadily and shielding the temple of Cail from heresy and apostacy.  However, without balance, even a vine can move from a shield to a stranglehold, causing the host to wither and die.  Such seems to be the case for the temple of Cail, as the footsteps of barefooted clergy seldom echo in those halls in these times.
+One would be remiss, and likely castigated, should the name Pashura not be mentioned with discussion of Cail.  From the legends of earlier times, it would seem Pashura acted as a protective vine, growing steadily and shielding the temple of Cail from heresy and apostacy.  However, without balance, even a vine can grow from a shield to a stranglehold, causing the host to wither and die.  Such seems to be the case for the temple of Cail, as the footsteps of barefooted clergy seldom echo in those halls in these times.
 
 #### Relationships
 Cail allies with Glioca and Luathas, holds enmity with Fiosachd and Sgrios, and is opposed by Ceannlaidir†.  In these times, the absence of the apostles of balance is felt most stingingly, as equilibrium could not be found in these lands even if one were to overturn every stone.  If the past is any predictor, we may be in for a great storm of fury as Cail rights things back to their natural order.
@@ -230,27 +230,27 @@ Channel Divinity: Select from either Chaos or Flames
 `((End OOC))`
 
 #### History  
-In another curious case of ascending to the divine, Deoch was not always an ally to what are now known as the gods of the Octagram  [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md).  Originally what passes for a deity among the dubhaimid, Deoch the Corruptor whispered seductions into the ears of men, causing them to forsake the righteous path and descend into unholy debauchery.  All of this changed upon his first encounter with Danaan.  So brightly did the light of Danaan touch Deoch, that he shed his old ways and took up the mantle of inspiration.  It is through this transformation that Deoch ascended into our savior, and took his rightful place in the octagram.  No other being, mortal or immortal, changed the balance between Darkness and Light than Deoch.  Likewise, it is his grand design which keeps Chadul imprisoned.
+In another curious case of ascending to the divine, Deoch was not always an ally to what are now known as the Gods of the Octagram  [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md).  Originally what passes for a deity among the dubhaimid, Deoch the Corruptor whispered seductions into the ears of men, causing them to forsake the righteous path and descend into unholy debauchery.  All of this changed upon his first encounter with Danaan.  So brightly did the light of Danaan touch Deoch, that he shed his old ways and took up the mantle of inspiration.  It is through this transformation that Deoch ascended into our savior, and took his rightful place in the Octagram.  No other being, mortal or immortal, changed the balance between Darkness and Light more than Deoch.  Likewise, it is his grand design which keeps Chadul imprisoned.
 
 Truly, without Deoch, we would all be lost to the darkness.
 
 #### Orders & Champions
 Given the chaotic nature of Deoch, finding something resembling an organized group established in his name was somewhat difficult.  However, my tireless research stumbled upon some old manuscripts, detailing the founding of the Garamonde Theater Group.  While members of this original group are rarely seen, the Suomi Troupe has taken up the mantle of keeping the traditions and ways of the playwrights alive to this day.
 
-No other Aisling exemplified the brilliance of our lord of fire, than Paladine Meatha, first High Priest to Deoch.  Tales tell that simply being in his presence inspired some of the greatest Aisling minds to pen the greatest works of Temuair.  As a young Deoch priest, tales of his spark filled me with the greatest of imaginations.  Without that early inspiration, who knows if this work would have been penned!
+No other Aisling exemplified the brilliance of our lord of fire, than Paladine Meatha, first High Priest to Deoch.  Tales tell that simply being in his presence inspired some of the mightiest Aisling minds to pen the greatest works of Temuair.  As a young Deoch priest, tales of his spark filled me with the greatest of imaginations.  Without that early inspiration, who knows if this work would have ever been created!
 
 #### Relationships
 Deoch allies with Glioca and Sgrios, holds enmity with Luathas and Fiosachd, and is opposed by Gramail†.  Much like Gramail, the worship of Deoch has faded into obscurity, an telling sign of the times.  As the spark fades, so too does the seal holding Chadul at bay.
 
 ## Intermediate Deities
-With the review of Gods well known and established in Temuair, now we move on to the exciting piece of this work.  From this section forward, I will detail all I have gathered on the lost gods of Temuair.  Whether rumor or fact, evidence of these deities exists in fragments, scattered throughout the lands.
+With the review of Gods well known and established in Temuair, now we move on to another exciting piece of this work.  From this section forward, I will detail all I have gathered on the lost gods of Temuair.  Whether rumor or fact, evidence of these deities exists in fragments, scattered throughout the lands.
 
-With such an introduction, we now move on to what I have coined the "Intermediate Deities".  These beings, powerful in their own right, could have stepped into the pact of the octagram, but for whatever reasons did not.  Ancient as the earthsea itself, their worship seems relegated only to insular remote communities.
+With such an introduction, we now move on to what I have coined the "Intermediate Deities".  These beings, powerful in their own right, could have stepped into the pact of the Octagram, but for whatever reasons did not.  Ancient as the earthsea itself, their worship seems relegated only to insular remote communities, if any worshippers can be found at all.
 
 ### __Belenus__
 Influence: The Sun, Dawn   
 Symbol: An emblazoned golden eye   
-Temple Location: Near Eingren Manor, in the Filth Forest 
+Temple Location: Near Eingren Manor, in the Filth Forest   
 Worshippers: Currently none   
 
 `((Begin OOC))`  
@@ -263,7 +263,7 @@ Channel Divinity: Standard
 #### History  
 Noble Belenus, lord of the sun.  His worship was once widespread, shown by the evidence of his markings around Temuair.  A particular foe of the undead, Belenus's main shrine was located near Eingren Manor in what is now the Filth Forest.  While the tale of how the Filth Forest came to be is one for another day, it is of particular importance to the saga of Belenus.
 
-With the rise of the Necromancers, the stirrings of the undead threatened to overwhelm the farmlands outside of Tagor.  Indeed, near the end of the temple, Eingren Manor and the Shrine of Belenus were entirely cut off from the outside world by hordes of the undead.  Braving my way through the forests after discovering a reference to the location in a book I found in a shop in Piet, I set to discover what I could of this lost shrine.
+With the rise of the Necromancers, the stirrings of the undead threatened to overwhelm the farmlands outside of Tagor.  Indeed, as this most brilliant of suns began to set, Eingren Manor and the Shrine of Belenus were entirely cut off from the outside world by hordes of the undead.  Braving my way through the forests after discovering a reference to the location in a book I found in a shop in Piet, I set to discover what I could of this lost shrine.
 
 After many days of searching, I found a small journal, wrapped in some sort of treated hide that I was unable to identify, hidden beneath a pile of rubble.  While mostly water damaged and decayed, some of the text remained legible:
 ```
@@ -281,14 +281,14 @@ in the night, and would easily drive out these monstrosties!
 
 For now, we rest.  At dawn, we shall set out for Tagor, as Eingren village is lost.
 Bitterly, the dead no longer line the streets, as they too have risen.  Even the scant
-few I managed to give rites to have joined the horde.  I fear Belenus has forsaken us,
+few I managed to give rites to have joined the horde.  I know not what hope we have,
 but we must press for Tagor.  There is nothing left to save.
 
 Yours,
 Sabrinus, Acolyte of Belenus
 ```
 
-This corroborates with history discovered by Vendes [_(Vendes's "The Night Of Tagor")_](../../../loures/History/Vendes-The-Night-Of-Tagor.md), and was an exciting find!  I searched for days after locating this treasure, but I could find no trace of the shrine.  On occasion I make the journey back there, wandering through the remains of the village.  Questioning the insane priest who has inhabited the only building still standing has turned up no leads.  On my first visit, I had thought perhaps this building had been built over the shrine, but if this were the case, no traces of it remain.
+This corroborates with history discovered by Vendes [_(Vendes's "The Night Of Tagor")_](../../../loures/History/Vendes-The-Night-Of-Tagor.md), and was an exciting, and tragic, find.  I searched for days after locating this treasure, but I could find no trace of the shrine.  On occasion I make the journey back there, wandering through the remains of the village.  Questioning the insane priest who has inhabited the only building still standing has turned up no leads.  On my first visit, I had thought perhaps this building had been built over the shrine, but if this were the case, no traces of it remain.
 
 #### Speculations
 The findings of the journal were troublesome.  What could possess more power than a god?  As Vendes contemplated, the idea that the Pact of Anaman could conceal an entire city, rivaling the size of Loures or Mileth, from all eyes for so long is indeed worrisome.  Perhaps it is this shrouding which led to the diminishing of Belenus?  From various sources I've been able to piece together, shrines to Belenus outside of the boundaries of Tagor tended to be small, generally nothing more than short obelisks inscribed with his symbol.
@@ -318,17 +318,17 @@ Channel Divinity: Standard
 #### History  
 Re was perhaps the most interesting of the intermediate gods to track down.  Ruler of the cold-hearted orb that burns the night, mistress of secrets, queen of the night, many are her names in plentiful sources.  Indeed, while references to Belenus appear to have been systematically eradicated from existence, I could barely turn a page without running across a reference to Re.  Her temple, magnificent according to the works referencing it, was located in the heart of the mighty City-State of Niara, which as we know, was destroyed sometime around Danaan 1703 [_(NitroTFD's "Niaran History")_](../../../loures/History/NitroTFD-Niaran-History.md).  
 
-Never one to shrink from a challenge, I sat out on the long journey from Loures to the ruins of Niara.  After several days journey, I came to the cliffs of Faodhail Abhainn [_(Evenue's "Iodhnadh De A Luaithre")_](../../../loures/History/Evenue-Iodhnadh-De-A-Luaithre.md).  Pausing briefly, I curse my inability as an artist.  From far away, one can still see the spires of the great city, glinting at sundown.  All of this is an illusion though, for upon approaching, the ruins of the city are devastating to behold.
+Never one to shrink from a challenge, I sat out on the long journey from Loures to the ruins of Niara.  After several days journey, I came to the cliffs of Faodhail Abhainn [_(Evenue's "Iodhnadh De A Luaithre")_](../../../loures/History/Evenue-Iodhnadh-De-A-Luaithre.md).  Pausing briefly, I cursed my inability as an artist - the beauty of the vista is quite breathtaking.  From far away, one can still see the spires of the great city, glinting at sundown.  All of this is an illusion though, for upon approaching, the ruins of the city are devastating to behold.
 
 The very land seems cursed, soaked in the blood of dubhaimid over a millenia ago.  Even still, while abandoned, I could not help but feel I was being watched.  Locating the temple itself was easy enough, the structure in remarkably good condition compared to the ruins around it.  It took several attempts to open the door, as it appears to have been barred from the inside.
 
-What I discovered inside was breathtaking - nary a drop of dust or thing out of place inside the entire temple.  Candles still burned on the altar, and the air was chill and fresh.  I searched thoughout the temple, careful to not disturb anything lest I incur the wrath of the night queen.
-My search of the temple was fruitless.  Not only were there no written records, but there was no sign of life anywhere in the vicinity.  I can only conclude that someone from a nearby village must make the dangerous trek to maintain this shrine, as no other explanation exist.
+What I discovered inside was breathtaking - nary a drop of dust or thing out of place inside the entire temple.  Candles still burned on the altar, and the air was chill and fresh.  I searched thoughout the temple, careful to not disturb anything lest I incur the wrath of the Night Queen.
+My search of the temple was fruitless.  Not only were there no written records, but there was no sign of life anywhere in the vicinity.  I can only conclude that someone from a nearby village must make the dangerous trek to maintain this shrine, as no other explanation exists.
 
-As I left the temple, a chill ran down my spine, as I looked above the doorway.  Carved in the marble, jaggedly, was the phrase "I see all and I will return".  Discretion being the better part of valor, I quickly made my way back to Loures, making sure to seal the temple tightly behind me.
+I recall most vividly the chill ran down my spine as I prepared to leave the temple.  Glancing above me, at the rough hewn marble above the doorway, there was something I missed upon entering.  Jaggedly slashed into the mantle was the phrase "_My glory preserved - One day, I will return for you_".  It was at this moment that I decided discretion was indeed the better part of valor, and in a most dignified manner, quickly made my way back to Loures. Extra precautions were taken to make sure the temple was sealed tightly behind me - there may also have been a small piling of rubble in front of the door.
 
 #### Speculations
-Even though we have detailed accounts of Re the goddess, from the many books, scrolls and tomes that escaped the destruction of Niara, all mentions of her, her faith and her temple vanish from written record around Danaan 1650.  Could the Night Queen have forseen what was to come and prepared?  From the message carved into the mantle of the temple door, one can only surmise that indeed she did.
+Even though we have detailed accounts of Re the goddess, from the many books, scrolls and tomes that escaped the destruction of Niara, all mentions of her, her faith and her temple vanish from written record after approximately Danaan 1650.  Could the Night Queen have forseen what was to come and prepared?  From the message carved into the mantle of the temple door, one can only surmise that indeed she did.
 
 #### Relationships
 Re was allied with Mannan, held enmity with Taranis, and was opposed by Belenus.  Again, Re was a very popular subject in the Loures library, but only as a mention.  Nothing of concrete was discovered on her religion, her followers, or what happened to them.
@@ -354,13 +354,13 @@ Mannan, lord of the oceans.  A name still invoked this day by sailors and fisher
 
 The Sea Priests of Mannan were once a welcome addition to any ship leaving the port of Oren.  Their communion with the lord of the seas made for swift journeys across a calm ocean, with their endless prayers and chanting calming even the most turbulent of storms.  Indeed, unlike the other intermediate gods, Mannan's sect was uninvolved in any of the mainland wars.
 
-That is, according to Old Baldo, until the blight began.  As he recounts it, his grandfather's grandfather's grandfather was a young boy when the blight came.  At the time, Oren was a lush and green land, similar to the verdant valleys of Suomi.  Fish were plentiful in that time as well, as the sea was willing to give up much of its bounty.  All of that changed however, the day an emissary from Loures came.  He demanded tribute from the Lord of Oren, and was rebuffed.  On his way back to the harbor, the emissary chuckled as he indicated dark things would come for refusing to pay tribute to Loures, boarded his ship, and set sail.
+That is, according to Old Baldo, until the blight began.  As he recounts it, his grandfather's grandfather's grandfather (_I'll admit here I lost track of how many times the old man said grandfather_) was a young boy when the blight came.  At the time, Oren was a lush and green land, similar to the verdant valleys of Suomi.  Fish were plentiful in that time as well, as the sea was willing to give up much of its bounty.  All of that changed however, the day an emissary from Loures came.  He demanded tribute from the Lord of Oren, and was rebuffed.  On his way back to the harbor, the emissary chuckled as he indicated dark things would come for refusing to pay tribute to Loures, boarded his ship, and set sail.
 
 Within a week, the seas and gone from a sapphire blue to a pale green.  Fish pulled from the ocean were bitter and covered in oozing wounds.  Likewise, the land itself began to shudder and heave, as the verdant green hills gave way to the near barren ground we see today.  Indeed, much of the rubble of the earthquakes that rocked the island are still seen today - Oren was once a walled, seaside kingdom.  Now its walls lay in ruin, and its seas hostile to all who dare them.
 
-The first building to fall was the temple of Mannan.  Old Baldo recounts that nearly every one of them had gathered for mass, when the great quaking rocked the island.  It was almost as if the earth opened up to swallow the temple whole - no bodies were ever recovered.
+The first building to fall was the temple of Mannan.  Old Baldo recounts that nearly every one of the sea priests had gathered for mass, when the great quaking rocked the island.  It was almost as if the earth opened up to swallow the temple whole - no bodies were ever recovered.
 
-With the temple gone, and the clergy missing, the worship of Mannan fell by the wayside in favor of the gods of the octagram.  Even today, his name is muttered more as an oath than that of an invocation for aid.
+With the temple gone, and the clergy missing, the worship of Mannan fell by the wayside in favor of the Gods of the Octagram.  Even today, his name is muttered more as an oath than that of an invocation for aid.
 
 #### Speculations
 Again, the work of the Pact.  Could they really have caused a temple and all its priests to be swallowed up by the earth?  Even so, what dark magicks could cause a whole realm of people to turn their back on a once trusted deity?  What of Mannan himself?  Old Baldo's tale left me with more questions than answers.  I attempted to access the library in Oren, but I have been told it is closed for repairs, which is troubling, as I have received this same answer for the last ten Deochs.
@@ -388,9 +388,9 @@ Channel Divinity: Standard
 `((End OOC))`
 
 #### History  
-While the other three temples had some interesting challenges in learning more about them, the temple of Taranis was both the easiest and most difficult:  I know exactly where it is.  However, between myself and the temple of Taranis is a sheer mountainside where the entrance to the dwarven kingdom Khoreduhr once stood [_(Angelique's "Àraidhe")_](../../../loures/History/Angelique-Àraidhe.md).  Diagrams of the Khoreduhr were provided in great detail to the Library of Loures, including several maps dated prior to the fall of the Kingdom in the fifth Aeon.
+While the other three temples had some interesting challenges in learning more about them, the temple of Taranis was both the easiest and most difficult:  I know exactly where it is.  However, between myself and the temple of Taranis is a sheer mountainside where the entrance to the dwarven kingdom Khoreduhr once stood [_(Angelique's "Àraidhe")_](../../../loures/History/Angelique-Àraidhe.md).  Diagrams of the Khoreduhr were provided in great detail to the Library of Loures, including several maps dated just prior to the fall of the Kingdom in the fifth Aeon.
 
-What is not available, however unfortunately, is a method to actually enter Khoreduhr.  After many fruitless days searching the location of the former entrance, I was forced to give up after being attacked by a band of wraiths just beyond midnight - my mistake for choosing to venture there so close to the anniversary of the last battle and inevitable demise of the dwarven stronghold.
+What is unfortunately not available is a method to actually enter Khoreduhr.  After many fruitless days searching the location of the former entrance, I was forced to give up after being attacked by a band of wraiths just beyond midnight - my mistake for choosing to venture there so close to the anniversary of the last battle and inevitable demise of the dwarven stronghold.
 
 Taranis, however, is the most peculiar of the intermediate gods, if not indeed all the gods.  A dwarven deity, of the sky?  Worshipped by mundanes and Aislings?  I surmise that perhaps a settlement in close proximity to the Khoreduhr would have perhaps picked up the faith through trade with the kingdom, blossomed and grown, and eventually vanished alongside any villages.  When the dubhaimid attacked Khoreduhr, they cut a swath of destruction through the landscape - I saw no traces of settlements along the trail I followed to the entrance.
 
@@ -417,8 +417,12 @@ With the fall of Khoreduhr and the annhilation of the countryside leading to it,
 #### Relationships
 Taranis was allied with Belenus, held enmity with Re, and was opposed by Mannan.
 
+#### Blessing
+In legend, the blessing of an item by Taranis allowed its wielder to slightly overcome a creature's resistance to magic.
+
+
 ### __Relations between Intermediate Deities__
-Much like the deities of the octagram, the interactions between gods takes a rational shape:  
+Much like the deities of the Octagram, the interactions between intermediate gods takes a rational shape:  
 ![Interactions](images/sabrael_gods.png)
 
 Key:
@@ -428,10 +432,10 @@ Key:
 |Green|Allied|
 |Orange|Enmity|
 
-Through this simple chart, we can see the alliances, enmities and oppositions each of the intermediate gods represent in this microcosm of theology.  Unlike the gods of the octagram, however, this diagram serves no other purpose than educational - these gods are not standing on top of some form of medium evil!  At least, let us hope so, as they have seemingly vanished.
+Through this simple chart, we can see the alliances, enmities and oppositions each of the intermediate gods represent in this microcosm of theology.  Unlike the Gods of the Octagram, however, this diagram serves no other purpose than educational - these gods are not standing on top of some form of medium evil!  At least, let us hope so, as they have seemingly vanished.
 
 ## Lesser Deities
-One of the more fascinating finds I discovered on my journeys was tucked away in an old book I purchased from a merchant I met on the road during one of my many trips to Deochs Temple. Folded neatly and stuffed in the back of the book, there was a chart of several lesser deities that are bound in service to the Gods of the octagram.  In several detailed diagrams, the unknown author described both their relation and function!  Even more exciting was to discover that these deities seemingly matched up to the various sects described by Aphrodite’s [_Sects of Temuairan Faith_](../../../loures/Philosophy/Aphrodite-Sects-of-Temuairan-Faith.md):
+One of the more fascinating finds I discovered on my journeys was tucked away in an old book I purchased from a merchant I met on the road during one of my many trips to Deochs Temple. Folded neatly and stuffed in the back of the book, there was a chart of several lesser deities that are bound in service to the Gods of the Octagram.  In several detailed diagrams, the unknown author described both their relation and function!  Even more exciting was to discover that these deities seemingly matched up to the various sects described by Aphrodite’s [_Sects of Temuairan Faith_](../../../loures/Philosophy/Aphrodite-Sects-of-Temuairan-Faith.md):
 
 |Name|Influence|Symbol|Servitor To|Trinity|
 |-|-|-|-|-|
@@ -460,7 +464,7 @@ One of the more fascinating finds I discovered on my journeys was tucked away in
 |Arianrhod|Rebirth|Orange Circle|Deoch|Chaos|
 |Taliesen|Songs|Lute|Deoch|Chaos|
 
-These various lesser deities seem to be the primary way in which interactions with Aislings are conducted currently.  With much of their attention focused on maintaining the great seal, these gods serve as messengers of sorts.  Locating examples of their direct worship was not successful, which leads me to wonder - are these separate beings, or simple avatars taken on by the gods of the Octagram?  In truth, each seems to represent a different aspect of the god they serve.  However, whether separate beings or simply forms taken, there is definitive proof they exist.
+These various lesser deities seem to be the primary way in which interactions with Aislings are conducted currently.  With much of their attention focused on maintaining the great seal, these gods serve as messengers of sorts.  Locating examples of their direct worship was not successful, which leads me to wonder - are these separate beings, or simple avatars taken on by the Gods of the Octagram?  In truth, each seems to represent a different aspect of the god they serve.  However, whether separate beings or simply forms taken, there is definitive proof they exist.
 
 Various oaths and exclaimations from throughout the lands invoke these deities, such as the phrase "That one has been kissed by Aine", when describing a young person in love, or "By Oghma, what was I just going to write down?" - a phrase I have often used myself!  Small signs of each god can be seen throughout Temuair - each smith hangs the symbol of Goibhniu outside their door.  In taverns, Branwen's name is not far from the lips of drunkards and revelrers alike.  Any who have ventured into the Shinewood forest can tell you of the fae that abound there, even one that will speak to Aislings.  Is this Eriu?  She did not seem to respond to that name when I called out to her, but the fae, ever capricious, could have simply been toying with me.
 
