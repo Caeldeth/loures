@@ -233,16 +233,137 @@ Truly, without Deoch, we would all be lost to the darkness.
 #### Orders & Champions
 Given the chaotic nature of Deoch, finding something resembling an organized group established in his name was somewhat difficult.  However, my tireless research stumbled upon some old manuscripts, detailing the founding of the Garamonde Theater Group.  While members of this original group are rarely seen, the Suomi Troupe has taken up the mantle of keeping the traditions and ways of the playwrights alive to this day.
 
-No other Aisling exemplified the brilliance of our lord of fire, than Paladine Meatha, first High Priest to Deoch.  Tales tell that simply being in his presence inspired some of the greatest Aisling minds to pen the greatest works of Temuair.  As a young Deoch priest, tales of his spark filled me with the greatest of imaginations
+No other Aisling exemplified the brilliance of our lord of fire, than Paladine Meatha, first High Priest to Deoch.  Tales tell that simply being in his presence inspired some of the greatest Aisling minds to pen the greatest works of Temuair.  As a young Deoch priest, tales of his spark filled me with the greatest of imaginations.  Without that early inspiration, who knows if this work would have been penned!
 
 #### Relationships
-Fiosachd allies with Gramail and Ceannlaidir, holds enmity with Deoch and Cail, and is opposed by Glioca†.  Ever popular with the down on their luck, Fiosachd's limitless wealth seemingly comes for free.  Little do the desperate know that the God of Fortune always gets his due.
+Deoch allies with Glioca and Sgrios, holds enmity with Luathas and Fiosachd, and is opposed by Gramail†.  Much like Gramail, the worship of Deoch has faded into obscurity, an telling sign of the times.  As the spark fades, so too does the seal holding Chadul at bay.
 
 ## Intermediate Deities
+With the review of Gods well known and established in Temuair, now we move on to the exciting piece of this work.  From this section forward, I will detail all I have gathered on the lost gods of Temuair.  Whether rumor or fact, evidence of these deities exists in fragments, scattered throughout the lands.
+
+With such an introduction, we now move on to what I have coined the "Intermediate Deities".  These beings, powerful in their own right, could have stepped into the pact of the octagram, but for whatever reasons did not.  Ancient as the earthsea itself, their worship seems relegated only to insular remote communities.
+
 ### __Belenus – Sun, Dawn__
+Influence: The Sun, Dawn   
+Symbol: An emblazoned golden eye   
+Temple Location: Near Eingren Manor, in the Filth Forest 
+Worshippers: Currently none   
+
+`((Begin OOC))`  
+Domains: Light [(SRD)](http://dnd5e.wikidot.com/cleric:light))  
+Alignment: Lawful Good  
+Power Level: Intermediate  
+Channel Divinity: Standard  
+`((End OOC))`
+
+#### History  
+Noble Belenus, lord of the sun.  His worship was once widespread, shown by the evidence of his markings around Temuair.  A particular foe of the undead, Belenus's main shrine was located near Eingren Manor in what is now the Filth Forest.  While the tale of how the Filth Forest came to be is one for another day, it is of particular importance to the saga of Belenus.
+
+With the rise of the Necromancers, the stirrings of the undead threatened to overwhelm the farmlands outside of Tagor.  Indeed, near the end of the temple, Eingren Manor and the Shrine of Belenus were entirely cut off from the outside world by hordes of the undead.  Braving my way through the forests after discovering a reference to the location in a book I found in a shop in Piet, I set to discover what I could of this lost shrine.
+
+After many days of searching, I found a small journal, wrapped in some sort of treated hide that I was unable to identify, hidden beneath a pile of rubble.  While mostly water damaged and decayed, some of the text remained legible:
+```
+Danaan, 2964, Fall
+
+It has been nearly a month since Vasile left to try to get aid from Tagor.  I fear sweet
+Vasile is dead, Belenus take him.  I warned him not to go, as the undead swarm with a
+frenzy as of late.  Our food supplies dwindle further each day, as with the recent surge 
+of the undead it is no longer safe to forage in the forests.
+
+Luca, Cristian, Nicolae and myself are all that remain.  The foul creatures no longer
+appear to fear my rebukes, and Belenus himself grows distant.  What have we done for
+him to forsake us?  If only master Ishgar were here.  His faith was a shining beacon
+in the night, and would easily drive out these monstrosties!
+
+For now, we rest.  At dawn, we shall set out for Tagor, as Eingren village is lost.
+Bitterly, the dead no longer line the streets, as they too have risen.  Even the scant
+few I managed to give rites to have joined the horde.  I fear Belenus has forsaken us,
+but we must press for Tagor.  There is nothing left to save.
+
+Yours,
+Sabrinus, Acolyte of Belenus
+```
+
+This corroborates with history discovered by Vendes [_(Vendes's "The Night Of Tagor")_](../../../loures/History/Vendes-The-Night-Of-Tagor.md), and was an exciting find!  I searched for days after locating this treasure, but I could find no trace of the shrine.  On occasion I make the journey back there, wandering through the remains of the village.  Questioning the insane priest who has inhabited the only building still standing has turned up no leads.  On my first visit, I had thought perhaps this building had been built over the shrine, but if this were the case, no traces of it remain.
+
+#### Speculations
+The findings of the journal were troublesome.  What could possess more power than a god?  As Vendes contemplated, the idea that the Pact of Anaman could conceal an entire city, rivaling the size of Loures or Mileth, from all eyes for so long is indeed worrisome.  Perhaps it is this shrouding which led to the diminishing of Belenus?  From various sources I've been able to piece together, shrines to Belenus outside of the boundaries of Tagor tended to be small, generally nothing more than short obelisks inscribed with his symbol.
+
+Indeed, even in the great Library of Loures, I was only able to find a footnote here or there, referencing tomes that were no longer in the library's possession.  A cover-up, perhaps?  To think the Pact of Anaman could end the existence of a deity is truly troubling.
+
+#### Relationships
+Belenus was allied with Taranis, held enmity with Mannan, and was opposed by Re.  There are some scant mentions of Belenus in the texts located in the Deoch temple, so it appears there may have been a relationship there as well, but I was unable to determine anything specific.
+
+#### Blessing
+In legend, the blessing of an item by Belenus increased the potency of healing spells.
+
+
 ### __Re – Moon, Midnight__
+Influence:   
+Symbol:   
+Temple Location:   
+Worshippers:    
+
+`((Begin OOC))`  
+Domains: [(Homebrew)](https://www.dandwiki.com/wiki/Chaos_Domain_(5e_Subclass))  
+Alignment:   
+Power Level:   
+Channel Divinity:   
+`((End OOC))`
+
+#### History  
+
+#### Discovered Fragments
+
+#### Speculations
+
+#### Relationships
+
+
 ### __Mannan – Seas, Depths__
+Influence:   
+Symbol:   
+Temple Location:   
+Worshippers:    
+
+`((Begin OOC))`  
+Domains: [(Homebrew)](https://www.dandwiki.com/wiki/Chaos_Domain_(5e_Subclass))  
+Alignment:   
+Power Level:   
+Channel Divinity:   
+`((End OOC))`
+
+#### History  
+
+#### Discovered Fragments
+
+#### Speculations
+
+#### Relationships
+
+
 ### __Taranis – Skies, Storms__
+Influence:   
+Symbol:   
+Temple Location:   
+Worshippers:    
+
+`((Begin OOC))`  
+Domains: [(Homebrew)](https://www.dandwiki.com/wiki/Chaos_Domain_(5e_Subclass))  
+Alignment:   
+Power Level:   
+Channel Divinity:   
+`((End OOC))`
+
+#### History  
+
+#### Discovered Fragments
+
+#### Speculations
+
+#### Relationships
+
+
 ### __Relations between Intermediate Deities__
 
 ## Lesser Deities
