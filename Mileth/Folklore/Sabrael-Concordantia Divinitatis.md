@@ -9,7 +9,7 @@ In this work, several references will be made to Aphrodite’s [_Sects of Temuai
 The origins and details of many of these deities have been gathered from folklore and handed down tales, as little can be found in the written works of Aislings for many of these lesser known deities.  In addition, the nature of the divine will be examined through a discussion of the what and why of the Octagram, what the relation is between faith and power, and lastly, a cursory introduction to the path of ascension.
 
 ## Octagram Theory
-For a moment, indulge me in this flight of fantasy.  Picture if you will, the vastness of the night sky, but with the familiar grounds we walk a far distant memory.  We will call this great emptiness "space", where one can see the stars and moons and suns that make up familiar figures that greet us from the night sky ([_Solanalein's "Realto I Laiocht Fior Na Spiere_](../../../loures/Lore/Solanalein-Realto-I-Laiocht-Fior-Na-Speire.md)).  In this vast darkness, lit only by the twinkling of stars, see the Octagram as a flat plane.
+For a moment, indulge me in this flight of fantasy.  Picture if you will, the vastness of the night sky, but with the familiar grounds we walk a far distant memory.  We will call this great emptiness "space", where one can see the stars and moons and suns that make up familiar figures that greet us from the night sky ([_Solanalein's "Realto I Laiocht Fior Na Spiere"_](../../../loures/Lore/Solanalein-Realto-I-Laiocht-Fior-Na-Speire.md)).  In this vast darkness, lit only by the twinkling of stars, see the Octagram as a flat plane.
 
 It is there, on this plane, that Danaan made the great sacrifice to seal away Chadul for all eternity.  What is speculated though, is the nature of this seal.  How does it work?  Many would say that Danaan has perished, but as we look around us, we can see her influence.  Her light still shines.  It is here that Danaan is chained, on this great seal, her light shining brightly to keep the darkness at bay.  In this, in her wisdom and glory, Danaan enlisted the aid of what we now know as the Gods of the Octagram.  Ever at vigil, each for a different reason and purpose, the Gods of the Octagram stand in ritual, strengthening both Danaan and the ward which keeps the great darkness from arising.
 
@@ -41,7 +41,7 @@ In each of these scenarios, we see the transference of divinity into places sure
 With the discussion of the dynamics of faith, power, divinity and ascension behind us, now too shall we learn of each of the deities, both real and assumed, that shape these lands.  With hope, a more complete view of the cosmology of Temuair will help rekindle an interest in the divine.  In many instances, the worship of some deities exists only in the past, or in some cases, are assumed to exist and remain undiscovered.  
 
 `((Begin OOC))`  
-Information relevant to the 5th edition of Dungeons & Dragons SRD will be included as well!  As this content includes references to OGL content, please review the WOTC Fan Content Policy [here](https://company.wizards.com/fancontentpolicy).  Additionally, information about the OGL (Open Game License) can be referenced on each site that is linked in this document.  
+_Information relevant to the 5th edition of Dungeons & Dragons SRD will be included as well!  As this content includes references to OGL content, please review the WOTC Fan Content Policy [here](https://company.wizards.com/fancontentpolicy).  Additionally, information about the OGL (Open Game License) can be referenced on each site that is linked in this document._  
 `((End OOC))`
 
 ### __Gramail__ 
@@ -116,7 +116,7 @@ With that, Veneficus bears mention as the scion of Luathas.  No other Aisling ha
 #### Relationships
 Luathas allies with Gramail and Cail, holds enmity with Deoch and Ceannlaidir, and is opposed by Sgrios†.  Luathas's trinity has the misfortune of perhaps being the least worshipped in the lands, while also being the most needed.
 
-### __Fiosachd – Luck, Fortune__
+### __Fiosachd__
 Influence: Luck, Fortune, Prosperity, Desire, Shadows†  
 Symbol: A single silver coin  
 Temple Location: Abel  
@@ -402,7 +402,7 @@ Blessed is his hammer
 for it is the path to purification
 Blessed is the north wind
 for it brings the cool air in the summer
-Blessed is the south Wind
+Blessed is the south wind
 for it brings the warm air in the winter
 Blessed are the rains
 for they are his gifts to us
@@ -435,7 +435,7 @@ Key:
 Through this simple chart, we can see the alliances, enmities and oppositions each of the intermediate gods represent in this microcosm of theology.  Unlike the Gods of the Octagram, however, this diagram serves no other purpose than educational - these gods are not standing on top of some form of medium evil!  At least, let us hope so, as they have seemingly vanished.
 
 ## Lesser Deities
-One of the more fascinating finds I discovered on my journeys was tucked away in an old book I purchased from a merchant I met on the road during one of my many trips to Deochs Temple. Folded neatly and stuffed in the back of the book, there was a chart of several lesser deities that are bound in service to the Gods of the Octagram.  In several detailed diagrams, the unknown author described both their relation and function!  Even more exciting was to discover that these deities seemingly matched up to the various sects described by Aphrodite’s [_Sects of Temuairan Faith_](../../../loures/Philosophy/Aphrodite-Sects-of-Temuairan-Faith.md):
+One of the more fascinating finds I discovered on my journeys was tucked away in an old book I purchased from a merchant I met on the road during one of my many trips to Deochs Temple. Folded neatly and stuffed in the back of the book, there was a chart of several lesser deities that are bound in service to the Gods of the Octagram.  In several detailed diagrams, the unknown author described both their relation and function!  Even more exciting was to discover that these deities seemingly matched up to the various sects described by Aphrodite’s [_"Sects of Temuairan Faith"_](../../../loures/Philosophy/Aphrodite-Sects-of-Temuairan-Faith.md):
 
 |Name|Influence|Symbol|Servitor To|Trinity|
 |-|-|-|-|-|
@@ -525,9 +525,51 @@ I was unable to locate any evidence of worship for these Temuairan elemental spi
 The Morrigan are perhaps the most interesting of this unconnected deities, as they appear to exist outside of our world and yet seemingly know all that is to come.  Female priests sometimes dream of these beings at upon reaching the 80th insight, although I am told the dream is more of a nightmare.  In these dreams, the three appear, Maiden, Mother and Crone.  Spinner, Weaver and Cutter.  Ana, Mabd and Macha.  These three weave a majestic tapestry, each thread a single Aisling or Mundane life.  As they weave, they cross paths, cut and even remove the thread from the tapestry in entirety.  For what purpose they do this, or who they pay homage to, none know.  While interesting, little is known about them other than what has been pieced together from the fevered dreams of female priests, often scattered fragments of incoherent visions.  Perhaps it is best we not delve too deeply into their affairs, lest old Macha get her scissors at the ready.
 
 ## Deceased Gods
-### __Dagdha – Gramail replaced__
-### __Mathonwy – god of magic – Luathas replaced__
-### __Lugh - god of arts, travel, and commerce – Fiosachd replaced__
+On a sadder note, this section is devoted entirely to gods which have ceased existing, confirmed casualties of the war between the Light and Darkness.   Whether hubris, misfortune or sacrifice, each of these deities ceased to be at the hands of Chadul.  Interestingly, there seems to have been a plan behind these deaths, as each would have taken a place on the Octagram.  Only through the miracle of ascension was the Octagram able to be completed due to the deaths of these deities.
+
+### __The Dagdha__
+Ancient and terrible, the Dagdha was also known as the all-father, and was surmised to be the first god of the Earthsea, rising from the corpse of Grinneal.  As the ruler of the Earthsea gods, the Dagdha was the first to rise to the challenge of Chadul.  Answering his call to battle, the Daghda and Chadul waged war for over a decade, with the night sky filled with flashing lights, and meteors raining down upon the lands.  In the end, it was for naught, as Chadul severed the Daghda's head from his body, and consumed him.  The records I located chronicling this battle have no date, but the librarians assure me this happened before the rise of Danaan, around the 5th Grinneal.  Like his father before him, the Daghda perished at the hands of Chadul.  Little is known about the worship of the Dagdha, other than the fact that Danaan chose Gramail as his replacement.  It is surmised that the Dagdha's sphere of influence was similar to Gramail's, but the records of such ancient history are either lost or destroyed.
+
+### __Mathonwy__
+While Farrah will tell you, in her work [_"En Delfisto Ne Garren de Porhal"_](../../../loures/History/Farrah-En-Delfisto-Ne-Garren-De-Porhal.md), that the creation of the wastelands was the result of the death of an evil wizard, nothing could be further from the truth.  Yes, the wastelands was created by the death of a wizard, but he was far from evil, and no mere wizard.  Mathonwy was the god of magic, rumored to have released the elements on to the Earthsea as Aosdic scholars searched out their meaning.  He too fell at the hands of Chadul, but not as the Daghda, in his hubris.  No, Mathonwy had sought to trap Chadul, drawing upon the great magics at his command, to save the fledgling Earthsea from the ravages of darkness.  Sensing the great power in Garren do Porhal, Mathonwy taunted Chadul and lured him to his trap.
+
+Arrogantly grinning as the lord of Darkness entered into his trap, his smile cracked and faded away as Chadul brushed off the expertly crafted magical chains as if they were so much spider silk.  His fight with the Daghda had increased his power tremendously.  With a sneer, Chadul snapped his fingers, and reversed the flow of magic directly back into Mathonwy.  It was this that caused the great explosion which destroyed Garren de Porhal, turning it into what we know now as the wastelands.  With that explosion it seemed that all hope had been lost against Chadul, as yet another of the Earthsea gods fell to his power.  Danaan, in her wisdom, chose Luathas to take his place, and for a time, the threat only simmered instead of roared. No story, however, is more tragic than that of Lugh.
+
+### __Lugh__
+Lugh, the beautiful, was the final god to fall at the hands of Chadul.  Unlike hubris and misfortune before him however, Lugh's death was one of sacrifice.  Seeing the fate that had befallen the Daghda and Mathonwy, Lugh called out to Chadul, and asked what it would take for him to leave these lands in peace.  Chadul answered that his head would be the price.
+
+Ever trusting, Lugh the shining knelt before Chadul, believing himself to be the savior he had always been called.  All for not though, as his sacrifice was for naught, as Chadul too absorbed his power, and sat out upon his conquest.  With this third death, Danaan realized something must be done.  With the ascension of Fiosachd, she turned her sights on a way to complete the circle and trap the Dark Lord forever.
+
+### __Grinneal__
+Of all the gods I write about in this work, none are as mysterious as Grinneal.  Described as the first God, the all and the nothing [_(NitroTFD's "Niaran History")_](../../../loures/History/NitroTFD-Niaran-History.md), Grinneal existed for thousands of years before perishing at the hands of Chadul.  From his corpse rose the Daghda, allfather of the Earthsea gods, who also fell at the hands of Chadul.  Records of his worship exist as recently as Danaan 1785 [_(Chogal's "Seals of Darkness")_](../../../loures/History/Chogal-Seals-Of-Darkness.md), but no evidence of miracles, temples, or clergy exist beyond that.  If there is an one great mystery, it is that of Grinneal.
+
+## Demi-Gods
+These mortals, whether through actual power or the strength of their myth, have been deemed demi-gods.  If the theory of ascension is correct, they may one day birth new gods.  The effect of their appearance would be both glorious to behold and terrifying to contemplate, as this could very well upset the delicate balance of the Octagram.
+
+### __Ealagad__
+The steel swan, Empress of Loures. Perhaps one of the most written about individuals in the library, Ealagad is a living legend, though she has long since perished.  No work about deity would be complete without mention of her, but authors greater than I have written works on her.  Please review the following works for a complete and fascinating story of the Steel Swan:
+* [_Chloe's "Blood of the Forgotten Empire"_](../../../loures/History/Chloe-Blood-Of-The-Forgotten-Empire.md)
+* [_Xibalba's "Power Unleashed"_](../../../loures/Literature/Xibalba-Power-Unleashed.md)
+* [_Cronus's "Before the Shadows Dance"_](../../../loures/History/Cronus-Before-The-Shadows-Dance.md)
+* [_Cliona's "The History of Undine"_](../../../loures/History/Cliona-The-History-Of-Undine.md)
+* [_Lethalia's "Alternate History of Temuair"_](../../../loures/History/Lethalia-Alternate-History-Of-Temuair.md)
+  
+### __Tenes__
+The dark lord, General of Chadul.  If Ealagad is the most written about, Lord Tenes comes in at a close second.  The darkness to her light, Tenes to could not go without mention for this work.  Once again, greater authors than I have penned volumes on him, so I invite you to peruse the following:
+* [_Rookerin's "The League and Its Pact of Anaman"_](../../../loures/History/Rookerin-The-League-And-Its-Pact-Of-Anaman.md)
+* [_Ayshilin's "Dorcha Reannan A Chadul"_](../../../loures/History/Ayshilin-Dorcha-Reannan-A-Chadul.md)
+* [_Cronus's "Before the Shadows Dance"_](../../../loures/History/Cronus-Before-The-Shadows-Dance.md)
+* [_Seara's "The Betrayal"_](../../../loures/History/Seara-The-Betrayal.md)
+* [_NitroTFD's "The Journals of Tenes"_](../../../loures/History/Nitrotfd-The-Journals-Of-Tenes.md)
+
+### __Phailin__
+Interestingly enough, as seen with the Dubhaimid, other races appear to be eligible to participate in the faith exchange and transfer.  While Phailin and her clan pay homage to Arpina, the Grimlok aspect of Danaan, Phailin herself appears to be some sort of immortal.  As old as the stones that are mined from the Pravat Cave, Phailin leads her people as a warrior queen, rising against the tide of both Goblin and creature of Chaos alike.  One could speculate that she may be the Ealagad of the Grimlok, or perhaps something more.  Nevertheless, the Grimlok appear to funnel their faith into her much as we do with the many gods detailed in this work.  Perhaps one day, a new God will arrive in Temuair, and she will be unlike any before her.
+
+### __Tyr__
+Tyr, the timeless guardian of the Coliseum Arena.  Rumored to be yet another son of Ceannlaidir, he opened his Coliseum for Aislings to battle in for sport and amusement nearly 2 centuries ago.  Yet still, he remains vigorous, greeting visitors with a hearty hello before throwing them to the proverbial lions.  With as much activity as the arena sees, it is no wonder he maintains his energy - I suspect he, of all the demi-gods listed, will soon ascend to deity.  Soon, that is, being a relative term in the lifespan of Gods.  You and I will be long dead before then.  Probably.
+
+### __The Mundane Saints__ 
+Lastly, we come to what are known as the "Mundane Saints" [_(Solanalein's "Realto I Laiocht Fior Na Spiere")_](../../../loures/Lore/Solanalein-Realto-I-Laiocht-Fior-Na-Speire.md): Keefe, Neal, Donnan, Erin, and Logan.  These guides in the Temple of Choosing, have, for as far as I can surmise, always existed.  Indeed, Keefe is the only of the five to have any recorded history at all [_(Hollie's "The History of Keefe Tenes")_](../../../loures/History/Hollie-The-Journal-Of-Keefe-Tenes.md), and he is over a thousand years old.  Long have I pondered the rumbling heard beneath the stones of the Temple of Choosing, which saps the energy of all Aislings that wander its endless halls - where does this energy go?  Perhaps yet another deal was struck, this time by these five with some other power, to ascend to Godhood with the sapped power of the tens of thousands of Aislings they have guided to paths.  A benevolent lot to choose, as their kindness is legendary.  If these are to be the next gods of the Earthsea, we should consider ourselves so fortunate.
 
 ## Gods of Kadath
 ### __Oraithe Ridire – “Gilded King” – Hastor – The unspeakable__
@@ -538,8 +580,4 @@ The Morrigan are perhaps the most interesting of this unconnected deities, as th
 ### __Tochaltoir ar iochtar – “Burrower Beneath” - Shudde M’Ell – The burrower beneath__
 ### __Neamhghlan – “Unclean” - Aboth – Source of Uncleanness__
 
-## Demi-Gods
-### __Ealagad__
-### __Tenes__
-### __Phailin__
-### __Tyr__
+# Epilogue
