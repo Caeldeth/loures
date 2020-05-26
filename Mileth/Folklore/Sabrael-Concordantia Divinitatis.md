@@ -38,7 +38,11 @@ More troubling, however, are those of the Anaman Pact.  Begun by Lord Tenes and 
 In each of these scenarios, we see the transference of divinity into places surely unintended by Deoch in his grand design.  These events, while few and far between, are likely to be the source of the occasional breakthrough for the minions of Chadul to enter Temuair once more.  It is with great fortune, however, that these instances seem few and far between.  I worry for us all should they become more commonplace.
 
 ## Gods of the Octagram
-With the discussion of the dynamics of faith, power, divinity and ascension behind us, now too shall we learn of each of the deities, both real and assumed, that shape these lands.  With hope, a more complete view of the cosmology of Temuair will help rekindle an interest in the divine.  In many instances, the worship of some deities exists only in the past, or in some cases, are assumed to exist and remain undiscovered. `((Information relevant to the 5th edition of Dungeons & Dragons SRD will be included as well!))`
+With the discussion of the dynamics of faith, power, divinity and ascension behind us, now too shall we learn of each of the deities, both real and assumed, that shape these lands.  With hope, a more complete view of the cosmology of Temuair will help rekindle an interest in the divine.  In many instances, the worship of some deities exists only in the past, or in some cases, are assumed to exist and remain undiscovered.  
+
+`((Begin OOC))`  
+Information relevant to the 5th edition of Dungeons & Dragons SRD will be included as well!  As this content includes references to OGL content, please review the WOTC Fan Content Policy [here](https://company.wizards.com/fancontentpolicy).  Additionally, information about the OGL (Open Game License) can be referenced on each site that is linked in this document.  
+`((End OOC))`
 
 ### __Gramail__ 
 Influence: Order, Law, Justice, Science, Vengeance†  
@@ -47,9 +51,9 @@ Temple Location: Loures City
 Worshippers: Judges, Politicians, Scholars  
 
 `((Begin OOC))`  
-Domains: Order, Unity (UA)
-Alignment: Lawful Neutral
-Power Level: Greater God
+Domains: Order [(SRD)](http://dnd5e.wikidot.com/cleric:order), Unity [(UA)](http://dnd5e.wikidot.com/cleric:unity-domain-ua)  
+Alignment: Lawful Neutral  
+Power Level: Greater God  
 Channel Divinity: Choose between Order and Unity; for 2nd level, choose between Order, Unity and Judgment - By expending one charge, your hold spells are now cast as if they were 5 levels higher and work on any living creature.  
 `((End OOC))`
 
@@ -71,9 +75,9 @@ Temple Location: Mileth
 Worshippers: Lovers, Priests, Children  
 
 `((Begin OOC))`  
-Domains: Life, Protection
-Alignment: Chaotic Good
-Power Level: Greater God
+Domains: Life [(SRD)](http://dnd5e.wikidot.com/cleric:life), Protection [(UA)](http://dnd5e.wikidot.com/cleric:protection)  
+Alignment: Chaotic Good  
+Power Level: Greater God  
 Channel Divinity: Choose between Life and Protection.  For second level, choose between Life, Protection and Rebirth - By expending one charge, you may empower Healing Word to fully heal an ally, and additionally heal the closest two allies for half the amount healed.  
 `((End OOC)) `
 
@@ -95,7 +99,7 @@ Temple Location: Rucesion
 Worshippers: Wizards, Scholars, Blacksmiths  
 
 `((Begin OOC))`  
-Domains: Knowledge, Arcana  
+Domains: Knowledge [(SRD)](http://dnd5e.wikidot.com/cleric:knowledge), Arcana [(SRD)](http://dnd5e.wikidot.com/cleric:arcana) 
 Alignment: Lawful Neutral  
 Power Level: Greater God  
 Channel Divinity: Choose between Knowledge and Arcana.  For second level, choose between Knowledge, Arcana and Gnosis - By expending one charge, you or an ally automatically gain an advantage on your next two skill checks, and treat such checks as if you had proficiency in the skill.  
@@ -119,7 +123,7 @@ Temple Location: Abel
 Worshippers: Rogues, Merchants, Adventurers   
 ```
 (( Begin OOC))
-Domains: Trickery, Twilight (UA)
+Domains: Trickery [(SRD)](http://dnd5e.wikidot.com/cleric:trickery), Twilight [(UA)](http://dnd5e.wikidot.com/cleric:twilight)
 Alignment: Lawful Neutral
 Power Level: Greater God
 Channel Divinity: Luck - By expending one charge, you or an ally may reroll a saving throw with advantage, or automatically stabilize if downed.
@@ -143,7 +147,7 @@ Temple Location: Piet
 Worshippers: Warriors, Soldiers, Huntsmen   
 
 `((Begin OOC))`  
-Domains: War, Blood (Critical Role)  
+Domains: War [(SRD)](http://dnd5e.wikidot.com/cleric:war), Blood [(CR)](http://dnd5e.wikidot.com/cleric:blood)  
 Alignment: Chaotic Neutral  
 Power Level: Greater God  
 Channel Divinity: Choose between War and Blood.  For 2nd level, choose between War, Blood and Smite - By expending one charge, you may add 2d8 damage to any melee attack that hits.  This bonus increases to 3d8 at level 5, 4d8 at level 10, and 5d8 at level 20.  
@@ -167,14 +171,14 @@ Temple Location: Dubhaim Castle
 Worshippers: The ill, the wretched, the unfortunate   
 
 `((Begin OOC))`  
-Domains: Death, Grave  
+Domains: Death [(SRD)](http://dnd5e.wikidot.com/cleric:death), Grave [(SRD)](http://dnd5e.wikidot.com/cleric:grave) 
 Alignment: True Neutral  
 Power Level: Greater God  
 Channel Divinity: Choose between Death and Grave.  For second level, choose between Death, Grave and Sgrios's Scar - By expending one charge, you mark a creature with -1 to all attributes, checks and saving throws.  This lasts until the creature has been blessed by a follower of Cail, Glioca or Deoch.  
 `((End OOC))`  
 
 #### History  
-Ascension, it seems, is not only for mortals[_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md).  Sgrios is perhaps the most curious case of ascension from one form to another.  In a lost work I discovered in the ruins north of Dubhaim Castle, a somewhat mad chronicler detailed the birth, growth and eventual rise of the entity we call Sgrios.  Starting as the most small of dubhaimid larva, the creature came into existence with an insatiable hunger.  As he ate, he grew and evolved in form, moving from larva, to gaunt, and then finally to night gaunt.  What is undetermined is how he transitioned to his current form, but the chronicler speculated that in exchange for ascension, he tore his own wings and horns off, and consumed them.
+Ascension, it seems, is not only for mortals [_(NitroTFD's "Gods de Temuair")_](../../../loures/Philosophy/NitroTFD-Gods-de-Temuair.md).  Sgrios is perhaps the most curious case of ascension from one form to another.  In a lost work I discovered in the ruins north of Dubhaim Castle, a somewhat mad chronicler detailed the birth, growth and eventual rise of the entity we call Sgrios.  Starting as the most small of dubhaimid larva, the creature came into existence with an insatiable hunger.  As he ate, he grew and evolved in form, moving from larva, to gaunt, and then finally to night gaunt.  What is undetermined is how he transitioned to his current form, but the chronicler speculated that in exchange for ascension, he tore his own wings and horns off, and consumed them.
 
 Even in his endless hunger, Sgrios knew the alliance with Chadul would be his undoing.  With the destruction of all life, Sgrios would devour all that remained and eventually starve.  With this in mind, out of necessity for survival, Sgrios struck a bargain with Deoch.  Instead of wholly consuming each spark that came to him, he would instead nibble ever so slightly before sending the spark back to grow in power.
 
@@ -195,7 +199,7 @@ Temple Location: Undine
 Worshippers: Monks, Druids, Farmers   
 
 `((Begin OOC))`  
-Domains: Nature, Martyrdom [(Homebrew)](https://www.dandwiki.com/wiki/Martyrdom_Domain_(5e_Subclass))  
+Domains: Nature [(SRD)](http://dnd5e.wikidot.com/cleric:nature), Martyrdom [(Homebrew)](https://www.dandwiki.com/wiki/Martyrdom_Domain_(5e_Subclass))  
 Alignment: True Neutral  
 Power Level: Greater God  
 Channel Divinity: Choose between Nature and Martyrdom.  For 2nd level, choose between Nature, Martyrdom and Ring of Peace - By expending one charge, you may cause an aura of peace to emanate in a 60 yard radius for 1 turn per cleric level.  Any hostile action will result in a creature within the radius being thrown forcibly outside of it upon failing a wisdom saving throw, suffering 1d8 force damage.  Succeeding on a wisdom saving throw will cause all attack rolls to be at a disadvantage.  
@@ -243,14 +247,14 @@ With the review of Gods well known and established in Temuair, now we move on to
 
 With such an introduction, we now move on to what I have coined the "Intermediate Deities".  These beings, powerful in their own right, could have stepped into the pact of the octagram, but for whatever reasons did not.  Ancient as the earthsea itself, their worship seems relegated only to insular remote communities.
 
-### __Belenus – Sun, Dawn__
+### __Belenus__
 Influence: The Sun, Dawn   
 Symbol: An emblazoned golden eye   
 Temple Location: Near Eingren Manor, in the Filth Forest 
 Worshippers: Currently none   
 
 `((Begin OOC))`  
-Domains: Light [(SRD)](http://dnd5e.wikidot.com/cleric:light))  
+Domains: Light [(SRD)](http://dnd5e.wikidot.com/cleric:light)  
 Alignment: Lawful Good  
 Power Level: Intermediate  
 Channel Divinity: Standard  
@@ -298,73 +302,133 @@ Belenus was allied with Taranis, held enmity with Mannan, and was opposed by Re.
 In legend, the blessing of an item by Belenus increased the potency of healing spells.
 
 
-### __Re – Moon, Midnight__
-Influence:   
-Symbol:   
-Temple Location:   
-Worshippers:    
+### __Re__
+Influence:  The Moon, Secrets 
+Symbol: A closed eye on a crescent moon  
+Temple Location: Niara  
+Worshippers: None currently   
 
 `((Begin OOC))`  
-Domains: [(Homebrew)](https://www.dandwiki.com/wiki/Chaos_Domain_(5e_Subclass))  
-Alignment:   
-Power Level:   
-Channel Divinity:   
+Domains: Moon [(Homebrew)](https://www.dandwiki.com/wiki/Moon_Domain_(5e_Subclass))  
+Alignment: Lawful Neutral   
+Power Level: Intermediate  
+Channel Divinity: Standard  
 `((End OOC))`
 
 #### History  
+Re was perhaps the most interesting of the intermediate gods to track down.  Ruler of the cold-hearted orb that burns the night, mistress of secrets, queen of the night, many are her names in plentiful sources.  Indeed, while references to Belenus appear to have been systematically eradicated from existence, I could barely turn a page without running across a reference to Re.  Her temple, magnificent according to the works referencing it, was located in the heart of the mighty City-State of Niara, which as we know, was destroyed sometime around Danaan 1703 [_(NitroTFD's "Niaran History")_](../../../loures/History/NitroTFD-Niaran-History.md).  
 
-#### Discovered Fragments
+Never one to shrink from a challenge, I sat out on the long journey from Loures to the ruins of Niara.  After several days journey, I came to the cliffs of Faodhail Abhainn [_(Evenue's "Iodhnadh De A Luaithre")_](../../../loures/History/Evenue-Iodhnadh-De-A-Luaithre.md).  Pausing briefly, I curse my inability as an artist.  From far away, one can still see the spires of the great city, glinting at sundown.  All of this is an illusion though, for upon approaching, the ruins of the city are devastating to behold.
+
+The very land seems cursed, soaked in the blood of dubhaimid over a millenia ago.  Even still, while abandoned, I could not help but feel I was being watched.  Locating the temple itself was easy enough, the structure in remarkably good condition compared to the ruins around it.  It took several attempts to open the door, as it appears to have been barred from the inside.
+
+What I discovered inside was breathtaking - nary a drop of dust or thing out of place inside the entire temple.  Candles still burned on the altar, and the air was chill and fresh.  I searched thoughout the temple, careful to not disturb anything lest I incur the wrath of the night queen.
+My search of the temple was fruitless.  Not only were there no written records, but there was no sign of life anywhere in the vicinity.  I can only conclude that someone from a nearby village must make the dangerous trek to maintain this shrine, as no other explanation exist.
+
+As I left the temple, a chill ran down my spine, as I looked above the doorway.  Carved in the marble, jaggedly, was the phrase "I see all and I will return".  Discretion being the better part of valor, I quickly made my way back to Loures, making sure to seal the temple tightly behind me.
 
 #### Speculations
+Even though we have detailed accounts of Re the goddess, from the many books, scrolls and tomes that escaped the destruction of Niara, all mentions of her, her faith and her temple vanish from written record around Danaan 1650.  Could the Night Queen have forseen what was to come and prepared?  From the message carved into the mantle of the temple door, one can only surmise that indeed she did.
 
 #### Relationships
+Re was allied with Mannan, held enmity with Taranis, and was opposed by Belenus.  Again, Re was a very popular subject in the Loures library, but only as a mention.  Nothing of concrete was discovered on her religion, her followers, or what happened to them.
 
+#### Blessing
+In legend, the blessing of an item by Re reduced the mana required to cast spells.
 
 ### __Mannan – Seas, Depths__
-Influence:   
-Symbol:   
-Temple Location:   
-Worshippers:    
+Influence: The Sea  
+Symbol: A silver trident   
+Temple Location: Oren  
+Worshippers: Fishermen, Sailors   
 
 `((Begin OOC))`  
-Domains: [(Homebrew)](https://www.dandwiki.com/wiki/Chaos_Domain_(5e_Subclass))  
-Alignment:   
-Power Level:   
-Channel Divinity:   
+Domains: Oceanic [(Homebrew)](https://www.dandwiki.com/wiki/Oceanic_Domain_(5e_Subclass))  
+Alignment: Neutral Good  
+Power Level: Intermediate  
+Channel Divinity: Standard  
 `((End OOC))`
 
 #### History  
+Mannan, lord of the oceans.  A name still invoked this day by sailors and fishermen alike, although I wonder if they understand why.  His temple was rather trivial to find, or what was left of it anyway.  The ruined rubble of his temple is located just as one enters the town of Oren.  Very few references were found in the Library of Loures to Mannan, but Old Baldo, a rather talkative resident of Oren, was more than happy to tell me all about what happened.
 
-#### Discovered Fragments
+The Sea Priests of Mannan were once a welcome addition to any ship leaving the port of Oren.  Their communion with the lord of the seas made for swift journeys across a calm ocean, with their endless prayers and chanting calming even the most turbulent of storms.  Indeed, unlike the other intermediate gods, Mannan's sect was uninvolved in any of the mainland wars.
+
+That is, according to Old Baldo, until the blight began.  As he recounts it, his grandfather's grandfather's grandfather was a young boy when the blight came.  At the time, Oren was a lush and green land, similar to the verdant valleys of Suomi.  Fish were plentiful in that time as well, as the sea was willing to give up much of its bounty.  All of that changed however, the day an emissary from Loures came.  He demanded tribute from the Lord of Oren, and was rebuffed.  On his way back to the harbor, the emissary chuckled as he indicated dark things would come for refusing to pay tribute to Loures, boarded his ship, and set sail.
+
+Within a week, the seas and gone from a sapphire blue to a pale green.  Fish pulled from the ocean were bitter and covered in oozing wounds.  Likewise, the land itself began to shudder and heave, as the verdant green hills gave way to the near barren ground we see today.  Indeed, much of the rubble of the earthquakes that rocked the island are still seen today - Oren was once a walled, seaside kingdom.  Now its walls lay in ruin, and its seas hostile to all who dare them.
+
+The first building to fall was the temple of Mannan.  Old Baldo recounts that nearly every one of them had gathered for mass, when the great quaking rocked the island.  It was almost as if the earth opened up to swallow the temple whole - no bodies were ever recovered.
+
+With the temple gone, and the clergy missing, the worship of Mannan fell by the wayside in favor of the gods of the octagram.  Even today, his name is muttered more as an oath than that of an invocation for aid.
 
 #### Speculations
+Again, the work of the Pact.  Could they really have caused a temple and all its priests to be swallowed up by the earth?  Even so, what dark magicks could cause a whole realm of people to turn their back on a once trusted deity?  What of Mannan himself?  Old Baldo's tale left me with more questions than answers.  I attempted to access the library in Oren, but I have been told it is closed for repairs, which is troubling, as I have received this same answer for the last ten Deochs.
+
+Perhaps one day the archives will open and more will be discovered of the fate of Mannan's worshippers.  Until then, chalk up yet another tragic victory for the Pact of Anaman.
 
 #### Relationships
+Mannan was allied with Re, held enmity with Belenus, and was opposed by Taranis.
+
+#### Blessing
+In legend, the blessing of an item by Mannan slightly increased the rate at which Aislings gained insight.
 
 
-### __Taranis – Skies, Storms__
-Influence:   
-Symbol:   
-Temple Location:   
-Worshippers:    
+### __Taranis__
+Influence: Sky, Storms  
+Symbol: A green lightning bolt  
+Temple Location: Somewhere near the fallen Dwarven Kingdom   
+Worshippers:  Dwarves?   
 
 `((Begin OOC))`  
-Domains: [(Homebrew)](https://www.dandwiki.com/wiki/Chaos_Domain_(5e_Subclass))  
-Alignment:   
-Power Level:   
-Channel Divinity:   
+Domains: Tempest [(SRD)](http://dnd5e.wikidot.com/cleric:tempest)  
+Alignment: Neutral Good  
+Power Level: Intermediate  
+Channel Divinity: Standard  
 `((End OOC))`
 
 #### History  
+While the other three temples had some interesting challenges in learning more about them, the temple of Taranis was both the easiest and most difficult:  I know exactly where it is.  However, between myself and the temple of Taranis is a sheer mountainside where the entrance to the dwarven kingdom Khoreduhr once stood [_(Angelique's "Àraidhe")_](../../../loures/History/Angelique-Àraidhe.md).  Diagrams of the Khoreduhr were provided in great detail to the Library of Loures, including several maps dated prior to the fall of the Kingdom in the fifth Aeon.
 
-#### Discovered Fragments
+What is not available, however unfortunately, is a method to actually enter Khoreduhr.  After many fruitless days searching the location of the former entrance, I was forced to give up after being attacked by a band of wraiths just beyond midnight - my mistake for choosing to venture there so close to the anniversary of the last battle and inevitable demise of the dwarven stronghold.
 
+Taranis, however, is the most peculiar of the intermediate gods, if not indeed all the gods.  A dwarven deity, of the sky?  Worshipped by mundanes and Aislings?  I surmise that perhaps a settlement in close proximity to the Khoreduhr would have perhaps picked up the faith through trade with the kingdom, blossomed and grown, and eventually vanished alongside any villages.  When the dubhaimid attacked Khoreduhr, they cut a swath of destruction through the landscape - I saw no traces of settlements along the trail I followed to the entrance.
+
+Of interest, it seems liturgical chaning was a part of the faith. Scribed on the back of a map in the Loures Library, I discovered what is called the "Litany of Storms":
+```
+Blessed is the lord of storms
+for his is the way of salvation
+Blessed is his hammer
+for it is the path to purification
+Blessed is the north wind
+for it brings the cool air in the summer
+Blessed is the south Wind
+for it brings the warm air in the winter
+Blessed are the rains
+for they are his gifts to us
+Blessed are the those who rise before us
+for they are his challenge
+Blessed are those who fall before us
+for they are our gifts to him
+```
 #### Speculations
+With the fall of Khoreduhr and the annhilation of the countryside leading to it, it is hard to imagine that the worship of Taranis has survived in any meaningful form.  Still, no one has set foot inside of Khoreduhr for countless generations - perhaps some of the dwarves survived and worship him still.
 
 #### Relationships
-
+Taranis was allied with Belenus, held enmity with Re, and was opposed by Mannan.
 
 ### __Relations between Intermediate Deities__
+Much like the deities of the octagram, the interactions between gods takes a rational shape:  
+![Interactions](images/sabrael_gods.png)
+
+Key:
+|Color|Meaning|
+|-|-|
+|Red|Opposition|
+|Green|Allied|
+|Orange|Enmity|
+
+Through this simple chart, we can see the alliances, enmities and oppositions each of the intermediate gods represent in this microcosm of theology.  Unlike the gods of the octagram, however, this diagram serves no other purpose than educational - these gods are not standing on top of some form of medium evil!  At least, let us hope so, as they have seemingly vanished.
 
 ## Lesser Deities
 ### __Trinity of Order - Dioltas, Vengeance, Ceartas, Justice, Ailceimic, Science__
