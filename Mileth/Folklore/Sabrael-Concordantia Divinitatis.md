@@ -431,14 +431,40 @@ Key:
 Through this simple chart, we can see the alliances, enmities and oppositions each of the intermediate gods represent in this microcosm of theology.  Unlike the gods of the octagram, however, this diagram serves no other purpose than educational - these gods are not standing on top of some form of medium evil!  At least, let us hope so, as they have seemingly vanished.
 
 ## Lesser Deities
-### __Trinity of Order - Dioltas, Vengeance, Ceartas, Justice, Ailceimic, Science__
-### __Trinity of Life - Aine, Love, Luibhlia, Herbalism, Eriu, Fae__
-### __Trinity of Esotericism - Goibhniu, Smithing, Oghma, Chronicler, Andraste, Divination__
-### __Trinity of Adventure - Rathunas, Prosperity, Ciocras, Desire, Oiche Shadows__
-### __Trinity of Victory - Cernunnos, The Hunt, Nemain, Carnage, Nuada, Conquest__
-### __Trinity of Entropy - Balor, Death, Elphane, Disease, Arawn, Famine__
-### __Trinity of Nature - Sucellus, Agriculture, Dunatis, Mountains, Cernunnos, Forests__
-### __Trinity of Chaos - Branwen, Passion, Arianrhod, Rebirth, Taliesen, Songs__
+One of the more fascinating finds I discovered on my journeys was tucked away in an old book I purchased from a merchant I met on the road during one of my many trips to Deochs Temple. Folded neatly and stuffed in the back of the book, there was a chart of several lesser deities that are bound in service to the Gods of the octagram.  In several detailed diagrams, the unknown author described both their relation and function!  Even more exciting was to discover that these deities seemingly matched up to the various sects described by Aphrodite’s [_Sects of Temuairan Faith_](../../../loures/Philosophy/Aphrodite-Sects-of-Temuairan-Faith.md):
+
+|Name|Influence|Symbol|Servitor To|Trinity|
+|-|-|-|-|-|
+|Dioltas|Vengeance|Executioner's Hood|Gramail|Order|
+|Ceartas|Justice|Blindfold|Gramail|Order|
+|Ailceimic|Alchemy|Potion|Gramail|Order
+|Goibhniu|Smithing|Hammer|Luathas|Esotericism|
+|Oghma|Chronicles|Open Book|Luathas|Esotericism|
+|Andraste|Divination|Blue Star|Luathas|Esotericism|
+|Aine|Love|Rose|Glioca|Life|
+|Luibhlia|Herbalism|Sevti Blossom|Glioca|Life|
+|Eriu|Fae|Green Heart|Glioca|Life|
+|Rathunas|Prosperity|Sack of Coins|Fiosachd|Adventure|
+|Ciocras|Desire|Red Slash|Fiosachd|Adventure|
+|Oiche|Shadows|Purple Mask|Fiosachd|Adventure|
+|Cernunnos|The Hunt|Bow|Ceannlaidir|Victory|
+|Nemain|Carnage|Dagger|Ceannlaidir|Victory|
+|Nuada|Conquest|Pennant|Ceannlaidir|Viictory|
+|Balor|Death|Scythe|Sgrios|Entropy|
+|Elphane|Disease|Yellow Skull|Sgrios|Entropy|
+|Arawn|Famine|Sack of Grain|Sgrios|Entropy|
+|Viridios|Agriculture|Corn|Cail|Nature|
+|Dunatis|Mountains|Talos|Cail|Nature|
+|Sucellus|Forests|Fern|Cail|Nature|
+|Branwen|Passion|Wine Cask|Deoch|Chaos|
+|Arianrhod|Rebirth|Orange Circle|Deoch|Chaos|
+|Taliesen|Songs|Lute|Deoch|Chaos|
+
+These various lesser deities seem to be the primary way in which interactions with Aislings are conducted currently.  With much of their attention focused on maintaining the great seal, these gods serve as messengers of sorts.  Locating examples of their direct worship was not successful, which leads me to wonder - are these separate beings, or simple avatars taken on by the gods of the Octagram?  In truth, each seems to represent a different aspect of the god they serve.  However, whether separate beings or simply forms taken, there is definitive proof they exist.
+
+Various oaths and exclaimations from throughout the lands invoke these deities, such as the phrase "That one has been kissed by Aine", when describing a young person in love, or "By Oghma, what was I just going to write down?" - a phrase I have often used myself!  Small signs of each god can be seen throughout Temuair - each smith hangs the symbol of Goibhniu outside their door.  In taverns, Branwen's name is not far from the lips of drunkards and revelrers alike.  Any who have ventured into the Shinewood forest can tell you of the fae that abound there, even one that will speak to Aislings.  Is this Eriu?  She did not seem to respond to that name when I called out to her, but the fae, ever capricious, could have simply been toying with me.
+
+A relatively obscure, but fortunate find on my part - I still endeavor to research more of each of these gods as I find the topic fascinating!
 
 ## Gods of the Wilds
 ### __The Seasons - Earrach, Spring, Caithim, Winter, Fomhar, Autumn, Samradh, Summer__
