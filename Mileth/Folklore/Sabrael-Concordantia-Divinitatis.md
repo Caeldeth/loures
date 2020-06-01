@@ -1,7 +1,7 @@
 # Concordantia Divinitatis
 _by Sabrael in_ ___Dark Ages___
 
-## Preface
+## Prologue
 In my many travels throughout these lands, the study of the divine has always fascinated me.  A gift, inquisitiveness, the torment and delight of those licked by the flames of Deoch. Inspiration has led me through many a daring adventure, delving the deepest of ruins and conquering the most formidable of libraries, all in a quest to record the nature of our cosmology for all to observe, wonder over and seek inspiration from.
 
 ### __Quotations__
@@ -326,7 +326,7 @@ Worshippers: None currently
 
 `((Begin OOC))`  
 Domains: Moon [(Homebrew)](https://www.dandwiki.com/wiki/Moon_Domain_(5e_Subclass))  
-Alignment: Lawful Neutral   
+Alignment: Chaotic Good   
 Power Level: Intermediate  
 Channel Divinity: Standard  
 `((End OOC))`
@@ -579,7 +579,7 @@ Channel Divinity: Standard
 #### History
 Ancient and terrible, the Dagdha was also known as the all-father, and was surmised to be the first god of the Earthsea pantheon. There are conflicting accounts of the rise of the Dagdha - in some instances, he is said to have risen from the corpse of Grinneal; while in others, he is claimed to have always existed.  In both instances, however, he is called the son of Grinneal - whether this is a factual description of his lineage or yet another of his many titles is unclear.
 
-As the ruler of the Earthsea gods, the Dagdha was the first to rise to the challenge of Chadul.  Answering his call to battle, the Daghda and Chadul waged war for over a decade, with the night sky filled with flashing lights, and meteors raining down upon the lands.  In the end, it was for naught, as Chadul severed the Dagdha's head from his body, and consumed him.  The records I located chronicling this battle have no date, but the librarians assure me this happened before the rise of Danaan, around the 5th Grinneal.  Like his father before him, the Daghda perished at the hands of Chadul.  
+As the ruler of the Earthsea gods, the Dagdha was the first to rise to the challenge of Chadul.  Answering his call to battle, the Daghda and Chadul waged war for over a decade, with the night sky filled with flashing lights, and meteors raining down upon the lands.  In the end, it was for naught, as Chadul severed the Dagdha's head from his body, and consumed him.  The records I located chronicling this battle have no date, but the librarians assure me this happened in  Sixth Aeon.  Like his father before him, the Daghda perished at the hands of Chadul.  
 
 #### Speculations
 
@@ -738,11 +738,38 @@ Of all the foul gods of Kadath, none hold more horror than Neamhghlan, the uncle
 
 How fortunate for us that in joining the Gods of the Octagram, Sgrios seemingly keeps this horrible entity at bay, distracting it with scraps from his endless meals.  Should something ever happen to Sgrios, all that is good in the world may rot and decay away into filth and emptiness.
 
-
 ## Prime Gods
+No discussion of theology would be complete without addressing the two deities which have most shaped the recent world.  As many works have discussed both deities in some detail, I will provide a selection of works which cover both deities in far greater detail than this work could, and focus on both deities' position in the cosmology instead.  
+
+* [_Eochaidh's "The Annals of Dawn"_](../../../loures/History/Eochaidh-The-Annals-Of-Dawn.md)
+* [_Miakado's "Scrolls of Danaan"_](../../../loures/History/Mikado-Scrolls-Of-Danaan.md)
+* [_Etienne's "De Obscurite et Lumiere"_](../../../loures/Philosophy/Etienne-De-Obscurite-et-Lumiere.md)
+* [_Etienne's "Penombre"_](../../../loures/Philosophy/Etienne-Penombre.md)
+* [_Daravon's "Treatise on the Nature of the Dark Masters"_](../../../loures/Philosophy/Daravon-Treatise-on-the-Nature-of-the-Dark-Masters.md)
+* [_Xilan's "Dusgadh de Chadul"_](../../../loures/Philosophy/Xilan-Dusgadh-de-Chadul.md)
+* [_Etna's "The Evolution of the Daemon Anaman"_](../../../loures/History/Etna-The-Evolution-Of-The-Daemon-Anaman.md)
+* [_Klaudaryn's "The Coming Dawn"_](../../../loures/Philosophy/Klaudaryn-The-Coming-Dawn.md)
+* [_Swanberg's "The Birth of the Daemon Anaman"_](../../../loures/History/Swanberg-The-Birth-Of-The-Daemon-Anaman.md)
+* [_Arachne's "Medenia: Genesis"_](../../../loures/Philosophy/Arachne-Medenia-Genesis.md)
+* [_Napie's "Shadows of Aosda"_](../../../loures/History/Napie-Shadows-Of-Aosda.md)
+
 ### __Danaan__
+The arrival of Danaan began a new age on the Earthsea [_("Timeline of Temuair")_](http://www.darkages.com/community/his/Timeline.html).  The eternal question though, is where did she arrive from?  Clearly not one of the seven spirits guided here by the ancient Aosdans, her arrival appears to be a mystery.  In Arachne's work [_("Medenia: Genesis")_](../../../loures/Philosophy/Arachne-Medenia-Genesis.md), a tale of a young maiden making an exodus from the land of Medenia to the West, with followers in tow, strikes an interesting parallel between the arrival of Danaan and the Tuatha.  Indeed, no map in all of recorded history, that is still available to us shows anything that remotely resembles the land of Medenia.  I would speculate that Medenia is not just a long journey across the ocean, but indeed to an entirely different world.  Even with this speculation, Arachne's work indicates that Dana appeared in those lands mysteriously as well.  Perhaps then, an eternal chase was had, with Chadul following her from world to world, until she reached the Earthsea.
+
+Why these lands were chosen for her final confrontation is unknown, but surely the Gods of the Octagram must have played a part in the decision.  The lands of Medenia are godless, with only token stewardship by a handful of elemental spirits, but here, in the Earthsea, divinity abounds.
+
 ### __Chadul__
+In the [_"Timeline of Temuair"_](http://www.darkages.com/community/his/Timeline.html), we are told that the birth of Chadul occurred in Danaan 1813.  How then, did he dispose of the Dagdha, Mathonwy and Lugh prior to this date?  Indeed, the defeat of the Dagdha was said to have occurred in the Sixth Aeon - Chadul was birthed in the Seventh Aeon.  Likewise, a figure that one would unarguably identify as Chadul was seen in Medenia, prior to the Sixth Aeon, if one is to believe the two figures in Arachne's work are indeed Chadul and Danaan.
+
+As a proposition, I surmise that the entity we know as Chadul followed a similar trajectory to Sgrios's evolution.  Perhaps chosen as the avatar of Chadul from... hatching, I suppose?  This would empower the creature to devour its kin, and eventually consume the essences of the Dagdha, Mathonwy, and Lugh, leading to its ascension, or "birth", in Danaan 1813.  Interestingly, the timeline indicates Danaan 1813 as the same year of "The decay of the Grinneal" - is it possible that what remained of the dead deity was fully consumed by Chadul's ascension?
+
+Of caution, this theory presents a nice tying up of a millennia of loose ends into a nice, easily understood package.  If I've learned anything from being bored to tears by the lecturing of Gramailians, it is that complex problems require complex solutions.  Yet all of this points towards Lord Deoch's grand design.  Surely, if any could provide such a marvelous solution to last through the aeons, it would be our Lord Deoch.
 
 ## Other Gods
+In this work, we have focused on the gods of Aosdans, Mundanes and Aislings alike, with a brief nod to an arguably dwarven deity and one demi-god of the Grimlok.   Dozens of other races abound throughout Temuair - the Goblin, the Kobold, the Eldar, the Fae, the Dwarves, and so on and so forth.  If we, the inheritors of Aosda and children of Danaan have so many deities, it would be incredulous to think that these other races do not as well.  However, for this great work, the understanding of our own divinity is paramount.  Indeed, how can we begin to understand the divine of the other races, if we do not understand our own?
 
-# Epilogue
+With that, some reference to the gods of other races exist in the library today.  Ramanayan, in his work [_"Chaos Ascendant"_](../../../loures/History/Ramanayan-Chaos-Ascendant.md), tells us of the worship of an "all-mother" by the Kobolds (Arpina), the "lady of gold" by the Grimlok (Adranuch), and the "Sun-Heart" by the Mukul (Matrika).  Ramanayan speculates that that each of these is only an incarnation or translation of Danaan, but I did not see much rigor in this speculation beyond a footnote.  Likewise, Dartanian, who has studied the Mukul in detail [_( "The Greater Evil";_](../../../loures/History/Dartanian-The-Greater-Evil.md)[_"Conjectures on Mukul Society")_](../../../loures/Philosophy/Dartanian-Conjectures-on-the-Mukul-Society.md), tells of the Mukul deity Natesh, the guardian of the flowers within the Mehadi swamp.  A terrible deity, Natesh demands sacrifices, both from the living and the flowers under his care, or shares his displeasure.  He is speculated, with perhaps much more rigor, to be Chadul, but is he?
+
+Perhaps my next journey will be to examine the divine from the eyes of the other races of the Earthsea.  Or, perhaps, to chastise the gaggle of Oren clerks that keep me from the library!
+
+## Epilogue
