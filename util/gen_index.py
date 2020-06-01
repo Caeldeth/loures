@@ -16,7 +16,9 @@ LOST = "![This work has been lost](../images/questionmark.png) "
 
 header = open("{}.md".format(sys.argv[1])).read()
 
-for fname in glob.glob(os.path.join('../', sys.argv[1], "*.md")):
+f = glob.glob(os.path.join('../', sys.argv[1], "*.md"))
+f.sort()
+for fname in f:
     mdfile = os.path.basename(fname)
     # Author
     components = mdfile.split('-')

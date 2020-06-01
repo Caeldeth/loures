@@ -28,7 +28,6 @@ All entries should begin with the following header:
 # <Title of Work>
 
 _by First Name Of Character in **Dark Ages**_  
-_Titles / Date of Entry / Etc_
 
 ```
 
@@ -38,8 +37,7 @@ Example:
 # A Guide to Derping
 
 _by Angelique in **Dark Ages**_
-_Holder of the Sacred Chalice of Riix_  
-_Deoch 151_
+
 ```
 
 would render as:
@@ -47,8 +45,19 @@ would render as:
 # A Guide to Derping
 
 _by Angelique in **Dark Ages**_  
+
+Any titles of the author, dates, last names, etc should go at the very bottom
+of the work, before the footer, in italics. For instance:
+
+```
 _Holder of the Sacred Chalice of Riix_  
-_Deoch 151_
+_Deoch 151, Spring_
+```
+
+would render as 
+
+_Holder of the Sacred Chalice of Riix_  
+_Deoch 151, Spring_
 
 Remember to end lines with forced breaks with two spaces (see below).
 
@@ -59,7 +68,7 @@ Remember to end lines with forced breaks with two spaces (see below).
   follows: `html2text --unicode-snob --decode-errors=replace foobar.html >
   foobar.md`
 
-* Lines should not be overly long. Less than 80 characters.
+* Lines should not be overly long. Less than 80 characters is preferred.
 
 * Markdown elements (paragraphs, headers, etc) should only be separated by one
   blank line. In general, ALL text should not require or use newlines as
@@ -175,8 +184,8 @@ Remember to end lines with forced breaks with two spaces (see below).
 
 ### Footer
 
-We use consistent footers throughout all entries. The current format is as
-follows:
+We use a consistent footer throughout all entries, which can [be found here](../util/generic-footer.md).
+The current format is as follows:
 
     ***
     
@@ -185,8 +194,8 @@ follows:
 
 	[Treasure text]
 	
-    This entry has been edited to conform to Library formatting.
-    The original can be found at [URL] .
+    This entry has been [heavily] edited to conform to Library formatting.
+    [Source information] 
     ```
 
 This renders as:
@@ -204,8 +213,25 @@ For a work that is a treasure of Temuair, indicate that with
 
 `This work is one of the greatest treasures of Temuair.` 
 
-in place of `[Treasure text]` above. The URL for the original work should
-replace `[URL]`.
+in place of `[Treasure text]` above.
+
+`[Source information]` should be replaced by the following:
+
+`The original can be found at [URL]`
+
+The URL for the original work should replace `[URL]`. If the URL is not
+available, dead, or lost to the ravages of Internet time, you can use the
+following text to indicate that:
+
+`The original copy of this document was lost. It has been reconstructed from fragments.`
+
+For documents that have been heavily edited due to either loss of source material or
+due to Library standards, you can indicate that by putting `heavily edited` in the notes.
+
+An actual note by an editor or contributor themselves can be rendered with
+three initials and the note, such as:
+
+`KTN: fix this godawful formatting`
 
 ## Acceptable Terminology
 

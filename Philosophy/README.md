@@ -28,6 +28,7 @@ you have these works, by all means, get in touch with us._
 | Aphrodite          | [Sects of Temuairan Faiths: Theoretical Variations in Worship](Aphrodite-Sects-of-Temuairan-Faith.md)                            |
 | Arachne            | [A Treatise on Lost Forms of Magic](Arachne-A-Treatise-on-Lost-Forms-of-Magic.md)                                                |
 | Arilin             | ![This work has been lost](../images/questionmark.png) [The Birth of Cail](Arilin-The-Birth-of-Cail.md)                                                                                 |
+| Arioch             | [The Magical Potential of Dubhaimid and Darkness](Arioch-The-Magical-Potential-of-Dubhaim-and-Darkness.md)                       |
 | Artadelanmir       | [Theological Integration of an Aisling](Artadelanmir-Theological-Integration-of-an-Aisling.md)                                   |
 | Aselus             | ![This work has been lost](../images/questionmark.png) [Sensa de Draco](Aselus-Sensa-de-Draco.md)                                                                                       |
 | Ashnod             | ![This work has been lost](../images/questionmark.png) [Tuatha de Chimmerian](Ashnod-Tuatha-de-Chimmerian.md)                                                                           |
