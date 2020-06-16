@@ -1277,6 +1277,8 @@ Upon entering the Mileth Tavern, they sat and ordered their drinks. "A round of 
 ```
 *Librarian Notes*
 
+This work is one of the greatest treasures of Temuair.
+
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2000/community/lore/Lethalia_Library/library.htm .
 ```

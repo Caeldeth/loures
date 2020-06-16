@@ -745,6 +745,8 @@ _Nenya_
 ```
 *Librarian Notes*
 
+This work is one of the greatest treasures of Temuair.
+
 This entry has been edited to conform to Library formatting.
 The original can be found at http://www.darkages.com/2002/community/lore/Angelic_Beast/index.html .
 ```
