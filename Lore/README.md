@@ -1,4 +1,4 @@
-# Aisling Philosophy
+# Aisling Lore
 
 Lore. Knowledge of Temuair. You'll learn many practical things here;
 from Temuairan herbs to Temuairan politics. You may need it to
